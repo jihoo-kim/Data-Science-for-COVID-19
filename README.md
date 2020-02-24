@@ -19,3 +19,9 @@
   - *released*: 격리 해제 (퇴원)
   - *dead*: 사망
   
+### 참고 사이트
+- [질병관리본부 공식 홈페이지](http://www.cdc.go.kr/) (정부)
+- [코로나바이러스감염증-19 공식 홈페이지](http://ncov.mohw.go.kr/) (정부) 
+- [코로나맵](https://coronamap.site/) (민간)
+- [코로나19(COVID-19) 실시간 상황판](https://wuhanvirus.kr/) (민간)
+- [코로나바이러스감염증-19/경과/대한민국 확진자 현황](https://namu.wiki/w/%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4%EA%B0%90%EC%97%BC%EC%A6%9D-19/%EA%B2%BD%EA%B3%BC/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%20%ED%99%95%EC%A7%84%EC%9E%90%20%ED%98%84%ED%99%A9) (나무위키)
