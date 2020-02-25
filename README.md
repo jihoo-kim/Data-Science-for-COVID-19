@@ -13,6 +13,9 @@
 - ***country***: 국적
 - ***region***: 주 활동 지역 (광역시/도 단위)
   - *capital area*: 수도권 (서울특별시 및 경기도)
+- ***group***: 특정 집단 관련
+  - *Shincheonji Church*: 신천지 관련
+  - *Onchun Church*: 온천 교회 관련
 - ***infection_reason***: 감염 경로
 - ***infection_order***: 감염 차수 (n차 감염)
 - ***contact_number***: 접촉자 수
