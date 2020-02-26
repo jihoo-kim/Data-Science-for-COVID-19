@@ -11,6 +11,9 @@
 - ***sex***: 성별
 - ***birth_year***: 출생 연도
 - ***country***: 국적
+  - *Korea*: 한국
+  - *China*: 중국
+  - *Mongolia*: 몽골
 - ***region***: 주 활동 지역 (광역시/도 단위)
   - *capital area*: 수도권 (서울특별시/인천광역시/경기도)
   - *Busan*: 부산
