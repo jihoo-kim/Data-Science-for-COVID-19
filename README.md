@@ -11,17 +11,17 @@
 - ***sex***: 성별
 - ***birth_year***: 출생 연도
 - ***country***: 국적
-  - *Korea*: 한국
+  - *Korea*: 대한민국
   - *China*: 중국
   - *Mongolia*: 몽골
 - ***region***: 주 활동 지역 (광역시/도 단위)
   - *capital area*: 수도권 (서울특별시/인천광역시/경기도)
   - *filtered at airport*: 공항 검역 이후 활동하지 않은 경우
-  - *Busan*: 부산
-  - *Daegu*: 대구
-  - *Daejeon*: 대전
-  - *Gwangju*: 광주
-  - *Ulsan*: 울산
+  - *Busan*: 부산광역시
+  - *Daegu*: 대구광역시
+  - *Daejeon*: 대전광역시
+  - *Gwangju*: 광주광역시
+  - *Ulsan*: 울산광역시
   - *Gangwon-do*: 강원도
   - *Chungcheongbuk-do*: 충청북도
   - *Chungcheongnam-do*: 충청남도
@@ -44,11 +44,11 @@
 - ***infected_by***: 해당 확진자의 감염원 id
 - ***contact_number***: 접촉자 수
 - ***confirmed_date***: 확진 일자
-- ***released_date***: 격리 해제 일자
+- ***released_date***: 퇴원 일자 (격리 해제)
 - ***deceased_date***: 사망 일자
 - ***state***: 상태
-  - *isolated*: 격리 (입원)
-  - *released*: 격리 해제 (퇴원)
+  - *isolated*: 입원 (격리)
+  - *released*: 퇴원 (격리 해제)
   - *deceased*: 사망
 
 ***
