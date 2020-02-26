@@ -16,8 +16,10 @@
 - ***group***: 특정 집단 관련
   - *Shincheonji Church*: 신천지 관련
   - *Onchun Church*: 온천 교회 관련
+  - *Pilgrimage*: 이스라엘 성지순례 관련
 - ***infection_reason***: 감염 경로
 - ***infection_order***: 감염 차수 (n차 감염)
+- ***infected_by***: 해당 확진자의 감염원 id
 - ***contact_number***: 접촉자 수
 - ***confirmed_date***: 확진 일자
 - ***released_date***: 격리 해제 일자
