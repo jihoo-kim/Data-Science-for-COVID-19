@@ -13,6 +13,19 @@
 - ***country***: 국적
 - ***region***: 주 활동 지역 (광역시/도 단위)
   - *capital area*: 수도권 (서울특별시/인천광역시/경기도)
+  - *Busan*: 부산
+  - *Daegu*: 대구
+  - *Daejeon*: 대전
+  - *Gwangju*: 광주
+  - *Ulsan*: 울산
+  - *Gangwon-do*: 강원도
+  - *Chungcheongbuk-do*: 충청북도
+  - *Chungcheongnam-do*: 충청남도
+  - *Jeollabuk-do*: 전라북도
+  - *Jeollanam-do*: 전라남도
+  - *Gyeongsangbuk-do*: 경상북도
+  - *Gyeongsangnam-do*: 경상남도
+  - *Jeju-do*: 제주도
 - ***group***: 특정 집단 관련
   - *Shincheonji Church*: 신천지 관련
   - *Onchun Church*: 온천 교회 관련
