@@ -44,7 +44,7 @@
 - ***infected_by***: 해당 확진자의 감염원 id
 - ***contact_number***: 접촉자 수
 - ***confirmed_date***: 확진 일자
-- ***released_date***: 퇴원 일자 (격리 해제)
+- ***released_date***: 퇴원 일자 (격리 해제 일자)
 - ***deceased_date***: 사망 일자
 - ***state***: 상태
   - *isolated*: 입원 (격리)
