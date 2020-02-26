@@ -16,6 +16,7 @@
   - *Mongolia*: 몽골
 - ***region***: 주 활동 지역 (광역시/도 단위)
   - *capital area*: 수도권 (서울특별시/인천광역시/경기도)
+  - *filtered at airport*: 공항 검역 이후 활동하지 않은 경우
   - *Busan*: 부산
   - *Daegu*: 대구
   - *Daejeon*: 대전
@@ -34,6 +35,11 @@
   - *Onchun Church*: 온천 교회 관련
   - *Pilgrimage*: 이스라엘 성지순례 관련
 - ***infection_reason***: 감염 경로
+  - *visit to OOO*: OOO 방문
+  - *contact with patient*: 국내 확진자와 접촉
+  - *contact with patient in OOO*: 해외 확진자와 접촉
+  - *residence in Wuhan*: 중국 우한 거주
+  - *pilgrimage to Israel*: 이스라엘 성지순례
 - ***infection_order***: 감염 차수 (n차 감염)
 - ***infected_by***: 해당 확진자의 감염원 id
 - ***contact_number***: 접촉자 수
