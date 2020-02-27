@@ -64,7 +64,7 @@
 - ***id***: 확진자의 id (n번째 확진자) 
 - ***date***: 일자
 - ***province***: 특별시/광역시/도
-- ***city***: 시/군
+- ***city***: 시/군/구
 - ***visit***: 방문한 장소 (종류)
   - *airport*: 공항
   - *hospital_isolated*: 격리된 병원
