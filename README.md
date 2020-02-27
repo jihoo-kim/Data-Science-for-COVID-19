@@ -39,6 +39,7 @@
   - *Shincheonji Church*: 신천지 관련
   - *Cheongdo Daenam Hospital*: 청도대남병원 관련
   - *Onchun Church*: 온천 교회 관련
+  - *Myungsung Church*: 명성 교회 관련
   - *Pilgrimage*: 이스라엘 성지순례 관련
 - ***infection_reason***: 감염 경로
   - *visit to ooo*: 감염 위험 나라/도시 방문
