@@ -65,6 +65,19 @@
 - ***province***: 특별시/광역시/도
 - ***city***: 시/군
 - ***visit***: 방문한 장소 (종류)
+  - *airport*: 공항
+  - *hospital_isolated*: 격리된 병원
+  - *hospital*: 대형급 병원 또는 보건소
+  - *clinic*: 의원급 병원 
+  - *hotel*: 호텔
+  - *store*: 상점
+  - *restaurant*: 식당
+  - *cafe*: 카페 
+  - *house*: 집 
+  - *bus_terminal*: 버스 터미널
+  - *movie_theater*: 영화관
+  - *hair_salon*: 미용실
+  - *etc*: 기타 방문 장소 
 - ***latitude***: 위도
 - ***longitude***: 경도
 
