@@ -1,10 +1,13 @@
 # Coronavirus-Dataset
 - **코로나바이러스감염증-19 (COVID-19)** 국내 확진자 정보를 데이터 분석에 용이하도록 CSV 파일로 재가공하였습니다.
+
+
+  > patient.csv: 1766명의 확진자에 대한 정보 (2020년 2월 27일 16시 기준)  
+  > route.csv: 확진자들의 이동 경로에 대한 정보
 - 아직 확인되지 않은 정보는 추후에 업데이트할 예정입니다.
 - kaggle Data에도 공개되어 있습니다. [Coronavirus-Dataset](https://www.kaggle.com/kimjihoo/coronavirusdataset) 
 
-> patient.csv: 1766명의 확진자에 대한 정보 (2020년 2월 27일 16시 기준)  
-> route.csv: 확진자들의 이동 경로에 대한 정보
+
 
 ***
 
