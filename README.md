@@ -3,7 +3,7 @@
 - 아직 확인되지 않은 정보는 추후에 업데이트할 예정입니다.
 - kaggle Data에도 공개되어 있습니다. [Coronavirus-Dataset](https://www.kaggle.com/kimjihoo/coronavirusdataset) 
 
-> patient.csv: 1766명의 확진자에 대한 정보 (2020년 2월 27일 16시 기준)
+> patient.csv: 1766명의 확진자에 대한 정보 (2020년 2월 27일 16시 기준)  
 > route.csv: 확진자들의 이동 경로에 대한 정보
 
 ***
