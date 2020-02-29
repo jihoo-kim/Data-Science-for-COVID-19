@@ -78,6 +78,7 @@
   - *bus_terminal*: 버스 터미널
   - *movie_theater*: 영화관
   - *hair_salon*: 미용실
+  - *church*: 교회
   - *etc*: 기타 방문 장소 
 - ***latitude***: 위도
 - ***longitude***: 경도
