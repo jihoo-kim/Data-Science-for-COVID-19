@@ -25,3 +25,14 @@ id,date,province,city,visit,latitude,longitude
 5,2020-01-28,Seoul,Gangnam-gu,etc,37.523938,127.046554
 5,2020-01-29,Seoul,Jungnang-gu,hospital,37.60677,127.092697
 5,2020-01-30,Seoul,Jungnang-gu,hospital_isolated,37.613102,127.098658
+6,2020-01-22,Seoul,Gangnam-gu,restaurant,37.527728,127.03236
+6,2020-01-26,Seoul,Jongno-gu,church,37.58754,127.000047
+6,2020-01-30,Seoul,Jongno-gu,hospital_isolated,37.579678,126.998945
+7,2020-01-23,Incheon,Jung-gu,airport,37.460459,126.44068
+7,2020-01-31,Seoul,Jungnang-gu,hospital_isolated,37.613102,127.098658
+8,2020-01-23,Incheon,Jung-gu,airport,37.460459,126.44068
+8,2020-01-25,Seoul,Seocho-gu,restaurant,37.491149,127.011767
+8,2020-01-26,Jeollabuk-do,Gunsan-si,restaurant,35.986967,126.708147
+8,2020-01-27,Jeollabuk-do,Gunsan-si,clinic,35.968603,126.716109
+8,2020-01-28,Jeollabuk-do,Gunsan-si,hospital,35.955681,126.711961
+8,2020-01-29,Jeollabuk-do,Gunsan-si,market,35.982998,126.734919
