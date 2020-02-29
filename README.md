@@ -71,7 +71,8 @@
   - *hospital*: 대형급 병원 또는 보건소
   - *clinic*: 의원급 병원 
   - *hotel*: 호텔
-  - *store*: 상점
+  - *store*: 소형 가게
+  - *market*: 대형 마트
   - *restaurant*: 식당
   - *cafe*: 카페 
   - *house*: 집 
