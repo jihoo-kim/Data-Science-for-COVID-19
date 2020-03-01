@@ -78,6 +78,7 @@
   - *cafe*: 카페 
   - *house*: 집 
   - *bus_terminal*: 버스 터미널
+  - *train_station*: 기차역
   - *movie_theater*: 영화관
   - *hair_salon*: 미용실
   - *church*: 교회
