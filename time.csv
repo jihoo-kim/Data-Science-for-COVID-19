@@ -1,4 +1,4 @@
-date,acc_test,acc_negative,acc_confirm,acc_release,acc_decease,new_test,new_negative,new_confirm,new_release,new_decease
+date,acc_test,acc_negative,acc_confirmed,acc_released,acc_deceased,new_test,new_negative,new_confirmed,new_released,new_deceased
 2020-01-20,1,0,1,0,0,1,0,1,0,0
 2020-01-21,1,0,1,0,0,0,0,0,0,0
 2020-01-22,4,3,1,0,0,3,3,0,0,0
