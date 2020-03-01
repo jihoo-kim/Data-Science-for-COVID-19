@@ -361,7 +361,7 @@ id,sex,birth_year,country,region,group,infection_reason,infection_order,infected
 360,male,1959,Korea,capital area,,,,,,2020-02-22,,,isolated
 361,male,1999,Korea,capital area,,visit to Daegu,,,,2020-02-22,,,isolated
 362,male,1956,Korea,capital area,,contact with patient,6,30,,2020-02-22,,,isolated
-363,female ,1993,Korea,Ulsan,Shincheonji Church,visit to Daegu,,,,2020-02-22,,,isolated
+363,female,1993,Korea,Ulsan,Shincheonji Church,visit to Daegu,,,,2020-02-22,,,isolated
 364,,,Korea,,,,,,,2020-02-22,,,isolated
 365,,,Korea,capital area,,contact with patient,,161,,2020-02-22,,,isolated
 366,male,1999,Korea,Gangwon-do,,visit to Daegu,,,,2020-02-22,,,isolated
@@ -510,7 +510,7 @@ id,sex,birth_year,country,region,group,infection_reason,infection_order,infected
 509,,,Korea,,,,,,,2020-02-23,,,isolated
 510,,,Korea,,,,,,,2020-02-23,,,isolated
 511,,,Korea,,,,,,,2020-02-23,,,isolated
-512,male,1974,Korea,capital city,,visit to Daegu,,,,2020-02-23,,,isolated
+512,male,1974,Korea,capital area,,visit to Daegu,,,,2020-02-23,,,isolated
 513,,,Korea,,,,,,,2020-02-23,,,isolated
 514,,,Korea,,,,,,,2020-02-23,,,isolated
 515,,,Korea,,,,,,,2020-02-23,,,isolated
@@ -587,7 +587,7 @@ id,sex,birth_year,country,region,group,infection_reason,infection_order,infected
 586,,,Korea,,,,,,,2020-02-23,,,isolated
 587,,,Korea,,,,,,,2020-02-23,,,isolated
 588,,,Korea,,,,,,,2020-02-23,,,isolated
-589,female,,Korea,Gwangju,,ccontact with patient,,126,,2020-02-23,,,isolated
+589,female,,Korea,Gwangju,,contact with patient,,126,,2020-02-23,,,isolated
 590,,,Korea,,,,,,,2020-02-23,,,isolated
 591,,,Korea,,,,,,,2020-02-23,,,isolated
 592,male,,Korea,Gyeongsangbuk-do,,,,,,2020-02-23,,,isolated
@@ -602,7 +602,7 @@ id,sex,birth_year,country,region,group,infection_reason,infection_order,infected
 601,,,Korea,Gyeongsangbuk-do,Shincheonji Church,,,,,2020-02-23,,,isolated
 602,,,Korea,,,,,,,2020-02-23,,,isolated
 603,male,,Korea,Gyeongsangbuk-do,,,,,,2020-02-24,,,isolated
-604,female,,Korea,Gyeongsangbuk-do,,ccontact with patient,,,,2020-02-24,,,isolated
+604,female,,Korea,Gyeongsangbuk-do,,contact with patient,,,,2020-02-24,,,isolated
 605,,,Korea,,,,,,,2020-02-24,,,isolated
 606,,,Korea,,,,,,,2020-02-24,,,isolated
 607,,,Korea,,,,,,,2020-02-24,,,isolated
