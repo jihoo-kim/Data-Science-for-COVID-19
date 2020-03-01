@@ -88,6 +88,21 @@
 
 ***
 
+### 3. time 데이터셋 정보
+- ***date***: 일자
+- ***acc_test***: 누적 검사 수 (진행 중인 검사 포함)
+- ***acc_negative***: 누적 음성 결과 수
+- ***acc_confirmed***: 누적 양성 결과 수 (확진)
+- ***acc_released***: 누적 격리 해제 수
+- ***acc_deceased***: 누적 사망 수
+- ***new_test***: 새로운 검사 수
+- ***new_negative***: 새로운 음성 결과 수
+- ***new_confirmed***: 새로운 양성 결과 수 (확진)
+- ***new_released***: 새로운 격리 해제 수
+- ***new_deceased***: 새로운 사망 수 
+
+***
+
 ### 참고 사이트
 - [질병관리본부 공식 홈페이지](http://www.cdc.go.kr/) (정부)
 - [코로나바이러스감염증-19 공식 홈페이지](http://ncov.mohw.go.kr/) (정부) 
