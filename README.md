@@ -4,6 +4,7 @@
 
   > patient 데이터셋: 3736명의 확진자에 대한 정보 (2020년 3월 1일 16시 기준)  
   > route 데이터셋: 확진자들의 이동 경로에 대한 정보
+  > time 데이터셋: 일자별 검사 결과 및 현황 정보
 - 아직 확인되지 않은 정보는 추후에 업데이트할 예정입니다.
 - kaggle Data에도 공개되어 있습니다. [Coronavirus-Dataset](https://www.kaggle.com/kimjihoo/coronavirusdataset) 
 
@@ -95,11 +96,11 @@
 - ***acc_confirmed***: 누적 양성 결과 수 (확진)
 - ***acc_released***: 누적 격리 해제 수
 - ***acc_deceased***: 누적 사망 수
-- ***new_test***: 새로운 검사 수
-- ***new_negative***: 새로운 음성 결과 수
-- ***new_confirmed***: 새로운 양성 결과 수 (확진)
-- ***new_released***: 새로운 격리 해제 수
-- ***new_deceased***: 새로운 사망 수 
+- ***new_test***: 신규 검사 수
+- ***new_negative***: 신규 음성 결과 수
+- ***new_confirmed***: 신규 양성 결과 수 (확진)
+- ***new_released***: 신규 격리 해제 수
+- ***new_deceased***:  사망 수 
 
 ***
 
