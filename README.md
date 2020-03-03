@@ -99,7 +99,7 @@
 - ***new_negative***: 신규 음성 결과 수
 - ***new_confirmed***: 신규 양성 결과 수 (확진)
 - ***new_released***: 신규 격리 해제 수
-- ***new_deceased***:  사망 수 
+- ***new_deceased***: 신규 사망 수 
 
 ***
 
