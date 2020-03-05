@@ -9,6 +9,10 @@
 
 ***
 
+**Dataset License**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+***
+
 ### 1. patient 데이터셋 정보
 - ***id***: 확진자의 id (n번째 확진자) 
 - ***sex***: 성별
@@ -98,10 +102,6 @@
 - ***new_confirmed***: 신규 양성 결과 수 (확진)
 - ***new_released***: 신규 격리 해제 수
 - ***new_deceased***: 신규 사망 수 
-
-***
-
-**Dataset License**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ***
 
