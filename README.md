@@ -7,8 +7,6 @@
 - 아직 확인되지 않은 정보는 추후에 업데이트할 예정입니다.
 - kaggle Data에도 공개되어 있습니다. [Coronavirus-Dataset](https://www.kaggle.com/kimjihoo/coronavirusdataset) 
 
-
-
 ***
 
 ### 1. patient 데이터셋 정보
@@ -100,6 +98,10 @@
 - ***new_confirmed***: 신규 양성 결과 수 (확진)
 - ***new_released***: 신규 격리 해제 수
 - ***new_deceased***: 신규 사망 수 
+
+***
+
+Dataset License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ***
 
