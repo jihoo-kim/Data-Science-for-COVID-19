@@ -82,7 +82,7 @@
   - *market*: 대형 마트
   - *restaurant*: 식당
   - *cafe*: 카페 
-  - *company*:  
+  - *company*: 회사
   - *bus_terminal*: 버스 터미널
   - *train_station*: 기차역
   - *movie_theater*: 영화관
