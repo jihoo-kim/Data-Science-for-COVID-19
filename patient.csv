@@ -2831,7 +2831,7 @@ id,sex,birth_year,country,region,group,infection_reason,infection_order,infected
 2830,,,Korea,,,,,,,2020-02-29,,,isolated
 2831,,,Korea,,,,,,,2020-02-29,,,isolated
 2832,,,Korea,,,,,,,2020-02-29,,,isolated
-2833,female,1979,Korea,capital area,,,,,,2020-02-29,,,released
+2833,female,1979,Korea,capital area,,,,,,2020-02-29,,,isolated
 2834,,,Korea,,,,,,,2020-02-29,,,isolated
 2835,,,Korea,,,,,,,2020-02-29,,,isolated
 2836,,,Korea,,,,,,,2020-02-29,,,isolated
