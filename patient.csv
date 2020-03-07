@@ -936,7 +936,7 @@ id,sex,birth_year,country,region,group,infection_reason,infection_order,infected
 935,female,1960,Korea,capital area,,contact with patient,,372,,2020-02-25,,,isolated
 936,,,Korea,,,,,,,2020-02-25,,,isolated
 937,male,1957,Korea,Daegu,,visit to Daegu,,,,2020-02-25,,,isolated
-938,male,1968,Korea,capital area,Myungsung church,visit to Cheongdo Daenam Hospital,,,,2020-02-25,2020-03-03,,released
+938,male,1968,Korea,capital area,Myungsung church,,,,,2020-02-25,2020-03-03,,released
 939,,,Korea,,,,,,,2020-02-25,,,isolated
 940,,,Korea,,,,,,,2020-02-25,,,isolated
 941,,,Korea,,,,,,,2020-02-25,,,isolated
@@ -1062,7 +1062,7 @@ id,sex,birth_year,country,region,group,infection_reason,infection_order,infected
 1061,,,Korea,,,,,,,2020-02-26,,,isolated
 1062,,,Korea,,,,,,,2020-02-26,,,isolated
 1063,,,Korea,,,,,,,2020-02-26,,,isolated
-1064,feamle,1943,Korea,Daegu,,,,,,2020-02-26,,2020-03-01,deceased
+1064,female,1943,Korea,Daegu,,,,,,2020-02-26,,2020-03-01,deceased
 1065,,,Korea,,,,,,,2020-02-26,,,isolated
 1066,,,Korea,,,,,,,2020-02-26,,,isolated
 1067,,,Korea,,,,,,,2020-02-26,,,isolated
@@ -3045,7 +3045,7 @@ id,sex,birth_year,country,region,group,infection_reason,infection_order,infected
 3044,,,Korea,,,,,,,2020-02-29,,,isolated
 3045,,,Korea,,,,,,,2020-02-29,,,isolated
 3046,female,1991,Korea,capital area,,,,,,2020-02-29,,,isolated
-3047,male,1999,Korea,Jeollanam-do,Shincheonji Church,visit to Shincheonji Church,,,23,2020-02-29,,,isolated
+3047,male,1999,Korea,Jeollanam-do,Shincheonji Church,,,,23,2020-02-29,,,isolated
 3048,,,Korea,,,,,,,2020-02-29,,,isolated
 3049,,,Korea,,,,,,,2020-02-29,,,isolated
 3050,,,Korea,,,,,,,2020-02-29,,,isolated
