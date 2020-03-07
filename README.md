@@ -3,6 +3,7 @@
 1. patient 데이터셋: 6767명의 확진자에 대한 정보 (2020년 3월 7일 0시 기준)  
 2. route 데이터셋: 확진자들의 이동 경로에 대한 정보
 3. time 데이터셋: 일자별 검사 결과 및 현황 정보
+4. trend 데이터셋: 일자별 코로나 관련 키워드 검색량 정보 (네이버 기준)
   
 - 아직 확인되지 않은 정보는 추후에 업데이트할 예정입니다.
 - kaggle Data에도 공개되어 있습니다. [Coronavirus-Dataset](https://www.kaggle.com/kimjihoo/coronavirusdataset) 
@@ -38,8 +39,8 @@
   - *Gyeongsangnam-do*: 경상남도
   - *Jeju-do*: 제주도
 - ***disease***: 기저 질환 여부
-  - *0*: 기저 질환 없음
-  - *1*: 기저 질환 있음
+  - *0*: 없음
+  - *1*: 있음
 - ***group***: 특정 집단 관련
   - *Shincheonji Church*: 신천지 관련
   - *Cheongdo Daenam Hospital*: 청도대남병원 관련
@@ -105,6 +106,15 @@
 - ***new_confirmed***: 신규 양성 결과 수 (확진)
 - ***new_released***: 신규 격리 해제 수
 - ***new_deceased***: 신규 사망 수 
+
+***
+
+### 4. trend 데이터셋 정보
+- ***date***: 일자
+- ***cold***: '감기' 검색량
+- ***flu***: '독감' 검색량
+- ***pneumonia***: '폐렴' 검색량
+- ***coronavirus***: '코로나바이러스' 검색량
 
 ***
 
