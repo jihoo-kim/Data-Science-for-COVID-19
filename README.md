@@ -37,6 +37,9 @@
   - *Gyeongsangbuk-do*: 경상북도
   - *Gyeongsangnam-do*: 경상남도
   - *Jeju-do*: 제주도
+- ***disease***: 기저 질환 여부
+  - *0*: 기저 질환 없음
+  - *1*: 기저 질환 있음
 - ***group***: 특정 집단 관련
   - *Shincheonji Church*: 신천지 관련
   - *Cheongdo Daenam Hospital*: 청도대남병원 관련
