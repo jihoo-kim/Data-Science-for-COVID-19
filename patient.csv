@@ -97,7 +97,7 @@ id,sex,birth_year,country,region,disease,group,infection_reason,infection_order,
 96,,,Korea,,,,,,,,2020-02-20,,,isolated
 97,,,Korea,,,,,,,,2020-02-20,,,isolated
 98,,,Korea,,,,,,,,2020-02-20,,,isolated
-99,,,Korea,,,,,,,,2020-02-20,,,isolated
+99,, ,Korea,,,,,,,,2020-02-20,,,isolated
 100,,,Korea,,,,,,,,2020-02-20,,,isolated
 101,,,Korea,,,,,,,,2020-02-20,,,isolated
 102,,,Korea,,,,,,,,2020-02-20,,,isolated
@@ -106,129 +106,129 @@ id,sex,birth_year,country,region,disease,group,infection_reason,infection_order,
 105,female,1965,Korea,Gyeongsangbuk-do,,Shincheonji Church,visit to Daegu,,,,2020-02-21,,,isolated
 106,female,1991,Korea,Gyeongsangbuk-do,,Shincheonji Church,visit to Daegu,,,,2020-02-21,,,isolated
 107,male,1953,Korea,Gyeongsangbuk-do,1,Cheongdo Daenam Hospital,,,,,2020-02-21,,2020-02-24,deceased
-108,,,Korea,,,,,,,,2020-02-21,,,isolated
-109,,,Korea,,,,,,,,2020-02-21,,,isolated
-110,,,Korea,,,,,,,,2020-02-21,,,isolated
+108,female,1977,Korea,,,,,,,,2020-02-21,,,isolated
+109,male,1940,Korea,,,,,,,,2020-02-21,,,isolated
+110,female,1967,Korea,,,,,,,,2020-02-21,,,isolated
 111,male,2000,Korea,capital area,,,,,,,2020-02-21,,,isolated
 112,female,1941,Korea,capital area,,,contact with patient,5,136,,2020-02-21,,,isolated
 113,male,1992,Korea,Jeollabuk-do,,,visit to Daegu,,,,2020-02-21,,,isolated
 114,male,1946,Korea,Daegu,1,Shincheonji Church,,,,,2020-02-21,,2020-02-26,deceased
-115,,,Korea,,,,,,,,2020-02-21,,,isolated
-116,,,Korea,,,,,,,,2020-02-21,,,isolated
-117,,,Korea,,,,,,,,2020-02-21,,,isolated
-118,,,Korea,,,,,,,,2020-02-21,,,isolated
-119,,,Korea,,,,,,,,2020-02-21,,,isolated
-120,,,Korea,,,,,,,,2020-02-21,,,isolated
+115,female,1966,Korea,,,,,,,,2020-02-21,,,isolated
+116,female,1952,Korea,,,,,,,,2020-02-21,,,isolated
+117,female,1980,Korea,,,,,,,,2020-02-21,,,isolated
+118,female,1963,Korea,,,,,,,,2020-02-21,,,isolated
+119,female,1993,Korea,,,,,,,,2020-02-21,,,isolated
+120,female,1976,Korea,,,,,,,,2020-02-21,,,isolated
 121,female,1944,Korea,capital area,,,contact with patient,,40,,2020-02-21,,,isolated
-122,,,Korea,,,,,,,,2020-02-21,,,isolated
-123,,,Korea,,,,,,,,2020-02-21,,,isolated
-124,,,Korea,,,,,,,,2020-02-21,,,isolated
+122,female,1968,Korea,,,,,,,,2020-02-21,,,isolated
+123,female,1961,Korea,,,,,,,,2020-02-21,,,isolated
+124,male,1999,Korea,,,,,,,,2020-02-21,,,isolated
 125,,,Korea,,,,,,,,2020-02-21,,,isolated
 126,male,1980,Korea,Gwangju,,Shincheonji Church,visit to Daegu,,,65,2020-02-21,,,isolated
 127,,,Korea,,,,,,,,2020-02-21,,,isolated
-128,,,Korea,,,,,,,,2020-02-21,,,isolated
-129,,,Korea,,,,,,,,2020-02-21,,,isolated
-130,,,Korea,,,,,,,,2020-02-21,,,isolated
-131,,,Korea,,,,,,,,2020-02-21,,,isolated
-132,,,Korea,,,,,,,,2020-02-21,,,isolated
-133,,,Korea,,,,,,,,2020-02-21,,,isolated
-134,,,Korea,,,,,,,,2020-02-21,,,isolated
-135,,,Korea,,,,,,,,2020-02-21,,,isolated
+128,female,1970,Korea,,,,,,,,2020-02-21,,,isolated
+129,male,1958,Korea,,,,,,,,2020-02-21,,,isolated
+130,male,1993,Korea,,,,,,,,2020-02-21,,,isolated
+131,female,1961,Korea,,,,,,,,2020-02-21,,,isolated
+132,female,1965,Korea,,,,,,,,2020-02-21,,,isolated
+133,female,1992,Korea,,,,,,,,2020-02-21,,,isolated
+134,female,1965,Korea,,,,,,,,2020-02-21,,,isolated
+135,male,1994,Korea,,,,,,,,2020-02-21,,,isolated
 136,male,1936,Korea,capital area,,,contact with patient,5,56,,2020-02-21,,,isolated
 137,,,Korea,,,,,,,,2020-02-21,,,isolated
 138,,,Korea,,,,,,,,2020-02-21,,,isolated
 139,male,1998,Korea,Jeju-do,,,visit to Daegu,,,,2020-02-21,,,isolated
 140,female,1988,Korea,Daegu,,,contact with patient,,31,,2020-02-21,,,isolated
-141,,,Korea,,,,,,,,2020-02-21,,,isolated
-142,,,Korea,,,,,,,,2020-02-21,,,isolated
-143,,,Korea,,,,,,,,2020-02-21,,,isolated
-144,,,Korea,,,,,,,,2020-02-21,,,isolated
-145,,,Korea,,,,,,,,2020-02-21,,,isolated
-146,,,Korea,,,,,,,,2020-02-21,,,isolated
-147,,,Korea,,,,,,,,2020-02-21,,,isolated
-148,,,Korea,,,,,,,,2020-02-21,,,isolated
-149,,,Korea,,,,,,,,2020-02-21,,,isolated
-150,,,Korea,,,,,,,,2020-02-21,,,isolated
+141,female,1973,Korea,,,,,,,,2020-02-21,,,isolated
+142,male,1960,Korea,,,,,,,,2020-02-21,,,isolated
+143,male,1996,Korea,,,,,,,,2020-02-21,,,isolated
+144,female,1973,Korea,,,,,,,,2020-02-21,,,isolated
+145,female,1986,Korea,,,,,,,,2020-02-21,,,isolated
+146,female,1993,Korea,,,,,,,,2020-02-21,,,isolated
+147,male,1988,Korea,,,,,,,,2020-02-21,,,isolated
+148,male,1994,Korea,,,,,,,,2020-02-21,,,isolated
+149,female,1973,Korea,,,,,,,,2020-02-21,,,isolated
+150,female,1978,Korea,,,,,,,,2020-02-21,,,isolated
 151,,,Korea,,,,,,,,2020-02-21,,,isolated
-152,,,Korea,,,,,,,,2020-02-21,,,isolated
-153,,,Korea,,,,,,,,2020-02-21,,,isolated
-154,,,Korea,,,,,,,,2020-02-21,,,isolated
-155,,,Korea,,,,,,,,2020-02-21,,,isolated
+152,female,1973,Korea,,,,,,,,2020-02-21,,,isolated
+153,male,1997,Korea,,,,,,,,2020-02-21,,,isolated
+154,male,1971,Korea,,,,,,,,2020-02-21,,,isolated
+155,male,1972,Korea,,,,,,,,2020-02-21,,,isolated
 156,,,Korea,,,,,,,,2020-02-21,,,isolated
 157,,,Korea,,,,,,,,2020-02-21,,,isolated
 158,,,Korea,,,,,,,,2020-02-21,,,isolated
-159,,,Korea,,,,,,,,2020-02-21,,,isolated
-160,,,Korea,,,,,,,,2020-02-21,,,isolated
+159,male,1990,Korea,,,,,,,,2020-02-21,,,isolated
+160,female,1954,Korea,,,,,,,,2020-02-21,,,isolated
 161,male,1985,Korea,capital area,,Eunpyeong St. Mary's Hospital,,,,,2020-02-21,,,isolated
 162,male,1987,Korea,Daegu,,,contact with patient,,31,,2020-02-21,,,isolated
-163,,,Korea,,,,,,,,2020-02-21,,,isolated
+163,female,,Korea,,,,,,,,2020-02-21,,,isolated
 164,male,1989,Korea,Gwangju,,Shincheonji Church,contact with patient,,126,,2020-02-21,,,isolated
-165,,,Korea,,,,,,,,2020-02-21,,,isolated
-166,,,Korea,,,,,,,,2020-02-21,,,isolated
-167,,,Korea,,,,,,,,2020-02-21,,,isolated
-168,,,Korea,,,,,,,,2020-02-21,,,isolated
-169,,,Korea,,,,,,,,2020-02-21,,,isolated
-170,,,Korea,,,,,,,,2020-02-21,,,isolated
-171,,,Korea,,,,,,,,2020-02-21,,,isolated
-172,,,Korea,,,,,,,,2020-02-21,,,isolated
-173,,,Korea,,,,,,,,2020-02-21,,,isolated
-174,,,Korea,,,,,,,,2020-02-21,,,isolated
-175,,,Korea,,,,,,,,2020-02-21,,,isolated
-176,,,Korea,,,,,,,,2020-02-21,,,isolated
-177,,,Korea,,,,,,,,2020-02-21,,,isolated
-178,,,Korea,,,,,,,,2020-02-21,,,isolated
-179,,,Korea,,,,,,,,2020-02-21,,,isolated
-180,,,Korea,,,,,,,,2020-02-21,,,isolated
-181,,,Korea,,,,,,,,2020-02-21,,,isolated
-182,,,Korea,,,,,,,,2020-02-21,,,isolated
-183,,,Korea,,,,,,,,2020-02-21,,,isolated
-184,,,Korea,,,,,,,,2020-02-21,,,isolated
-185,,,Korea,,,,,,,,2020-02-21,,,isolated
-186,,,Korea,,,,,,,,2020-02-21,,,isolated
-187,,,Korea,,,,,,,,2020-02-21,,,isolated
+165,,1995,Korea,,,,,,,,2020-02-21,,,isolated
+166,female,1997,Korea,,,,,,,,2020-02-21,,,isolated
+167,female,1998,Korea,,,,,,,,2020-02-21,,,isolated
+168,female,1974,Korea,,,,,,,,2020-02-21,,,isolated
+169,female,1957,Korea,,,,,,,,2020-02-21,,,isolated
+170,female,1992,Korea,,,,,,,,2020-02-21,,,isolated
+171,female,1952,Korea,,,,,,,,2020-02-21,,,isolated
+172,female,1991,Korea,,,,,,,,2020-02-21,,,isolated
+173,female,1971,Korea,,,,,,,,2020-02-21,,,isolated
+174,female,1967,Korea,,,,,,,,2020-02-21,,,isolated
+175,male,1969,Korea,,,,,,,,2020-02-21,,,isolated
+176,male,2005,Korea,,,,,,,,2020-02-21,,,isolated
+177,female,1995,Korea,,,,,,,,2020-02-21,,,isolated
+178,male,1999,Korea,,,,,,,,2020-02-21,,,isolated
+179,male,1989,Korea,,,,,,,,2020-02-21,,,isolated
+180,female,1993,Korea,,,,,,,,2020-02-21,,,isolated
+181,female,1981,Korea,,,,,,,,2020-02-21,,,isolated
+182,female,1972,Korea,,,,,,,,2020-02-21,,,isolated
+183,female,1954,Korea,,,,,,,,2020-02-21,,,isolated
+184,female,1979,Korea,,,,,,,,2020-02-21,,,isolated
+185,female,1982,Korea,,,,,,,,2020-02-21,,,isolated
+186,male,1966,Korea,,,,,,,,2020-02-21,,,isolated
+187,female,1969,Korea,,,,,,,,2020-02-21,,,isolated
 188,male,1961,Korea,capital area,,Shincheonji Church,visit to Daegu,,,,2020-02-21,,,isolated
 189,,,Korea,,,,,,,,2020-02-21,,,isolated
 190,,,Korea,,,,,,,,2020-02-21,,,isolated
-191,,,Korea,,,,,,,,2020-02-21,,,isolated
-192,,,Korea,,,,,,,,2020-02-21,,,isolated
-193,,,Korea,,,,,,,,2020-02-21,,,isolated
-194,,,Korea,,,,,,,,2020-02-21,,,isolated
-195,,,Korea,,,,,,,,2020-02-21,,,isolated
-196,,,Korea,,,,,,,,2020-02-21,,,isolated
-197,,,Korea,,,,,,,,2020-02-21,,,isolated
-198,,,Korea,,,,,,,,2020-02-21,,,isolated
-199,,,Korea,,,,,,,,2020-02-21,,,isolated
-200,male,2001,Korea,Busan,,Onchun Church,,,,,2020-02-21,,,isolated
-201,,,Korea,,,,,,,,2020-02-21,,,isolated
-202,,,Korea,,,,,,,,2020-02-21,,,isolated
-203,,,Korea,,,,,,,,2020-02-21,,,isolated
-204,,,Korea,,,,,,,,2020-02-21,,,isolated
+191,male,1968,Korea,,,,,,,,2020-02-21,,,isolated
+192,female,1993,Korea,,,,,,,,2020-02-21,,,isolated
+193,female,1959,Korea,,,,,,,,2020-02-21,,,isolated
+194,female,1986,Korea,,,,,,,,2020-02-21,,,isolated
+195,male,1962,Korea,,,,,,,,2020-02-21,,,isolated
+196,male,1996,Korea,,,,,,,,2020-02-21,,,isolated
+197,female,1960,Korea,,,,,,,,2020-02-21,,,isolated
+198,female,1978,Korea,,,,,,,,2020-02-21,,,isolated
+199,female,1969,Korea,,,,,,,,2020-02-21,,,isolated
+200,female,1966,Korea,,,,,,,,2020-02-21,,,isolated
+201,male,1991,Korea,,,,,,,,2020-02-21,,,isolated
+202,male,1961,Korea,,,,,,,,2020-02-21,,,isolated
+203,female,1959,Korea,,,,,,,,2020-02-21,,,isolated
+204,female,1969,Korea,,,,,,,,2020-02-21,,,isolated
 205,female,1965,Korea,Gyeongsangbuk-do,1,Cheongdo Daenam Hospital,,,,,2020-02-22,,2020-02-21,deceased
-206,,,Korea,,,,,,,,2020-02-22,,,isolated
+206,female,1979,Korea,,,,,,,,2020-02-22,,,isolated
 207,female,,Korea,Gyeongsangbuk-do,,Shincheonji Church,visit to Daegu,,,,2020-02-22,,,isolated
-208,,,Korea,,,,,,,,2020-02-22,,,isolated
-209,,,Korea,,,,,,,,2020-02-22,,,isolated
+208,male,1937,Korea,,,,,,,,2020-02-22,,,isolated
+209,male,1954,Korea,,,,,,,,2020-02-22,,,isolated
 210,male,1985,Korea,Gwangju,,Shincheonji Church,visit to Daegu,,,30,2020-02-22,,,isolated
 211,female,1974,Korea,Gyeongsangbuk-do,,,,,,,2020-02-22,,,isolated
-212,,,Korea,,,,,,,,2020-02-22,,,isolated
-213,,,Korea,,,,,,,,2020-02-22,,,isolated
-214,,,Korea,,,,,,,,2020-02-22,,,isolated
-215,,,Korea,,,,,,,,2020-02-22,,,isolated
-216,,,Korea,,,,,,,,2020-02-22,,,isolated
-217,,,Korea,,,,,,,,2020-02-22,,,isolated
-218,,,Korea,,,,,,,,2020-02-22,,,isolated
-219,,,Korea,,,,,,,,2020-02-22,,,isolated
-220,,,Korea,,,,,,,,2020-02-22,,,isolated
-221,,,Korea,,,,,,,,2020-02-22,,,isolated
+212,female,1992,Korea,,,,,,,,2020-02-22,,,isolated
+213,female,1953,Korea,,,,,,,,2020-02-22,,,isolated
+214,female,1974,Korea,,,,,,,,2020-02-22,,,isolated
+215,female,1984,Korea,,,,,,,,2020-02-22,,,isolated
+216,male,1953,Korea,,,,,,,,2020-02-22,,,isolated
+217,female,1962,Korea,,,,,,,,2020-02-22,,,isolated
+218,female,1973,Korea,,,,,,,,2020-02-22,,,isolated
+219,female,1972,Korea,,,,,,,,2020-02-22,,,isolated
+220,male,1997,Korea,,,,,,,,2020-02-22,,,isolated
+221,female,1969,Korea,,,,,,,,2020-02-22,,,isolated
 222,female,1998,Korea,Jeju-do,,,visit to Daegu,,,,2020-02-22,,,isolated
-223,,,Korea,,,,,,,,2020-02-22,,,isolated
-224,,,Korea,,,,,,,,2020-02-22,,,isolated
-225,,,Korea,,,,,,,,2020-02-22,,,isolated
-226,,,Korea,,,,,,,,2020-02-22,,,isolated
-227,,,Korea,,,,,,,,2020-02-22,,,isolated
-228,,,Korea,,,,,,,,2020-02-22,,,isolated
-229,,,Korea,,,,,,,,2020-02-22,,,isolated
-230,male,1984,Korea,Jeollabuk-do,,,contact with patient,,113,,2020-02-22,,,isolated
+223,male,1983,Korea,,,,,,,,2020-02-22,,,isolated
+224,female,1998,Korea,,,,,,,,2020-02-22,,,isolated
+225,female,1987,Korea,,,,,,,,2020-02-22,,,isolated
+226,female,1979,Korea,,,,,,,,2020-02-22,,,isolated
+227,female,1993,Korea,,,,,,,,2020-02-22,,,isolated
+228,male,2000,Korea,,,,,,,,2020-02-22,,,isolated
+229,female,1965,Korea,,,,,,,,2020-02-22,,,isolated
+230,female,1961,Korea,Jeollabuk-do,,,contact with patient,,113,,2020-02-22,,,isolated
 231,female,1963,Korea,Busan,,,,,,,2020-02-22,,,isolated
 232,,,Korea,,,,,,,,2020-02-22,,,isolated
 233,,,Korea,,,,,,,,2020-02-22,,,isolated
@@ -243,7 +243,7 @@ id,sex,birth_year,country,region,disease,group,infection_reason,infection_order,
 242,female,1965,Korea,Gyeongsangbuk-do,,Shincheonji Church,visit to Daegu,,,,2020-02-22,,,isolated
 243,,,Korea,,,,,,,,2020-02-22,,,isolated
 244,female,1946,Korea,Gyeongsangbuk-do,,Shincheonji Church,visit to Daegu,,,,2020-02-22,,,isolated
-245,,,Korea,,,,,,,,2020-02-22,,,isolated
+245,female,1992,Korea,,,,,,,,2020-02-22,,,isolated
 246,female,1982,Korea,capital area,,Shincheonji Church,visit to Daegu,,,,2020-02-22,,,isolated
 247,,,Korea,,,,,,,,2020-02-22,,,isolated
 248,,,Korea,,,,,,,,2020-02-22,,,isolated
@@ -335,10 +335,10 @@ id,sex,birth_year,country,region,disease,group,infection_reason,infection_order,
 334,,,Korea,,,,,,,,2020-02-22,,,isolated
 335,male,1955,Korea,Gyeongsangbuk-do,,,,,,,2020-02-22,,,isolated
 336,,,Korea,,,,,,,,2020-02-22,,,isolated
-337,,,Korea,,,,,,,,2020-02-22,,,isolated
-338,,,Korea,,,,,,,,2020-02-22,,,isolated
-339,,,Korea,,,,,,,,2020-02-22,,,isolated
-340,,,Korea,,,,,,,,2020-02-22,,,isolated
+337,female,1999,Korea,,,,,,,,2020-02-22,,,isolated
+338,female,1962,Korea,,,,,,,,2020-02-22,,,isolated
+339,female,1952,Korea,,,,,,,,2020-02-22,,,isolated
+340,female,1952,Korea,,,,,,,,2020-02-22,,,isolated
 341,,,Korea,,,,,,,,2020-02-22,,,isolated
 342,female,1943,Korea,Gyeongsangbuk-do,,Cheongdo Daenam Hospital,,,,,2020-02-22,,,isolated
 343,female,1975,Korea,Gyeongsangbuk-do,,Cheongdo Daenam Hospital,,,,,2020-02-22,,,isolated
@@ -347,22 +347,22 @@ id,sex,birth_year,country,region,disease,group,infection_reason,infection_order,
 346,male,,Korea,Chungcheongnam-do,,,,,,,2020-02-22,,,isolated
 347,male,1996,Korea,capital area,,,,,,,2020-02-22,2020-03-04,,released
 348,male,1980,Korea,capital area,,Pilgrimage,pilgrimage to Israel,,,,2020-02-22,,,isolated
-349,,,Korea,,,,,,,,2020-02-22,,,isolated
-350,,,Korea,,,,,,,,2020-02-22,,,isolated
-351,,,Korea,,,,,,,,2020-02-22,,,isolated
-352,,,Korea,,,,,,,,2020-02-22,,,isolated
-353,,,Korea,,,,,,,,2020-02-22,,,isolated
-354,,,Korea,,,,,,,,2020-02-22,,,isolated
-355,,,Korea,,,,,,,,2020-02-22,,,isolated
-356,,,Korea,,,,,,,,2020-02-22,,,isolated
-357,,,Korea,,,,,,,,2020-02-22,,,isolated
-358,,,Korea,,,,,,,,2020-02-22,,,isolated
-359,,,Korea,,,,,,,,2020-02-22,,,isolated
+349,female,1992,Korea,,,,,,,,2020-02-22,,,isolated
+350,female,1974,Korea,,,,,,,,2020-02-22,,,isolated
+351,female,1995,Korea,,,,,,,,2020-02-22,,,isolated
+352,female,1968,Korea,,,,,,,,2020-02-22,,,isolated
+353,female,1975,Korea,,,,,,,,2020-02-22,,,isolated
+354,female,1965,Korea,,,,,,,,2020-02-22,,,isolated
+355,female,1968,Korea,,,,,,,,2020-02-22,,,isolated
+356,female,1962,Korea,,,,,,,,2020-02-22,,,isolated
+357,female,1964,Korea,,,,,,,,2020-02-22,,,isolated
+358,female,1976,Korea,,,,,,,,2020-02-22,,,isolated
+359,female,1975,Korea,,,,,,,,2020-02-22,,,isolated
 360,male,1959,Korea,capital area,,,,,,,2020-02-22,,,isolated
 361,male,1999,Korea,capital area,,,visit to Daegu,,,,2020-02-22,,,isolated
 362,male,1956,Korea,capital area,,,contact with patient,6,30,,2020-02-22,,,isolated
 363,female,1993,Korea,Ulsan,,Shincheonji Church,visit to Daegu,,,,2020-02-22,,,isolated
-364,,,Korea,,,,,,,,2020-02-22,,,isolated
+364,female,1977,Korea,,,,,,,,2020-02-22,,,isolated
 365,male,1958,Korea,capital area,,Eunpyeong St. Mary's Hospital,contact with patient,,161,,2020-02-22,,,isolated
 366,male,1999,Korea,Gangwon-do,,,visit to Daegu,,,,2020-02-22,,,isolated
 367,,,Korea,,,,,,,,2020-02-22,,,isolated
@@ -373,13 +373,13 @@ id,sex,birth_year,country,region,disease,group,infection_reason,infection_order,
 372,female,1955,Korea,Daejeon,,,,,,9,2020-02-22,,,isolated
 373,female,,Korea,Gangwon-do,,Shincheonji Church,visit to Daegu,,,,2020-02-22,,,isolated
 374,female,,Korea,Gangwon-do,,Shincheonji Church,visit to Daegu,,,,2020-02-22,,,isolated
-375,,,Korea,,,,,,,,2020-02-22,,,isolated
-376,,,Korea,,,,,,,,2020-02-22,,,isolated
-377,,,Korea,,,,,,,,2020-02-22,,,isolated
-378,,,Korea,,,,,,,,2020-02-22,,,isolated
-379,,,Korea,,,,,,,,2020-02-22,,,isolated
-380,,,Korea,,,,,,,,2020-02-22,,,isolated
-381,,,Korea,,,,,,,,2020-02-22,,,isolated
+375,female,1977,Korea,,,,,,,,2020-02-22,,,isolated
+376,female,1973,Korea,,,,,,,,2020-02-22,,,isolated
+377,female,1956,Korea,,,,,,,,2020-02-22,,,isolated
+378,male,1968,Korea,,,,,,,,2020-02-22,,,isolated
+379,female,1967,Korea,,,,,,,,2020-02-22,,,isolated
+380,female,1961,Korea,,,,,,,,2020-02-22,,,isolated
+381,female,1978,Korea,,,,,,,,2020-02-22,,,isolated
 382,,,Korea,,,,,,,,2020-02-22,,,isolated
 383,,,Korea,,,,,,,,2020-02-22,,,isolated
 384,male,1995,Korea,Gyeongsangbuk-do,,,visit to Daegu,,,,2020-02-22,,,isolated
@@ -387,122 +387,122 @@ id,sex,birth_year,country,region,disease,group,infection_reason,infection_order,
 386,male,1956,Korea,Gyeongsangbuk-do,,Pilgrimage,pilgrimage to Israel,,,,2020-02-22,,,isolated
 387,female,1960,Korea,Gyeongsangbuk-do,,Pilgrimage,pilgrimage to Israel,,,,2020-02-22,,,isolated
 388,female,1960,Korea,Gyeongsangbuk-do,,Pilgrimage,pilgrimage to Israel,,,,2020-02-22,,,isolated
-389,,,Korea,,,,,,,,2020-02-22,,,isolated
+389,female,1980,Korea,,,,,,,,2020-02-22,,,isolated
 390,,,Korea,,,,,,,,2020-02-22,,,isolated
 391,male,1937,Korea,Gyeongsangbuk-do,1,,,,,,2020-02-22,,2020-03-05,deceased
 392,male,1966,Korea,capital area,,Shincheonji Church,,,,,2020-02-22,,,isolated
 393,,,Korea,,,,,,,,2020-02-22,,,isolated
 394,male,1987,Korea,Gyeongsangbuk-do,,,,,,,2020-02-22,,,isolated
 395,female,1977,Korea,Gyeongsangbuk-do,,,,,,,2020-02-22,,,isolated
-396,female,1996,Korea,Gyeongsangbuk-do,,,,,,,2020-02-22,,,isolated
+396,female,1995,Korea,Gyeongsangbuk-do,,,,,,,2020-02-22,,,isolated
 397,female,,Korea,Gangwon-do,,,visit to Daegu,,,,2020-02-22,,,isolated
 398,female,1960,Korea,capital area,,Shincheonji Church,visit to Daegu,,,,2020-02-22,,,isolated
-399,,,Korea,,,,,,,,2020-02-22,,,isolated
+399,female,1998,Korea,,,,,,,,2020-02-22,,,isolated
 400,,,Korea,,,,,,,,2020-02-22,,,isolated
-401,,,Korea,,,,,,,,2020-02-22,,,isolated
-402,,,Korea,,,,,,,,2020-02-22,,,isolated
-403,,,Korea,,,,,,,,2020-02-22,,,isolated
-404,,,Korea,,,,,,,,2020-02-22,,,isolated
-405,,,Korea,,,,,,,,2020-02-22,,,isolated
-406,,,Korea,,,,,,,,2020-02-22,,,isolated
-407,,,Korea,,,,,,,,2020-02-22,,,isolated
-408,,,Korea,,,,,,,,2020-02-22,,,isolated
-409,,,Korea,,,,,,,,2020-02-22,,,isolated
-410,,,Korea,,,,,,,,2020-02-22,,,isolated
-411,,,Korea,,,,,,,,2020-02-22,,,isolated
-412,,,Korea,,,,,,,,2020-02-22,,,isolated
-413,,,Korea,,,,,,,,2020-02-22,,,isolated
-414,,,Korea,,,,,,,,2020-02-22,,,isolated
-415,,,Korea,,,,,,,,2020-02-22,,,isolated
-416,,,Korea,,,,,,,,2020-02-22,,,isolated
-417,,,Korea,,,,,,,,2020-02-22,,,isolated
-418,,,Korea,,,,,,,,2020-02-22,,,isolated
+401,female,1996,Korea,,,,,,,,2020-02-22,,,isolated
+402,female,1970,Korea,,,,,,,,2020-02-22,,,isolated
+403,female,1998,Korea,,,,,,,,2020-02-22,,,isolated
+404,female,1995,Korea,,,,,,,,2020-02-22,,,isolated
+405,male,2003,Korea,,,,,,,,2020-02-22,,,isolated
+406,female,1969,Korea,,,,,,,,2020-02-22,,,isolated
+407,female,1995,Korea,,,,,,,,2020-02-22,,,isolated
+408,male,1983,Korea,,,,,,,,2020-02-22,,,isolated
+409,female,1962,Korea,,,,,,,,2020-02-22,,,isolated
+410,female,1964,Korea,,,,,,,,2020-02-22,,,isolated
+411,female,1979,Korea,,,,,,,,2020-02-22,,,isolated
+412,male,1962,Korea,,,,,,,,2020-02-22,,,isolated
+413,male,1954,Korea,,,,,,,,2020-02-22,,,isolated
+414,male,1941,Korea,,,,,,,,2020-02-22,,,isolated
+415,female,1974,Korea,,,,,,,,2020-02-22,,,isolated
+416,male,1974,Korea,,,,,,,,2020-02-22,,,isolated
+417,female,2015,Korea,,,,,,,,2020-02-22,,,isolated
+418,female,1975,Korea,,,,,,,,2020-02-22,,,isolated
 419,male,,Korea,Gangwon-do,,,,,,,2020-02-22,,,isolated
 420,male,1986,Korea,Daegu,,,visit to Daegu,,,,2020-02-22,,,isolated
-421,,,Korea,,,,,,,,2020-02-22,,,isolated
-422,,,Korea,,,,,,,,2020-02-22,,,isolated
-423,,,Korea,,,,,,,,2020-02-22,,,isolated
-424,,,Korea,,,,,,,,2020-02-22,,,isolated
-425,,,Korea,,,,,,,,2020-02-22,,,isolated
-426,,,Korea,,,,,,,,2020-02-22,,,isolated
-427,,,Korea,,,,,,,,2020-02-22,,,isolated
-428,,,Korea,,,,,,,,2020-02-22,,,isolated
-429,,,Korea,,,,,,,,2020-02-22,,,isolated
-430,,,Korea,,,,,,,,2020-02-22,,,isolated
-431,,,Korea,,,,,,,,2020-02-22,,,isolated
-432,,,Korea,,,,,,,,2020-02-22,,,isolated
+421,female,1977,Korea,,,,,,,,2020-02-22,,,isolated
+422,female,1955,Korea,,,,,,,,2020-02-22,,,isolated
+423,female,1972,Korea,,,,,,,,2020-02-22,,,isolated
+424,female,1964,Korea,,,,,,,,2020-02-22,,,isolated
+425,female,1992,Korea,,,,,,,,2020-02-22,,,isolated
+426,female,1994,Korea,,,,,,,,2020-02-22,,,isolated
+427,male,1983,Korea,,,,,,,,2020-02-22,,,isolated
+428,male,1995,Korea,,,,,,,,2020-02-22,,,isolated
+429,female,1995,Korea,,,,,,,,2020-02-22,,,isolated
+430,male,1979,Korea,,,,,,,,2020-02-22,,,isolated
+431,female,1963,Korea,,,,,,,,2020-02-22,,,isolated
+432,female,1974,Korea,,,,,,,,2020-02-22,,,isolated
 433,female,1954,Korea,capital area,,,,,,,2020-02-22,,,isolated
-434,,,Korea,,,,,,,,2020-02-23,,,isolated
-435,,,Korea,,,,,,,,2020-02-23,,,isolated
-436,,,Korea,,,,,,,,2020-02-23,,,isolated
-437,,,Korea,,,,,,,,2020-02-23,,,isolated
-438,,,Korea,,,,,,,,2020-02-23,,,isolated
-439,,,Korea,,,,,,,,2020-02-23,,,isolated
+434,female,1970,Korea,,,,,,,,2020-02-23,,,isolated
+435,female,1995,Korea,,,,,,,,2020-02-23,,,isolated
+436,female,1968,Korea,,,,,,,,2020-02-23,,,isolated
+437,male,1993,Korea,,,,,,,,2020-02-23,,,isolated
+438,female,1969,Korea,,,,,,,,2020-02-23,,,isolated
+439,female,1980,Korea,,,,,,,,2020-02-23,,,isolated
 440,female,1957,Korea,Gyeongsangbuk-do,,Pilgrimage,pilgrimage to Israel,,,,2020-02-23,,,isolated
 441,female,1959,Korea,capital area,,,contact with patient,,246,,2020-02-23,,,isolated
-442,,,Korea,,,,,,,,2020-02-23,,,isolated
+442,male,1965,Korea,,,,,,,,2020-02-23,,,isolated
 443,male,1979,Korea,Gyeongsangbuk-do,1,,,,,,2020-02-23,,2020-02-22,deceased
 444,,,Korea,,,,,,,,2020-02-23,,,isolated
-445,,,Korea,,,,,,,,2020-02-23,,,isolated
-446,,,Korea,,,,,,,,2020-02-23,,,isolated
-447,,,Korea,,,,,,,,2020-02-23,,,isolated
-448,,,Korea,,,,,,,,2020-02-23,,,isolated
-449,,,Korea,,,,,,,,2020-02-23,,,isolated
-450,,,Korea,,,,,,,,2020-02-23,,,isolated
-451,,,Korea,,,,,,,,2020-02-23,,,isolated
-452,,,Korea,,,,,,,,2020-02-23,,,isolated
-453,,,Korea,,,,,,,,2020-02-23,,,isolated
-454,,,Korea,,,,,,,,2020-02-23,,,isolated
-455,,,Korea,,,,,,,,2020-02-23,,,isolated
-456,,,Korea,,,,,,,,2020-02-23,,,isolated
-457,,,Korea,,,,,,,,2020-02-23,,,isolated
-458,,,Korea,,,,,,,,2020-02-23,,,isolated
-459,,,Korea,,,,,,,,2020-02-23,,,isolated
-460,,,Korea,,,,,,,,2020-02-23,,,isolated
-461,,,Korea,,,,,,,,2020-02-23,,,isolated
-462,,,Korea,,,,,,,,2020-02-23,,,isolated
-463,,,Korea,,,,,,,,2020-02-23,,,isolated
-464,,,Korea,,,,,,,,2020-02-23,,,isolated
-465,,,Korea,,,,,,,,2020-02-23,,,isolated
-466,,,Korea,,,,,,,,2020-02-23,,,isolated
-467,,,Korea,,,,,,,,2020-02-23,,,isolated
-468,,,Korea,,,,,,,,2020-02-23,,,isolated
-469,,,Korea,,,,,,,,2020-02-23,,,isolated
-470,,,Korea,,,,,,,,2020-02-23,,,isolated
-471,,,Korea,,,,,,,,2020-02-23,,,isolated
-472,,,Korea,,,,,,,,2020-02-23,,,isolated
-473,,,Korea,,,,,,,,2020-02-23,,,isolated
-474,,,Korea,,,,,,,,2020-02-23,,,isolated
-475,,,Korea,,,,,,,,2020-02-23,,,isolated
-476,,,Korea,,,,,,,,2020-02-23,,,isolated
-477,,,Korea,,,,,,,,2020-02-23,,,isolated
-478,,,Korea,,,,,,,,2020-02-23,,,isolated
-479,,,Korea,,,,,,,,2020-02-23,,,isolated
+445,female,1987,Korea,,,,,,,,2020-02-23,,,isolated
+446,female,1984,Korea,,,,,,,,2020-02-23,,,isolated
+447,male,1961,Korea,,,,,,,,2020-02-23,,,isolated
+448,female,1973,Korea,,,,,,,,2020-02-23,,,isolated
+449,male,1982,Korea,,,,,,,,2020-02-23,,,isolated
+450,female,1969,Korea,,,,,,,,2020-02-23,,,isolated
+451,female,1997,Korea,,,,,,,,2020-02-23,,,isolated
+452,female,1962,Korea,,,,,,,,2020-02-23,,,isolated
+453,male,1973,Korea,,,,,,,,2020-02-23,,,isolated
+454,female,1960,Korea,,,,,,,,2020-02-23,,,isolated
+455,female,1953,Korea,,,,,,,,2020-02-23,,,isolated
+456,female,1950,Korea,,,,,,,,2020-02-23,,,isolated
+457,female,1963,Korea,,,,,,,,2020-02-23,,,isolated
+458,female,1973,Korea,,,,,,,,2020-02-23,,,isolated
+459,female,1980,Korea,,,,,,,,2020-02-23,,,isolated
+460,male,2004,Korea,,,,,,,,2020-02-23,,,isolated
+461,male,1967,Korea,,,,,,,,2020-02-23,,,isolated
+462,female,1987,Korea,,,,,,,,2020-02-23,,,isolated
+463,female,1973,Korea,,,,,,,,2020-02-23,,,isolated
+464,female,1998,Korea,,,,,,,,2020-02-23,,,isolated
+465,female,1977,Korea,,,,,,,,2020-02-23,,,isolated
+466,female,1948,Korea,,,,,,,,2020-02-23,,,isolated
+467,female,1975,Korea,,,,,,,,2020-02-23,,,isolated
+468,female,1964,Korea,,,,,,,,2020-02-23,,,isolated
+469,female,1992,Korea,,,,,,,,2020-02-23,,,isolated
+470,female,1967,Korea,,,,,,,,2020-02-23,,,isolated
+471,male,1944,Korea,,,,,,,,2020-02-23,,,isolated
+472,female,1996,Korea,,,,,,,,2020-02-23,,,isolated
+473,female,1992,Korea,,,,,,,,2020-02-23,,,isolated
+474,female,1995,Korea,,,,,,,,2020-02-23,,,isolated
+475,male,1955,Korea,,,,,,,,2020-02-23,,,isolated
+476,female,1996,Korea,,,,,,,,2020-02-23,,,isolated
+477,female,1990,Korea,,,,,,,,2020-02-23,,,isolated
+478,male,1994,Korea,,,,,,,,2020-02-23,,,isolated
+479,female,1943,Korea,,,,,,,,2020-02-23,,,isolated
 480,,,Korea,Gyeongsangbuk-do,,Shincheonji Church,visit to Daegu,,,,2020-02-23,,,isolated
 481,female,1965,Korea,Gyeongsangbuk-do,,,,,,,2020-02-23,,,isolated
 482,,,Korea,Gyeongsangbuk-do,,,,,,,2020-02-23,,,isolated
 483,male,,Korea,Gyeongsangbuk-do,,,,,,,2020-02-23,,,isolated
 484,,,Korea,,,,,,,,2020-02-23,,,isolated
-485,,,Korea,,,,,,,,2020-02-23,,,isolated
-486,,,Korea,,,,,,,,2020-02-23,,,isolated
-487,,,Korea,,,,,,,,2020-02-23,,,isolated
+485,female,1966,Korea,,,,,,,,2020-02-23,,,isolated
+486,male,1955,Korea,,,,,,,,2020-02-23,,,isolated
+487,female,1967,Korea,,,,,,,,2020-02-23,,,isolated
 488,female,1968,Korea,capital area,,,contact with patient,,347,,2020-02-23,,,isolated
 489,male,1985,Korea,Gwangju,,,contact with patient,,126,39,2020-02-23,,,isolated
 490,,,Korea,,,,,,,,2020-02-23,,,isolated
-491,,,Korea,,,,,,,,2020-02-23,,,isolated
+491,female,1969,Korea,,,,,,,,2020-02-23,,,isolated
 492,,,Korea,,,,,,,,2020-02-23,,,isolated
-493,,,Korea,,,,,,,,2020-02-23,,,isolated
-494,,,Korea,,,,,,,,2020-02-23,,,isolated
-495,,,Korea,,,,,,,,2020-02-23,,,isolated
-496,,,Korea,,,,,,,,2020-02-23,,,isolated
-497,,,Korea,,,,,,,,2020-02-23,,,isolated
+493,female,1952,Korea,,,,,,,,2020-02-23,,,isolated
+494,female,1990,Korea,,,,,,,,2020-02-23,,,isolated
+495,male,1959,Korea,,,,,,,,2020-02-23,,,isolated
+496,male,1952,Korea,,,,,,,,2020-02-23,,,isolated
+497,female,1992,Korea,,,,,,,,2020-02-23,,,isolated
 498,,,Korea,,,,,,,,2020-02-23,,,isolated
 499,,,Korea,,,,,,,,2020-02-23,,,isolated
-500,,,Korea,,,,,,,,2020-02-23,,,isolated
+500,female,1994,Korea,,,,,,,,2020-02-23,,,isolated
 501,,,Korea,,,,,,,,2020-02-23,,,isolated
 502,,,Korea,,,,,,,,2020-02-23,,,isolated
 503,,,Korea,,,,,,,,2020-02-23,,,isolated
-504,,,Korea,,,,,,,,2020-02-23,,,isolated
+504,male,1993,Korea,,,,,,,,2020-02-23,,,isolated
 505,,,Korea,,,,,,,,2020-02-23,,,isolated
 506,,,Korea,Gyeongsangbuk-do,,,,,,,2020-02-23,,,isolated
 507,,,Korea,Gyeongsangbuk-do,,,,,,,2020-02-23,,,isolated
@@ -511,34 +511,34 @@ id,sex,birth_year,country,region,disease,group,infection_reason,infection_order,
 510,,,Korea,,,,,,,,2020-02-23,,,isolated
 511,,,Korea,,,,,,,,2020-02-23,,,isolated
 512,male,1974,Korea,capital area,,,visit to Daegu,,,,2020-02-23,,,isolated
-513,,,Korea,,,,,,,,2020-02-23,,,isolated
-514,,,Korea,,,,,,,,2020-02-23,,,isolated
-515,,,Korea,,,,,,,,2020-02-23,,,isolated
-516,,,Korea,,,,,,,,2020-02-23,,,isolated
-517,,,Korea,,,,,,,,2020-02-23,,,isolated
-518,,,Korea,,,,,,,,2020-02-23,,,isolated
-519,,,Korea,,,,,,,,2020-02-23,,,isolated
-520,,,Korea,,,,,,,,2020-02-23,,,isolated
-521,,,Korea,,,,,,,,2020-02-23,,,isolated
-522,,,Korea,,,,,,,,2020-02-23,,,isolated
-523,,,Korea,,,,,,,,2020-02-23,,,isolated
-524,,,Korea,,,,,,,,2020-02-23,,,isolated
-525,,,Korea,,,,,,,,2020-02-23,,,isolated
-526,,,Korea,,,,,,,,2020-02-23,,,isolated
-527,,,Korea,,,,,,,,2020-02-23,,,isolated
-528,,,Korea,,,,,,,,2020-02-23,,,isolated
-529,,,Korea,,,,,,,,2020-02-23,,,isolated
+513,female,1975,Korea,,,,,,,,2020-02-23,,,isolated
+514,female,1967,Korea,,,,,,,,2020-02-23,,,isolated
+515,male,1992,Korea,,,,,,,,2020-02-23,,,isolated
+516,female,1963,Korea,,,,,,,,2020-02-23,,,isolated
+517,female,1999,Korea,,,,,,,,2020-02-23,,,isolated
+518,female,1985,Korea,,,,,,,,2020-02-23,,,isolated
+519,female,1957,Korea,,,,,,,,2020-02-23,,,isolated
+520,female,1968,Korea,,,,,,,,2020-02-23,,,isolated
+521,female,1946,Korea,,,,,,,,2020-02-23,,,isolated
+522,female,1971,Korea,,,,,,,,2020-02-23,,,isolated
+523,female,1986,Korea,,,,,,,,2020-02-23,,,isolated
+524,female,1956,Korea,,,,,,,,2020-02-23,,,isolated
+525,female,1963,Korea,,,,,,,,2020-02-23,,,isolated
+526,female,1954,Korea,,,,,,,,2020-02-23,,,isolated
+527,female,1975,Korea,,,,,,,,2020-02-23,,,isolated
+528,male,1994,Korea,,,,,,,,2020-02-23,,,isolated
+529,male,1968,Korea,,,,,,,,2020-02-23,,,isolated
 530,female,1962,Korea,Gyeongsangbuk-do,,,,,,,2020-02-23,,,isolated
-531,,,Korea,,,,,,,,2020-02-23,,,isolated
-532,female,1957,Korea,Gyeongsangbuk-do,,,,,,,2020-02-23,,,isolated
-533,,,Korea,,,,,,,,2020-02-23,,,isolated
-534,,,Korea,,,,,,,,2020-02-23,,,isolated
-535,,,Korea,,,,,,,,2020-02-23,,,isolated
-536,,,Korea,,,,,,,,2020-02-23,,,isolated
-537,,,Korea,,,,,,,,2020-02-23,,,isolated
-538,,,Korea,,,,,,,,2020-02-23,,,isolated
-539,,,Korea,,,,,,,,2020-02-23,,,isolated
-540,,,Korea,,,,,,,,2020-02-23,,,isolated
+531,female,1992,Korea,,,,,,,,2020-02-23,,,isolated
+532,male,1956,Korea,Gyeongsangbuk-do,,,,,,,2020-02-23,,,isolated
+533,female,1995,Korea,,,,,,,,2020-02-23,,,isolated
+534,male,1961,Korea,,,,,,,,2020-02-23,,,isolated
+535,male,1992,Korea,,,,,,,,2020-02-23,,,isolated
+536,male,1970,Korea,,,,,,,,2020-02-23,,,isolated
+537,male,1995,Korea,,,,,,,,2020-02-23,,,isolated
+538,female,1982,Korea,,,,,,,,2020-02-23,,,isolated
+539,female,1975,Korea,,,,,,,,2020-02-23,,,isolated
+540,male,1990,Korea,,,,,,,,2020-02-23,,,isolated
 541,,,Korea,,,,,,,,2020-02-23,,,isolated
 542,,,Korea,,,,,,,,2020-02-23,,,isolated
 543,,,Korea,,,,,,,,2020-02-23,,,isolated
@@ -548,7 +548,7 @@ id,sex,birth_year,country,region,disease,group,infection_reason,infection_order,
 547,,,Korea,,,,,,,,2020-02-23,,,isolated
 548,female,1977,Korea,Gyeongsangbuk-do,,,,,,,2020-02-23,,,isolated
 549,,,Korea,,,,,,,,2020-02-23,,,isolated
-550,,,Korea,,,,,,,,2020-02-23,,,isolated
+550,male,1962,Korea,,,,,,,,2020-02-23,,,isolated
 551,,,Korea,,,,,,,,2020-02-23,,,isolated
 552,,,Korea,,,,,,,,2020-02-23,,,isolated
 553,,,Korea,,,,,,,,2020-02-23,,,isolated
@@ -7381,4 +7381,3 @@ id,sex,birth_year,country,region,disease,group,infection_reason,infection_order,
 7380,,,Korea,,,,,,,,2020-03-08,,,isolated
 7381,,,Korea,,,,,,,,2020-03-08,,,isolated
 7382,,,Korea,,,,,,,,2020-03-08,,,isolated
-7383,,,Korea,,,,,,,,2020-03-08,,,isolated
