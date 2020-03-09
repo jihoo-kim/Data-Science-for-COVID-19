@@ -96,16 +96,28 @@
 
 ### 3. time 데이터셋 정보
 - ***date***: 일자
-- ***acc_test***: 누적 검사 수 (진행 중인 검사 포함)
-- ***acc_negative***: 누적 음성 결과 수
-- ***acc_confirmed***: 누적 양성 결과 수 (확진)
-- ***acc_released***: 누적 격리 해제 수
-- ***acc_deceased***: 누적 사망 수
-- ***new_test***: 신규 검사 수
-- ***new_negative***: 신규 음성 결과 수
-- ***new_confirmed***: 신규 양성 결과 수 (확진)
-- ***new_released***: 신규 격리 해제 수
-- ***new_deceased***: 신규 사망 수 
+- ***test***: 누적 검사 수 (진행 중인 검사 포함)
+- ***negative***: 누적 음성 결과 수
+- ***confirmed***: 누적 양성 결과 수 (확진)
+- ***released***: 누적 격리 해제 수
+- ***deceased***: 누적 사망 수
+- ***Seoul***: 누적 확진자 수 in 서울 
+- ***Busan***: 누적 확진자 수 in 부산
+- ***Daegu***: 누적 확진자 수 in 대구
+- ***Incheon***: 누적 확진자 수 in 인천
+- ***Gwangju***: 누적 확진자 수 in 광주 
+- ***Daejeon***: 누적 확진자 수 in 대전
+- ***Ulsan***: 누적 확진자 수 in 울산
+- ***Sejong***: 누적 확진자 수 in 세종
+- ***Gyeonggi-do***: 누적 확진자 수 in 경기도
+- ***Gangwon-do***: 누적 확진자 수 in 강원도
+- ***Chungcheongbuk-do***: 누적 확진자 수 in 충청북도
+- ***Chungcheongnam-do***: 누적 확진자 수 in 충청남도
+- ***Jeollabuk-do***: 누적 확진자 수 in 전라북도
+- ***Jeollanam-do***: 누적 확진자 수 in 전라남도
+- ***Gyeongsangbuk-do***: 누적 확진자 수 in 경상북도
+- ***Gyeongsangnam-do***: 누적 확진자 수 in 경상남도
+- ***Jeju-do***: 누적 확진자 수 in 제주도
 
 ***
 
