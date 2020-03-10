@@ -4,6 +4,7 @@
 2. route 데이터셋: 확진자들의 이동 경로에 대한 정보
 3. time 데이터셋: 일자별 검사 결과 및 현황 정보
 4. trend 데이터셋: 일자별 코로나 관련 키워드 검색량 정보 (네이버 기준)
+5. group 데이터셋: 지역별 집단 감염 정보
   
 - 아직 확인되지 않은 정보는 추후에 업데이트할 예정입니다.
 - kaggle Data에도 공개되어 있습니다. [Coronavirus-Dataset](https://www.kaggle.com/kimjihoo/coronavirusdataset) 
