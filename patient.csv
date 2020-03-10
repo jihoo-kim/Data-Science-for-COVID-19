@@ -2287,7 +2287,7 @@ id,sex,birth_year,country,region,disease,group,infection_reason,infection_order,
 2286,female,1932,Korea,capital area,,,,,,,2020-02-28,,,isolated
 2287,,,Korea,,,,,,,,2020-02-28,,,isolated
 2288,,,Korea,,,,,,,,2020-02-28,,,isolated
-2289,male,1954,Korea,Daegu,,,,,,,2020-02-28,,2020-03-05,isolated
+2289,male,1954,Korea,Daegu,,,,,,,2020-02-28,,2020-03-05,deceased
 2290,,,Korea,,,,,,,,2020-02-28,,,isolated
 2291,,,Korea,,,,,,,,2020-02-28,,,isolated
 2292,,,Korea,,,,,,,,2020-02-28,,,isolated
@@ -3548,7 +3548,7 @@ id,sex,birth_year,country,region,disease,group,infection_reason,infection_order,
 3547,,,Korea,,,,,,,,2020-03-01,,,isolated
 3548,,,Korea,,,,,,,,2020-03-01,,,isolated
 3549,,,Korea,,,,,,,,2020-03-01,,,isolated
-3550,,,Korea,,,,,,,,2020-03-01,,,isolated
+3550,female,1951,Korea,Daegu,,,,,,,2020-03-01,,2020-03-09,deceased
 3551,,,Korea,,,,,,,,2020-03-01,,,isolated
 3552,,,Korea,,,,,,,,2020-03-01,,,isolated
 3553,,,Korea,,,,,,,,2020-03-01,,,isolated
@@ -3576,7 +3576,7 @@ id,sex,birth_year,country,region,disease,group,infection_reason,infection_order,
 3575,,,Korea,,,,,,,,2020-03-01,,,isolated
 3576,,,Korea,,,,,,,,2020-03-01,,,isolated
 3577,,,Korea,,,,,,,,2020-03-01,,,isolated
-3578,,,Korea,,,,,,,,2020-03-01,,,isolated
+3578,male,1930,Korea,Daegu,,,,,,,2020-03-01,,2020-03-07,deceased
 3579,,,Korea,,,,,,,,2020-03-01,,,isolated
 3580,,,Korea,,,,,,,,2020-03-01,,,isolated
 3581,,,Korea,,,,,,,,2020-03-01,,,isolated
@@ -3912,7 +3912,7 @@ id,sex,birth_year,country,region,disease,group,infection_reason,infection_order,
 3911,,,Korea,,,,,,,,2020-03-01,,,isolated
 3912,,,Korea,,,,,,,,2020-03-01,,,isolated
 3913,,,Korea,,,,,,,,2020-03-01,,,isolated
-3914,,,Korea,,,,,,,,2020-03-01,,,isolated
+3914,male,1938,Korea,Daegu,1,,,,,,2020-03-01,,2020-03-09,deceased
 3915,,,Korea,,,,,,,,2020-03-01,,,isolated
 3916,,,Korea,,,,,,,,2020-03-01,,,isolated
 3917,,,Korea,,,,,,,,2020-03-01,,,isolated
@@ -7194,7 +7194,7 @@ id,sex,birth_year,country,region,disease,group,infection_reason,infection_order,
 7193,,,Korea,,,,,,,,2020-03-08,,,isolated
 7194,,,Korea,,,,,,,,2020-03-08,,,isolated
 7195,,,Korea,,,,,,,,2020-03-08,,,isolated
-7196,,,Korea,,,,,,,,2020-03-08,,,isolated
+7196,male,1945,Korea,Daegu,1,,,,,,2020-03-08,,2020-03-09,deceased
 7197,,,Korea,,,,,,,,2020-03-08,,,isolated
 7198,,,Korea,,,,,,,,2020-03-08,,,isolated
 7199,,,Korea,,,,,,,,2020-03-08,,,isolated
