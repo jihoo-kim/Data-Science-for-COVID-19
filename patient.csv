@@ -65,7 +65,7 @@ id,sex,birth_year,country,region,disease,group,infection_reason,infection_order,
 64,female,1961,Korea,,,,,,,,2020-02-19,,,isolated
 65,female,1970,Korea,Daegu,,,,,,,2020-02-19,2020-02-27,,released
 66,male,1998,Korea,Gyeongsangbuk-do,,Shincheonji Church,visit to Daegu,,,,2020-02-19,,,isolated
-67,female,1990,Korea,Gyeongsangbuk-do,,,,,,,2020-02-20,,,isolated
+67,female,1990,Korea,Gyeongsangbuk-do,,,,,,,2020-02-19,,,isolated
 68,female,1964,Korea,,,,,,,,2020-02-20,,,isolated
 69,male,1991,Korea,,,,,,,,2020-02-20,,,isolated
 70,female,1972,Korea,,,,,,,,2020-02-20,,,isolated
@@ -97,11 +97,11 @@ id,sex,birth_year,country,region,disease,group,infection_reason,infection_order,
 96,,,Korea,,,,,,,,2020-02-20,,,isolated
 97,,,Korea,,,,,,,,2020-02-20,,,isolated
 98,,,Korea,,,,,,,,2020-02-20,,,isolated
-99,, ,Korea,,,,,,,,2020-02-20,,,isolated
+99,,,Korea,,,,,,,,2020-02-20,,,isolated
 100,,,Korea,,,,,,,,2020-02-20,,,isolated
 101,,,Korea,,,,,,,,2020-02-20,,,isolated
 102,,,Korea,,,,,,,,2020-02-20,,,isolated
-103,,,,,,,,,,,,,,
+103,,,Korea,,,,,,,,2020-02-20,,,isolated
 104,male,1957,Korea,Gyeongsangbuk-do,1,Cheongdo Daenam Hospital,,,,,2020-02-20,,2020-02-19,deceased
 105,female,1965,Korea,Gyeongsangbuk-do,,Shincheonji Church,visit to Daegu,,,,2020-02-21,,,isolated
 106,female,1991,Korea,Gyeongsangbuk-do,,Shincheonji Church,visit to Daegu,,,,2020-02-21,,,isolated
