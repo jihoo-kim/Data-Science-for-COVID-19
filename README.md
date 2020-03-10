@@ -132,7 +132,7 @@
 
 ### 5. group 데이터셋 정보
 - ***province***: 특별시/광역시/도
-- ***city***: 시/군/
+- ***city***: 시/군/구 ('-' 값은 다른 지역으로부터 온 경우)
 - ***group***: 특정 집단 관련
   - *Bonghwa Pureun Nursing Home*: 봉화 푸른요양원 관련
   - *Bundang Jesaeng Hospital*: 분당제생병원 관련
