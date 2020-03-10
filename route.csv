@@ -1,4 +1,4 @@
-id,date,province,city,visit,latitude,longitude
+patient_id,date,province,city,visit,latitude,longitude
 1,2020-01-19,Incheon,Jung-gu,airport,37.460459,126.44068
 1,2020-01-20,Incheon,Seo-gu,hospital_isolated,37.478832,126.668558
 2,2020-01-22,Gyeonggi-do,Gimpo-si,airport,37.562143,126.801884
