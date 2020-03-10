@@ -1,4 +1,4 @@
-province,city,group,confirmed_counts,latitude,longitude
+province,city,group,confirmed,latitude,longitude
 Seoul,Eunpyeong-gu,Eunpyeong St. Mary's Hospital,14,37.633691,126.916458
 Seoul,Seongdong-gu,Seongdong-gu APT,13,37.557127,127.040338
 Seoul,Jongno-gu,Jongno Community Center,10,37.576805,127.005982
