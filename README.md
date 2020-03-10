@@ -153,13 +153,10 @@
   - *Seongdong-gu APT*: 성동구 아파트 관련
   - *Shincheonji Church*: 신천지 관련
   - *Suwon Saeng Myeong Saem Church*: 수원 생명샘교회 관련
-  - *Suyeong-gu Kindergarten*: 수영구 유치원 관련
-  
-  
+  - *Suyeong-gu Kindergarten*: 수영구 유치원 관련  
   - *contact with patient*: 확진자 접촉자
   - *overseas inflow*: 기존 해외유입 관련
-  - *etc*: 기타
-  
+  - *etc*: 기타  
 - ***confirmed***: 확진자 수
 - ***latitude***: 위도
 - ***longitude***: 경도
