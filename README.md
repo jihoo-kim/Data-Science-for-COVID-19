@@ -177,3 +177,4 @@
 - [코로나19(COVID-19) 실시간 상황판](https://wuhanvirus.kr/) (민간)
 - [대한민국의 코로나바이러스감염증-19 유행](https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4%EA%B0%90%EC%97%BC%EC%A6%9D-19_%EC%9C%A0%ED%96%89) (위키피디아)
 - [코로나바이러스감염증-19/경과/대한민국 확진자 현황](https://namu.wiki/w/%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4%EA%B0%90%EC%97%BC%EC%A6%9D-19/%EA%B2%BD%EA%B3%BC/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%20%ED%99%95%EC%A7%84%EC%9E%90%20%ED%98%84%ED%99%A9) (나무위키)
+- [네이버 데이터랩](https://datalab.naver.com/)
