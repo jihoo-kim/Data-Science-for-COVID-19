@@ -20,7 +20,7 @@
 - ***province***: 특별시/광역시/도
 - ***city***: 시/군/구
 - ***group***: 집단 감염 여부
-- ***infection_case***: 감염 사례 (또는 집단 명)
+- ***infection_case***: 감염 사례
   - *Bonghwa Pureun Nursing Home*: 봉화 푸른요양원 관련
   - *Bundang Jesaeng Hospital*: 분당제생병원 관련
   - *Changnyeong Coin Karaoke*: 창녕 동전노래방 관련
