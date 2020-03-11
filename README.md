@@ -15,8 +15,43 @@
 
 ***
 
-### 1. patient 데이터셋 정보
-- ***id***: 확진자의 id (n번째 확진자) 
+### 1. case 데이터셋 정보
+- ***case_id***: 감염 사례의 id
+- ***province***: 특별시/광역시/도
+- ***city***: 시/군/구
+- ***group***: 특정 집단 관련
+  - *Bonghwa Pureun Nursing Home*: 봉화 푸른요양원 관련
+  - *Bundang Jesaeng Hospital*: 분당제생병원 관련
+  - *Changnyeong Coin Karaoke*: 창녕 동전노래방 관련
+  - *Cheongdo Daenam Hospital*: 청도대남병원 관련
+  - *Eunpyeong St. Mary's Hospital*: 은평성모병원 관련
+  - *Geochang Church*: 거창 교회 관련
+  - *Goesan-gun Jangyeon-myeon*: 괴산군 장연면 관련
+  - *Gyeongsan Cham Joeun Community Center*: 경산 참좋은재가센터 관련
+  - *Gyeongsan Jeil Silver Town*: 경산 제일실버타운 관련
+  - *gym*: 운동시설 관련
+  - *Haeundae-gu Catholic Church*: 해운대구 성당 관련
+  - *Hanmaeum Changwon Hospital*:  한마음창원병원 관련
+  - *Jin-gu Academy*: 부산진구 학원 관련
+  - *Jongno Community Center*: 종로구 관련
+  - *Milal Shelter*: 칠곡 밀알사랑의집 관련
+  - *Onchun Church*: 온천교회 관련
+  - *Pilgrimage to Israel*: 성지순례 관련
+  - *Seongdong-gu APT*: 성동구 아파트 관련
+  - *Shincheonji Church*: 신천지 관련
+  - *Suwon Saeng Myeong Saem Church*: 수원 생명샘교회 관련
+  - *Suyeong-gu Kindergarten*: 수영구 유치원 관련  
+  - *contact with patient*: 확진자 접촉자
+  - *overseas inflow*: 기존 해외유입 관련
+  - *etc*: 기타  
+- ***confirmed***: 확진자 수
+- ***latitude***: 위도
+- ***longitude***: 경도
+
+***
+
+### 2. patient 데이터셋 정보
+- ***patient_id***: 확진자의 id (n번째 확진자) 
 - ***sex***: 성별
 - ***birth_year***: 출생 연도
 - ***country***: 국적
@@ -67,8 +102,8 @@
 
 ***
 
-### 2. route 데이터셋 정보
-- ***id***: 확진자의 id (n번째 확진자) 
+### 3. route 데이터셋 정보
+- ***patient_id***: 확진자의 id (n번째 확진자) 
 - ***date***: 일자
 - ***province***: 특별시/광역시/도
 - ***city***: 시/군/구
@@ -89,12 +124,12 @@
   - *hair_salon*: 미용실
   - *church*: 교회
   - *etc*: 기타 방문 장소 
-- ***latitude***: 위도
-- ***longitude***: 경도
+- ***latitude***: 방문한 장소의 위도
+- ***longitude***: 방문한 장소의 경도
 
 ***
 
-### 3. time 데이터셋 정보
+### 4. time 데이터셋 정보
 - ***date***: 일자
 - ***test***: 누적 검사 수 (진행 중인 검사 포함)
 - ***negative***: 누적 음성 결과 수
@@ -121,46 +156,12 @@
 
 ***
 
-### 4. trend 데이터셋 정보
+### 5. trend 데이터셋 정보
 - ***date***: 일자
 - ***cold***: '감기' 검색량
 - ***flu***: '독감' 검색량
 - ***pneumonia***: '폐렴' 검색량
 - ***coronavirus***: '코로나바이러스' 검색량
-
-***
-
-### 5. group 데이터셋 정보
-- ***province***: 특별시/광역시/도
-- ***city***: 시/군/구 ('-' 값은 다른 지역으로부터 온 경우)
-- ***group***: 특정 집단 관련
-  - *Bonghwa Pureun Nursing Home*: 봉화 푸른요양원 관련
-  - *Bundang Jesaeng Hospital*: 분당제생병원 관련
-  - *Changnyeong Coin Karaoke*: 창녕 동전노래방 관련
-  - *Cheongdo Daenam Hospital*: 청도대남병원 관련
-  - *Eunpyeong St. Mary's Hospital*: 은평성모병원 관련
-  - *Geochang Church*: 거창 교회 관련
-  - *Goesan-gun Jangyeon-myeon*: 괴산군 장연면 관련
-  - *Gyeongsan Cham Joeun Community Center*: 경산 참좋은재가센터 관련
-  - *Gyeongsan Jeil Silver Town*: 경산 제일실버타운 관련
-  - *gym*: 운동시설 관련
-  - *Haeundae-gu Catholic Church*: 해운대구 성당 관련
-  - *Hanmaeum Changwon Hospital*:  한마음창원병원 관련
-  - *Jin-gu Academy*: 부산진구 학원 관련
-  - *Jongno Community Center*: 종로구 관련
-  - *Milal Shelter*: 칠곡 밀알사랑의집 관련
-  - *Onchun Church*: 온천교회 관련
-  - *Pilgrimage to Israel*: 성지순례 관련
-  - *Seongdong-gu APT*: 성동구 아파트 관련
-  - *Shincheonji Church*: 신천지 관련
-  - *Suwon Saeng Myeong Saem Church*: 수원 생명샘교회 관련
-  - *Suyeong-gu Kindergarten*: 수영구 유치원 관련  
-  - *contact with patient*: 확진자 접촉자
-  - *overseas inflow*: 기존 해외유입 관련
-  - *etc*: 기타  
-- ***confirmed***: 확진자 수
-- ***latitude***: 위도
-- ***longitude***: 경도
 
 ***
 
