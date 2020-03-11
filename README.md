@@ -1,10 +1,10 @@
 # Coronavirus-Dataset
 - **코로나바이러스감염증-19 (COVID-19)** 국내 확진자 정보를 데이터 분석에 용이하도록 CSV 파일로 재가공하였습니다.
-1. patient 데이터셋: 7513명의 확진자에 대한 정보 (2020년 3월 10일 0시 기준)  
-2. route 데이터셋: 확진자들의 이동 경로에 대한 정보
-3. time 데이터셋: 일자별 검사 결과 및 현황 정보
-4. trend 데이터셋: 일자별 코로나 관련 키워드 검색량 정보 (네이버 기준)
-5. group 데이터셋: 지역별 집단 감염 정보
+1. case 데이터셋: 감염 사례 정보
+2. patient 데이터셋: 7513명의 확진자에 대한 정보 (2020년 3월 10일 0시 기준)  
+3. route 데이터셋: 확진자들의 이동 경로에 대한 정보
+4. time 데이터셋: 일자별 검사 결과 및 현황 정보
+5. trend 데이터셋: 일자별 코로나 관련 키워드 검색량 정보 (네이버 기준)
   
 - 아직 확인되지 않은 정보는 추후에 업데이트할 예정입니다.
 - kaggle Data에도 공개되어 있습니다. [Coronavirus-Dataset](https://www.kaggle.com/kimjihoo/coronavirusdataset) 
@@ -19,21 +19,26 @@
 - ***case_id***: 감염 사례의 id
 - ***province***: 특별시/광역시/도
 - ***city***: 시/군/구
-- ***group***: 특정 집단 관련
+- ***group***: 집단 감염 여부
+- ***infection_case***: 감염 사례 (또는 집단 명)
   - *Bonghwa Pureun Nursing Home*: 봉화 푸른요양원 관련
   - *Bundang Jesaeng Hospital*: 분당제생병원 관련
   - *Changnyeong Coin Karaoke*: 창녕 동전노래방 관련
   - *Cheongdo Daenam Hospital*: 청도대남병원 관련
+  - *Dongan Church*: 동안교회 관련
   - *Eunpyeong St. Mary's Hospital*: 은평성모병원 관련
-  - *Geochang Church*: 거창 교회 관련
+  - *Geochang Church*: 거창교회 관련
   - *Goesan-gun Jangyeon-myeon*: 괴산군 장연면 관련
+  - *Guro-gu Call Center*: 구로구 콜센터 관련
   - *Gyeongsan Cham Joeun Community Center*: 경산 참좋은재가센터 관련
   - *Gyeongsan Jeil Silver Town*: 경산 제일실버타운 관련
+  - *Gyeongsan Seorin Nursing Home*: 경산 서린요양원 관련
   - *gym*: 운동시설 관련
   - *Haeundae-gu Catholic Church*: 해운대구 성당 관련
   - *Hanmaeum Changwon Hospital*:  한마음창원병원 관련
   - *Jin-gu Academy*: 부산진구 학원 관련
   - *Jongno Community Center*: 종로구 관련
+  - *Jung-gu Fashion Company*: 중구 패션회사 관련
   - *Milal Shelter*: 칠곡 밀알사랑의집 관련
   - *Onchun Church*: 온천교회 관련
   - *Pilgrimage to Israel*: 성지순례 관련
@@ -44,9 +49,9 @@
   - *contact with patient*: 확진자 접촉자
   - *overseas inflow*: 기존 해외유입 관련
   - *etc*: 기타  
-- ***confirmed***: 확진자 수
-- ***latitude***: 위도
-- ***longitude***: 경도
+- ***confirmed***: 누적 확진자 수
+- ***latitude***: 집단 감염이 발생한 곳의 위도
+- ***longitude***: 집단 감염이 발생한 곳의 경도
 
 ***
 
