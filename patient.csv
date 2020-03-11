@@ -136,7 +136,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 136,male,1936,Korea,capital area,,,contact with patient,5,56,,2020-02-21,,,isolated
 137,,,Korea,,,,,,,,2020-02-21,,,isolated
 138,,,Korea,,,,,,,,2020-02-21,,,isolated
-139,male,1998,Korea,Jeju-do,,,visit to Daegu,,,,2020-02-21,,,isolated
+139,male,1998,Korea,Jeju-do,,,visit to Daegu,,,87,2020-02-21,,,isolated
 140,female,1988,Korea,Daegu,,,contact with patient,,31,,2020-02-21,,,isolated
 141,female,1973,Korea,,,,,,,,2020-02-21,,,isolated
 142,male,1960,Korea,,,,,,,,2020-02-21,,,isolated
@@ -219,7 +219,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 219,female,1972,Korea,,,,,,,,2020-02-22,,,isolated
 220,male,1997,Korea,,,,,,,,2020-02-22,,,isolated
 221,female,1969,Korea,,,,,,,,2020-02-22,,,isolated
-222,female,1998,Korea,Jeju-do,,,visit to Daegu,,,,2020-02-22,2020-03-07,,released
+222,female,1998,Korea,Jeju-do,,,visit to Daegu,,,84,2020-02-22,2020-03-07,,released
 223,male,1983,Korea,,,,,,,,2020-02-22,,,isolated
 224,female,1998,Korea,,,,,,,,2020-02-22,,,isolated
 225,female,1987,Korea,,,,,,,,2020-02-22,,,isolated
@@ -370,8 +370,8 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 370,,,Korea,,,,,,,,2020-02-22,,,isolated
 371,,,Korea,,,,,,,,2020-02-22,,,isolated
 372,female,1955,Korea,Daejeon,,,,,,9,2020-02-22,,,isolated
-373,female,,Korea,Gangwon-do,,Shincheonji Church,visit to Daegu,,,,2020-02-22,,,isolated
-374,female,,Korea,Gangwon-do,,Shincheonji Church,visit to Daegu,,,,2020-02-22,,,isolated
+373,female,,Korea,Gangwon-do,,Shincheonji Church,visit to Daegu,,,219,2020-02-22,,,isolated
+374,female,,Korea,Gangwon-do,,Shincheonji Church,visit to Daegu,,,226,2020-02-22,,,isolated
 375,female,1977,Korea,,,,,,,,2020-02-22,,,isolated
 376,female,1973,Korea,,,,,,,,2020-02-22,,,isolated
 377,female,1956,Korea,,,,,,,,2020-02-22,,,isolated
@@ -836,7 +836,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 836,,,Korea,,,,,,,,2020-02-25,,,isolated
 837,female,1966,Korea,Gyeongsangbuk-do,,,,,,,2020-02-25,,,isolated
 838,female,1995,Korea,Gyeongsangbuk-do,,Shincheonji Church,visit to Daegu,,,,2020-02-25,,,isolated
-839,female,,Korea,Gyeongsangbuk-do,,,,,,,2020-02-25,,,isolated
+839,female,2010,Korea,Gyeongsangbuk-do,,,visit to Daegu,,,,2020-02-25,,,isolated
 840,,,Korea,,,,,,,,2020-02-25,,,isolated
 841,,,Korea,,,,,,,,2020-02-25,,,isolated
 842,,,Korea,,,,,,,,2020-02-25,,,isolated
@@ -1729,13 +1729,13 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 1729,,,Korea,,,,,,,,2020-02-27,,,isolated
 1730,,,Korea,,,,,,,,2020-02-27,,,isolated
 1731,,,Korea,,,,,,,,2020-02-27,,,isolated
-1732,male,2001,Korea,Gyeongsangbuk-do,,,,,,,2020-02-26,,,isolated
+1732,male,2001,Korea,Gyeongsangbuk-do,,,,,,,2020-02-27,,,isolated
 1733,,,Korea,,,,,,,,2020-02-27,,,isolated
 1734,,,Korea,,,,,,,,2020-02-27,,,isolated
 1735,,,Korea,,,,,,,,2020-02-27,,,isolated
 1736,,,Korea,,,,,,,,2020-02-27,,,isolated
 1737,female,1941,Korea,Gyeongsangbuk-do,,,,,,,2020-02-27,,,isolated
-1738,female,1985,Korea,Gyeongsangbuk-do,,Shincheonji Church,visit to Daegu,,,,2020-02-26,,,isolated
+1738,female,1985,Korea,Gyeongsangbuk-do,,Shincheonji Church,visit to Daegu,,,,2020-02-27,,,isolated
 1739,,,Korea,,,,,,,,2020-02-27,,,isolated
 1740,,,Korea,,,,,,,,2020-02-27,,,isolated
 1741,,,Korea,,,,,,,,2020-02-27,,,isolated
@@ -1750,7 +1750,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 1750,,,Korea,,,,,,,,2020-02-27,,,isolated
 1751,,,Korea,,,,,,,,2020-02-27,,,isolated
 1752,male,1979,Korea,capital area,,,,,,,2020-02-27,,,isolated
-1753,female,1990,Korea,capital area,,,,,,,2020-02-27,,,isolated
+1753,female,1990,Korea,Jeollabuk-do,,,visit to Daegu,,,3,2020-02-27,,,isolated
 1754,,,Korea,,,,,,,,2020-02-27,,,isolated
 1755,,,Korea,,,,,,,,2020-02-27,,,isolated
 1756,,,Korea,,,,,,,,2020-02-27,,,isolated
@@ -1793,7 +1793,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 1793,,,Korea,,,,,,,,2020-02-28,,,isolated
 1794,,,Korea,,,,,,,,2020-02-28,,,isolated
 1795,,,Korea,,,,,,,,2020-02-28,,,isolated
-1796,male,1993,Korea,Gyeongsangbuk-do,,Shincheonji Church,,,,,2020-02-27,,,isolated
+1796,male,1993,Korea,Gyeongsangbuk-do,,Shincheonji Church,,,,,2020-02-28,,,isolated
 1797,,,Korea,,,,,,,,2020-02-28,,,isolated
 1798,female,1982,Korea,capital area,,,,,,,2020-02-28,,,isolated
 1799,,,Korea,,,,,,,,2020-02-28,,,isolated
@@ -2284,7 +2284,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 2284,,,Korea,,,,,,,,2020-02-28,,,isolated
 2285,,,Korea,,,,,,,,2020-02-28,,,isolated
 2286,female,1932,Korea,capital area,,,,,,,2020-02-28,,,isolated
-2287,,,Korea,,,,,,,,2020-02-28,,,isolated
+2287,male,1974,Korea,Gangwon-do,,,,,,,2020-02-28,,,isolated
 2288,,,Korea,,,,,,,,2020-02-28,,,isolated
 2289,male,1954,Korea,Daegu,,,,,,,2020-02-28,,2020-03-05,deceased
 2290,,,Korea,,,,,,,,2020-02-28,,,isolated
@@ -2542,7 +2542,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 2542,,,Korea,,,,,,,,2020-02-29,,,isolated
 2543,,,Korea,,,,,,,,2020-02-29,,,isolated
 2544,,,Korea,,,,,,,,2020-02-29,,,isolated
-2545,male,1982,Korea,Gyeongsangbuk-do,,,visit to Daegu,,,,2020-02-28,,,isolated
+2545,male,1982,Korea,Gyeongsangbuk-do,,,visit to Daegu,,,,2020-02-29,,,isolated
 2546,,,Korea,,,,,,,,2020-02-29,,,isolated
 2547,,,Korea,,,,,,,,2020-02-29,,,isolated
 2548,,,Korea,,,,,,,,2020-02-29,,,isolated
@@ -3883,7 +3883,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 3883,,,Korea,,,,,,,,2020-03-01,,,isolated
 3884,,,Korea,,,,,,,,2020-03-01,,,isolated
 3885,,,Korea,,,,,,,,2020-03-01,,,isolated
-3886,female,1985,Korea,Jeollanam-do,,,contact with patient,,,3,2020-03-01,,,isolated
+3886,female,1985,Korea,Jeollanam-do,,,contact with patient,,"#울산19,20번",3,2020-03-01,,,isolated
 3887,,,Korea,,,,,,,,2020-03-01,,,isolated
 3888,,,Korea,,,,,,,,2020-03-01,,,isolated
 3889,,,Korea,,,,,,,,2020-03-01,,,isolated
@@ -4254,7 +4254,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 4254,,,Korea,,,,,,,,2020-03-02,,,isolated
 4255,,,Korea,,,,,,,,2020-03-02,,,isolated
 4256,,,Korea,,,,,,,,2020-03-02,,,isolated
-4257,,,Korea,,,,,,,,2020-03-02,,,isolated
+4257,male,,Korea,Gwangju,,,contact with patient,,4388,86,2020-03-02,,,isolated
 4258,,,Korea,,,,,,,,2020-03-02,,,isolated
 4259,,,Korea,,,,,,,,2020-03-02,,,isolated
 4260,,,Korea,,,,,,,,2020-03-02,,,isolated
@@ -4342,7 +4342,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 4342,,,Korea,,,,,,,,2020-03-02,,,isolated
 4343,,,Korea,,,,,,,,2020-03-02,,,isolated
 4344,,,Korea,,,,,,,,2020-03-02,,,isolated
-4345,female,1972,Korea,Jeju-do,,,visit to ooo,,,21,2020-03-02,,,isolated
+4345,female,1972,Korea,Jeju-do,,,visit to Daegu,,,21,2020-03-02,,,isolated
 4346,,,Korea,,,,,,,,2020-03-02,,,isolated
 4347,,,Korea,,,,,,,,2020-03-02,,,isolated
 4348,,,Korea,,,,,,,,2020-03-02,,,isolated
@@ -4555,7 +4555,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 4555,,,Korea,,,,,,,,2020-03-02,,,isolated
 4556,,,Korea,,,,,,,,2020-03-02,,,isolated
 4557,,,Korea,,,,,,,,2020-03-02,,,isolated
-4558,female,1969,Korea,capital area,,,,,,,2020-03-02,,,isolated
+4558,female,1969,Korea,capital area,,,contact with patient,,,,2020-03-02,,,isolated
 4559,,,Korea,,,,,,,,2020-03-02,,,isolated
 4560,,,Korea,,,,,,,,2020-03-02,,,isolated
 4561,,,Korea,,,,,,,,2020-03-02,,,isolated
@@ -4631,7 +4631,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 4631,,,Korea,,,,,,,,2020-03-02,,,isolated
 4632,,,Korea,,,,,,,,2020-03-02,,,isolated
 4633,,,Korea,,,,,,,,2020-03-02,,,isolated
-4634,female,1999,Korea,capital area,,,,,,,2020-03-02,,,isolated
+4634,female,1999,Korea,capital area,,,contact with patient,,,,2020-03-02,,,isolated
 4635,,,Korea,,,,,,,,2020-03-02,,,isolated
 4636,,,Korea,,,,,,,,2020-03-02,,,isolated
 4637,,,Korea,,,,,,,,2020-03-02,,,isolated
@@ -4643,7 +4643,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 4643,,,Korea,,,,,,,,2020-03-02,,,isolated
 4644,,,Korea,,,,,,,,2020-03-02,,,isolated
 4645,male,1982,Korea,capital area,,,,,,,2020-03-02,,,isolated
-4646,,,Korea,,,,,,,,2020-03-02,,,isolated
+4646,female,1994,Korea,Jeollabuk-do,,Shincheonji Church,,,,4,2020-03-02,,,isolated
 4647,,,Korea,,,,,,,,2020-03-02,,,isolated
 4648,,,Korea,,,,,,,,2020-03-02,,,isolated
 4649,,,Korea,,,,,,,,2020-03-02,,,isolated
@@ -4706,7 +4706,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 4706,,,Korea,,,,,,,,2020-03-02,,,isolated
 4707,,,Korea,,,,,,,,2020-03-02,,,isolated
 4708,,,Korea,,,,,,,,2020-03-02,,,isolated
-4709,male,1985,Korea,capital area,,,,,,,2020-03-02,,,isolated
+4709,male,1985,Korea,capital area,,,contact with patient,,,,2020-03-02,,,isolated
 4710,,,Korea,,,,,,,,2020-03-02,,,isolated
 4711,,,Korea,,,,,,,,2020-03-02,,,isolated
 4712,,,Korea,,,,,,,,2020-03-02,,,isolated
@@ -4993,7 +4993,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 4993,,,Korea,,,,,,,,2020-03-03,,,isolated
 4994,,,Korea,,,,,,,,2020-03-03,,,isolated
 4995,,,Korea,,,,,,,,2020-03-03,,,isolated
-4996,,,Korea,,,,,,,,2020-03-03,,,isolated
+4996,male,,Korea,Daejeon,,,contact with patient,,31,7,2020-03-03,,,isolated
 4997,,,Korea,,,,,,,,2020-03-03,,,isolated
 4998,,,Korea,,,,,,,,2020-03-03,,,isolated
 4999,,,Korea,,,,,,,,2020-03-03,,,isolated
@@ -5028,7 +5028,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 5028,,,Korea,,,,,,,,2020-03-03,,,isolated
 5029,,,Korea,,,,,,,,2020-03-03,,,isolated
 5030,,,Korea,,,,,,,,2020-03-03,,,isolated
-5031,,,Korea,,,,,,,,2020-03-03,,,isolated
+5031,male,,Korea,Gwangju,,,,,,30,2020-03-03,,,isolated
 5032,,,Korea,,,,,,,,2020-03-03,,,isolated
 5033,,,Korea,,,,,,,,2020-03-03,,,isolated
 5034,,,Korea,,,,,,,,2020-03-03,,,isolated
@@ -5138,7 +5138,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 5138,,,Korea,,,,,,,,2020-03-03,,,isolated
 5139,,,Korea,,,,,,,,2020-03-03,,,isolated
 5140,,,Korea,,,,,,,,2020-03-03,,,isolated
-5141,,,Korea,,,,,,,,2020-03-03,,,isolated
+5141,female,,Korea,Gwangju,,,contact with patient,,4257,14,2020-03-03,,,isolated
 5142,,,Korea,,,,,,,,2020-03-03,,,isolated
 5143,male,1960,Korea,Gyeongsangbuk-do,1,,,,,,2020-03-03,,2020-03-04,deceased
 5144,,,Korea,,,,,,,,2020-03-03,,,isolated
@@ -5374,7 +5374,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 5374,,,Korea,,,,,,,,2020-03-04,,,isolated
 5375,,,Korea,,,,,,,,2020-03-04,,,isolated
 5376,,,Korea,,,,,,,,2020-03-04,,,isolated
-5377,,,Korea,,,,,,,,2020-03-04,,,isolated
+5377,female,1996,Korea,capital area,,,visit to Daegu,,,,2020-03-04,,,isolated
 5378,,,Korea,,,,,,,,2020-03-04,,,isolated
 5379,,,Korea,,,,,,,,2020-03-04,,,isolated
 5380,,,Korea,,,,,,,,2020-03-04,,,isolated
@@ -5589,7 +5589,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 5589,,,Korea,,,,,,,,2020-03-04,,,isolated
 5590,,,Korea,,,,,,,,2020-03-04,,,isolated
 5591,,,Korea,,,,,,,,2020-03-04,,,isolated
-5592,,,Korea,,,,,,,,2020-03-04,,,isolated
+5592,male,1985,Korea,capital area,,,,,,,2020-03-04,,,isolated
 5593,,,Korea,,,,,,,,2020-03-04,,,isolated
 5594,,,Korea,,,,,,,,2020-03-04,,,isolated
 5595,,,Korea,,,,,,,,2020-03-04,,,isolated
@@ -5658,12 +5658,12 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 5658,,,Korea,,,,,,,,2020-03-04,,,isolated
 5659,,,Korea,,,,,,,,2020-03-04,,,isolated
 5660,,,Korea,,,,,,,,2020-03-04,,,isolated
-5661,,,Korea,,,,,,,,2020-03-04,,,isolated
+5661,female,1905,Korea,capital area,,,contact with patient,,,,2020-03-04,,,isolated
 5662,,,Korea,,,,,,,,2020-03-04,,,isolated
 5663,,,Korea,,,,,,,,2020-03-04,,,isolated
 5664,,,Korea,,,,,,,,2020-03-04,,,isolated
 5665,,,Korea,,,,,,,,2020-03-04,,,isolated
-5666,,,Korea,,,,,,,,2020-03-04,,,isolated
+5666,female,1971,Korea,capital area,,,contact with patient,,,,2020-03-04,,,isolated
 5667,,,Korea,,,,,,,,2020-03-04,,,isolated
 5668,,,Korea,,,,,,,,2020-03-04,,,isolated
 5669,,,Korea,,,,,,,,2020-03-04,,,isolated
@@ -5692,7 +5692,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 5692,,,Korea,,,,,,,,2020-03-04,,,isolated
 5693,,,Korea,,,,,,,,2020-03-04,,,isolated
 5694,,,Korea,,,,,,,,2020-03-04,,,isolated
-5695,,,Korea,,,,,,,,2020-03-04,,,isolated
+5695,male,1997,Korea,capital area,,,"visit to Italy, Germany, Hongkong",,,,2020-03-04,,,isolated
 5696,,,Korea,,,,,,,,2020-03-04,,,isolated
 5697,,,Korea,,,,,,,,2020-03-04,,,isolated
 5698,,,Korea,,,,,,,,2020-03-04,,,isolated
@@ -5761,7 +5761,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 5761,,,Korea,,,,,,,,2020-03-04,,,isolated
 5762,,,Korea,,,,,,,,2020-03-04,,,isolated
 5763,,,Korea,,,,,,,,2020-03-04,,,isolated
-5764,,,Korea,,,,,,,,2020-03-04,,,isolated
+5764,male,,Korea,Daejeon,,,,,,12,2020-03-04,,,isolated
 5765,,,Korea,,,,,,,,2020-03-04,,,isolated
 5766,,,Korea,,,,,,,,2020-03-04,,,isolated
 5767,male,1938,Korea,Daegu,1,,,,,,2020-03-05,,2020-03-05,deceased
@@ -6015,7 +6015,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 6015,,,Korea,,,,,,,,2020-03-05,,,isolated
 6016,,,Korea,,,,,,,,2020-03-05,,,isolated
 6017,,,Korea,,,,,,,,2020-03-05,,,isolated
-6018,,,Korea,,,,,,,,2020-03-05,,,isolated
+6018,male,,Korea,Daejeon,,,,,,,2020-03-05,,,isolated
 6019,,,Korea,,,,,,,,2020-03-05,,,isolated
 6020,,,Korea,,,,,,,,2020-03-05,,,isolated
 6021,,,Korea,,,,,,,,2020-03-05,,,isolated
@@ -6067,7 +6067,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 6067,,,Korea,,,,,,,,2020-03-05,,,isolated
 6068,,,Korea,,,,,,,,2020-03-05,,,isolated
 6069,,,Korea,,,,,,,,2020-03-05,,,isolated
-6070,,,Korea,,,,,,,,2020-03-05,,,isolated
+6070,male,1903,Korea,,,,,,,,2020-03-04,,,isolated
 6071,,,Korea,,,,,,,,2020-03-05,,,isolated
 6072,,,Korea,,,,,,,,2020-03-05,,,isolated
 6073,,,Korea,,,,,,,,2020-03-05,,,isolated
@@ -6075,7 +6075,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 6075,,,Korea,,,,,,,,2020-03-05,,,isolated
 6076,,,Korea,,,,,,,,2020-03-05,,,isolated
 6077,,,Korea,,,,,,,,2020-03-05,,,isolated
-6078,,,Korea,,,,,,,,2020-03-05,,,isolated
+6078,female,,Korea,Daejeon,,,contact with patient,,1913,,2020-03-05,,,isolated
 6079,,,Korea,,,,,,,,2020-03-05,,,isolated
 6080,,,Korea,,,,,,,,2020-03-05,,,isolated
 6081,,,Korea,,,,,,,,2020-03-05,,,isolated
@@ -6128,7 +6128,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 6128,,,Korea,,,,,,,,2020-03-05,,,isolated
 6129,,,Korea,,,,,,,,2020-03-05,,,isolated
 6130,,,Korea,,,,,,,,2020-03-05,,,isolated
-6131,,,Korea,,,,,,,,2020-03-05,,,isolated
+6131,male,1986,Korea,capital area,,,,,,,2020-03-05,,,isolated
 6132,,,Korea,,,,,,,,2020-03-05,,,isolated
 6133,,,Korea,,,,,,,,2020-03-05,,,isolated
 6134,,,Korea,,,,,,,,2020-03-05,,,isolated
@@ -6381,7 +6381,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 6381,,,Korea,,,,,,,,2020-03-06,,,isolated
 6382,,,Korea,,,,,,,,2020-03-06,,,isolated
 6383,,,Korea,,,,,,,,2020-03-06,,,isolated
-6384,,,Korea,,,,,,,,2020-03-06,,,isolated
+6384,male,1986,Korea,capital area,,,contact with patient,,,,2020-03-06,,,isolated
 6385,,,Korea,,,,,,,,2020-03-06,,,isolated
 6386,,,Korea,,,,,,,,2020-03-06,,,isolated
 6387,,,Korea,,,,,,,,2020-03-06,,,isolated
@@ -6586,7 +6586,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 6586,,,Korea,,,,,,,,2020-03-06,,,isolated
 6587,,,Korea,,,,,,,,2020-03-06,,,isolated
 6588,,,Korea,,,,,,,,2020-03-06,,,isolated
-6589,,,Korea,,,,,,,,2020-03-06,,,isolated
+6589,male,1979,Korea,capital area,,,contact with patient,,,,2020-03-06,,,isolated
 6590,,,Korea,,,,,,,,2020-03-06,,,isolated
 6591,,,Korea,,,,,,,,2020-03-06,,,isolated
 6592,,,Korea,,,,,,,,2020-03-06,,,isolated
@@ -6724,7 +6724,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 6724,,,Korea,,,,,,,,2020-03-06,,,isolated
 6725,,,Korea,,,,,,,,2020-03-06,,,isolated
 6726,,,Korea,,,,,,,,2020-03-06,,,isolated
-6727,,,Korea,,,,,,,,2020-03-06,,,isolated
+6727,male,1979,Korea,capital area,,,contact with patient,,,,2020-03-06,,,isolated
 6728,,,Korea,,,,,,,,2020-03-06,,,isolated
 6729,,,Korea,,,,,,,,2020-03-06,,,isolated
 6730,,,Korea,,,,,,,,2020-03-06,,,isolated
@@ -6770,7 +6770,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 6770,,,Korea,,,,,,,,2020-03-07,,,isolated
 6771,,,Korea,,,,,,,,2020-03-07,,,isolated
 6772,,,Korea,,,,,,,,2020-03-07,,,isolated
-6773,,,Korea,,,,,,,,2020-03-07,,,isolated
+6773,male,1929,Korea,capital area,,,contact with patient,,,,2020-03-07,,,isolated
 6774,,,Korea,,,,,,,,2020-03-07,,,isolated
 6775,,,Korea,,,,,,,,2020-03-07,,,isolated
 6776,,,Korea,,,,,,,,2020-03-07,,,isolated
@@ -6778,7 +6778,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 6778,,,Korea,,,,,,,,2020-03-07,,,isolated
 6779,,,Korea,,,,,,,,2020-03-07,,,isolated
 6780,,,Korea,,,,,,,,2020-03-07,,,isolated
-6781,,,Korea,,,,,,,,2020-03-07,,,isolated
+6781,male,1964,Korea,capital area,,,contact with patient,,,,2020-03-07,,,isolated
 6782,,,Korea,,,,,,,,2020-03-07,,,isolated
 6783,,,Korea,,,,,,,,2020-03-07,,,isolated
 6784,,,Korea,,,,,,,,2020-03-07,,,isolated
@@ -6829,7 +6829,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 6829,,,Korea,,,,,,,,2020-03-07,,,isolated
 6830,,,Korea,,,,,,,,2020-03-07,,,isolated
 6831,,,Korea,,,,,,,,2020-03-07,,,isolated
-6832,,,Korea,,,,,,,,2020-03-07,,,isolated
+6832,male,1984,Korea,capital area,,,contact with patient,,,,2020-03-04,,,isolated
 6833,,,Korea,,,,,,,,2020-03-07,,,isolated
 6834,,,Korea,,,,,,,,2020-03-07,,,isolated
 6835,,,Korea,,,,,,,,2020-03-07,,,isolated
@@ -6842,7 +6842,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 6842,,,Korea,,,,,,,,2020-03-07,,,isolated
 6843,,,Korea,,,,,,,,2020-03-07,,,isolated
 6844,,,Korea,,,,,,,,2020-03-07,,,isolated
-6845,,,Korea,,,,,,,,2020-03-07,,,isolated
+6845,female,1913,Korea,capital area,,,contact with patient,,,,2020-03-07,,,isolated
 6846,,,Korea,,,,,,,,2020-03-07,,,isolated
 6847,,,Korea,,,,,,,,2020-03-07,,,isolated
 6848,,,Korea,,,,,,,,2020-03-07,,,isolated
@@ -6880,7 +6880,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 6880,,,Korea,,,,,,,,2020-03-07,,,isolated
 6881,,,Korea,,,,,,,,2020-03-07,,,isolated
 6882,,,Korea,,,,,,,,2020-03-07,,,isolated
-6883,,,Korea,,,,,,,,2020-03-07,,,isolated
+6883,female,1956,Korea,capital area,,,contact with patient,6832,,,2020-03-06,,,isolated
 6884,,,Korea,,,,,,,,2020-03-07,,,isolated
 6885,,,Korea,,,,,,,,2020-03-07,,,isolated
 6886,,,Korea,,,,,,,,2020-03-07,,,isolated
@@ -6918,7 +6918,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 6918,,,Korea,,,,,,,,2020-03-07,,,isolated
 6919,,,Korea,,,,,,,,2020-03-07,,,isolated
 6920,,,Korea,,,,,,,,2020-03-07,,,isolated
-6921,,,Korea,,,,,,,,2020-03-07,,,isolated
+6921,female,1996,Korea,capital area,,,contact with patient,6937,,,2020-03-07,,,isolated
 6922,,,Korea,,,,,,,,2020-03-07,,,isolated
 6923,,,Korea,,,,,,,,2020-03-07,,,isolated
 6924,,,Korea,,,,,,,,2020-03-07,,,isolated
@@ -6934,8 +6934,8 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 6934,,,Korea,,,,,,,,2020-03-07,,,isolated
 6935,,,Korea,,,,,,,,2020-03-07,,,isolated
 6936,,,Korea,,,,,,,,2020-03-07,,,isolated
-6937,,,Korea,,,,,,,,2020-03-07,,,isolated
-6938,,,Korea,,,,,,,,2020-03-07,,,isolated
+6937,female,1969,Korea,capital area,,,contact with patient,,,,2020-03-07,,,isolated
+6938,,,Korea,,,,,,,,2020-03-06,,,isolated
 6939,,,Korea,,,,,,,,2020-03-07,,,isolated
 6940,,,Korea,,,,,,,,2020-03-07,,,isolated
 6941,,,Korea,,,,,,,,2020-03-07,,,isolated
@@ -6956,7 +6956,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 6956,,,Korea,,,,,,,,2020-03-07,,,isolated
 6957,,,Korea,,,,,,,,2020-03-07,,,isolated
 6958,,,Korea,,,,,,,,2020-03-07,,,isolated
-6959,,,Korea,,,,,,,,2020-03-07,,,isolated
+6959,male,1987,Korea,capital area,,,,,,,2020-03-07,,,isolated
 6960,,,Korea,,,,,,,,2020-03-07,,,isolated
 6961,,,Korea,,,,,,,,2020-03-07,,,isolated
 6962,,,Korea,,,,,,,,2020-03-07,,,isolated
@@ -6996,7 +6996,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 6996,,,Korea,,,,,,,,2020-03-07,,,isolated
 6997,,,Korea,,,,,,,,2020-03-07,,,isolated
 6998,,,Korea,,,,,,,,2020-03-07,,,isolated
-6999,,,Korea,,,,,,,,2020-03-07,,,isolated
+6999,male,1955,Korea,capital area,,,contact with patient,935,,,2020-03-07,,,isolated
 7000,,,Korea,,,,,,,,2020-03-07,,,isolated
 7001,,,Korea,,,,,,,,2020-03-07,,,isolated
 7002,,,Korea,,,,,,,,2020-03-07,,,isolated
@@ -7008,7 +7008,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 7008,,,Korea,,,,,,,,2020-03-07,,,isolated
 7009,,,Korea,,,,,,,,2020-03-07,,,isolated
 7010,,,Korea,,,,,,,,2020-03-07,,,isolated
-7011,,,Korea,,,,,,,,2020-03-07,,,isolated
+7011,male,1966,Korea,capital area,,,contact with patient,6921,,,2020-03-07,,,isolated
 7012,,,Korea,,,,,,,,2020-03-07,,,isolated
 7013,,,Korea,,,,,,,,2020-03-07,,,isolated
 7014,,,Korea,,,,,,,,2020-03-07,,,isolated
@@ -7024,7 +7024,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 7024,,,Korea,,,,,,,,2020-03-07,,,isolated
 7025,,,Korea,,,,,,,,2020-03-07,,,isolated
 7026,,,Korea,,,,,,,,2020-03-07,,,isolated
-7027,,,Korea,,,,,,,,2020-03-07,,,isolated
+7027,male,1955,Korea,capital area,,,contact with patient,6832,,,2020-03-07,,,isolated
 7028,,,Korea,,,,,,,,2020-03-07,,,isolated
 7029,,,Korea,,,,,,,,2020-03-07,,,isolated
 7030,,,Korea,,,,,,,,2020-03-07,,,isolated
@@ -7100,7 +7100,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 7100,,,Korea,,,,,,,,2020-03-07,,,isolated
 7101,,,Korea,,,,,,,,2020-03-07,,,isolated
 7102,,,Korea,,,,,,,,2020-03-07,,,isolated
-7103,,,Korea,,,,,,,,2020-03-07,,,isolated
+7103,male,1981,Korea,capital area,,,,,,,2020-03-07,,,isolated
 7104,,,Korea,,,,,,,,2020-03-07,,,isolated
 7105,,,Korea,,,,,,,,2020-03-07,,,isolated
 7106,,,Korea,,,,,,,,2020-03-07,,,isolated
@@ -7132,7 +7132,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 7132,,,Korea,,,,,,,,2020-03-07,,,isolated
 7133,,,Korea,,,,,,,,2020-03-07,,,isolated
 7134,,,Korea,,,,,,,,2020-03-07,,,isolated
-7135,,,Korea,,,,,,,,2020-03-08,,,isolated
+7135,,,Korea,capital area,,,,,,,2020-03-08,,,isolated
 7136,,,Korea,,,,,,,,2020-03-08,,,isolated
 7137,,,Korea,,,,,,,,2020-03-08,,,isolated
 7138,,,Korea,,,,,,,,2020-03-08,,,isolated
@@ -7216,7 +7216,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 7216,,,Korea,,,,,,,,2020-03-08,,,isolated
 7217,,,Korea,,,,,,,,2020-03-08,,,isolated
 7218,,,Korea,,,,,,,,2020-03-08,,,isolated
-7219,,,Korea,,,,,,,,2020-03-08,,,isolated
+7219,female,1920,Korea,capital area,,,contact with patient,7103,,,2020-03-08,,,isolated
 7220,,,Korea,,,,,,,,2020-03-08,,,isolated
 7221,,,Korea,,,,,,,,2020-03-08,,,isolated
 7222,,,Korea,,,,,,,,2020-03-08,,,isolated
@@ -7231,7 +7231,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 7231,,,Korea,,,,,,,,2020-03-08,,,isolated
 7232,,,Korea,,,,,,,,2020-03-08,,,isolated
 7233,,,Korea,,,,,,,,2020-03-08,,,isolated
-7234,,,Korea,,,,,,,,2020-03-08,,,isolated
+7234,female,1995,Korea,capital area,,,,,,,2020-03-08,,,isolated
 7235,,,Korea,,,,,,,,2020-03-08,,,isolated
 7236,,,Korea,,,,,,,,2020-03-08,,,isolated
 7237,,,Korea,,,,,,,,2020-03-08,,,isolated
@@ -7240,11 +7240,11 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 7240,,,Korea,,,,,,,,2020-03-08,,,isolated
 7241,,,Korea,,,,,,,,2020-03-08,,,isolated
 7242,,,Korea,,,,,,,,2020-03-08,,,isolated
-7243,,,Korea,,,,,,,,2020-03-08,,,isolated
+7243,female,1941,Korea,Daegu,,,,,,,2020-03-08,,,isolated
 7244,,,Korea,,,,,,,,2020-03-08,,,isolated
 7245,,,Korea,,,,,,,,2020-03-08,,,isolated
 7246,,,Korea,,,,,,,,2020-03-08,,,isolated
-7247,,,Korea,,,,,,,,2020-03-08,,,isolated
+7247,male,1993,Korea,capital area,,,,,,,2020-03-08,,,isolated
 7248,,,Korea,,,,,,,,2020-03-08,,,isolated
 7249,,,Korea,,,,,,,,2020-03-08,,,isolated
 7250,,,Korea,,,,,,,,2020-03-08,,,isolated
@@ -7262,27 +7262,27 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 7262,,,Korea,,,,,,,,2020-03-08,,,isolated
 7263,,,Korea,,,,,,,,2020-03-08,,,isolated
 7264,,,Korea,,,,,,,,2020-03-08,,,isolated
-7265,,,Korea,,,,,,,,2020-03-08,,,isolated
+7265,female,1964,Korea,capital area,,,contact with patient,,,,2020-03-08,,,isolated
 7266,,,Korea,,,,,,,,2020-03-08,,,isolated
 7267,,,Korea,,,,,,,,2020-03-08,,,isolated
-7268,,,Korea,,,,,,,,2020-03-08,,,isolated
+7268,male,,Korea,Gwangju,,Shincheonji Church,contact with patient,,126,68,2020-03-08,,,isolated
 7269,,,Korea,,,,,,,,2020-03-08,,,isolated
 7270,,,Korea,,,,,,,,2020-03-08,,,isolated
 7271,,,Korea,,,,,,,,2020-03-08,,,isolated
 7272,,,Korea,,,,,,,,2020-03-08,,,isolated
 7273,,,Korea,,,,,,,,2020-03-08,,,isolated
 7274,,,Korea,,,,,,,,2020-03-08,,,isolated
-7275,,,Korea,,,,,,,,2020-03-08,,,isolated
+7275,female,1982,Korea,capital area,,,contact with patient,,7103,,2020-03-08,,,isolated
 7276,,,Korea,,,,,,,,2020-03-08,,,isolated
 7277,,,Korea,,,,,,,,2020-03-08,,,isolated
 7278,,,Korea,,,,,,,,2020-03-08,,,isolated
 7279,,,Korea,,,,,,,,2020-03-08,,,isolated
-7280,,,Korea,,,,,,,,2020-03-08,,,isolated
-7281,,,Korea,,,,,,,,2020-03-08,,,isolated
+7280,male,1969,Korea,capital area,,,contact with patient,,6727,,2020-03-08,,,isolated
+7281,male,1951,Korea,capital area,,,contact with patient,,7103,,2020-03-08,,,isolated
 7282,,,Korea,,,,,,,,2020-03-08,,,isolated
 7283,,,Korea,,,,,,,,2020-03-08,,,isolated
 7284,,,Korea,,,,,,,,2020-03-08,,,isolated
-7285,,,Korea,,,,,,,,2020-03-08,,,isolated
+7285,female,,Korea,Gwangju,,Shincheonji Church,contact with patient,,126,12,2020-03-08,,,isolated
 7286,,,Korea,,,,,,,,2020-03-08,,,isolated
 7287,,,Korea,,,,,,,,2020-03-08,,,isolated
 7288,,,Korea,,,,,,,,2020-03-08,,,isolated
@@ -7294,10 +7294,10 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 7294,,,Korea,,,,,,,,2020-03-08,,,isolated
 7295,,,Korea,,,,,,,,2020-03-08,,,isolated
 7296,,,Korea,,,,,,,,2020-03-08,,,isolated
-7297,,,Korea,,,,,,,,2020-03-08,,,isolated
+7297,female,1952,Korea,capital area,,,contact with patient,,7103,,2020-03-08,,,isolated
 7298,,,Korea,,,,,,,,2020-03-08,,,isolated
 7299,,,Korea,,,,,,,,2020-03-08,,,isolated
-7300,,,Korea,,,,,,,,2020-03-08,,,isolated
+7300,male,1993,Korea,capital area,,,contact with patient,,5592,,2020-03-08,,,isolated
 7301,,,Korea,,,,,,,,2020-03-08,,,isolated
 7302,,,Korea,,,,,,,,2020-03-08,,,isolated
 7303,,,Korea,,,,,,,,2020-03-08,,,isolated
@@ -7398,7 +7398,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 7398,,,Korea,,,,,,,,2020-03-09,,,isolated
 7399,,,Korea,,,,,,,,2020-03-09,,,isolated
 7400,,,Korea,,,,,,,,2020-03-09,,,isolated
-7401,,,Korea,,,,,,,,2020-03-09,,,isolated
+7401,female,1969,Korea,capital area,,,contact with patient,,,,2020-03-09,,,isolated
 7402,,,Korea,,,,,,,,2020-03-09,,,isolated
 7403,,,Korea,,,,,,,,2020-03-09,,,isolated
 7404,,,Korea,,,,,,,,2020-03-09,,,isolated
@@ -7434,14 +7434,14 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 7434,,,Korea,,,,,,,,2020-03-09,,,isolated
 7435,,,Korea,,,,,,,,2020-03-09,,,isolated
 7436,,,Korea,,,,,,,,2020-03-09,,,isolated
-7437,,,Korea,,,,,,,,2020-03-09,,,isolated
+7437,female,1991,Korea,,,,contact with patient in ooo,,7300,,2020-03-09,,,isolated
 7438,,,Korea,,,,,,,,2020-03-09,,,isolated
 7439,,,Korea,,,,,,,,2020-03-09,,,isolated
 7440,,,Korea,,,,,,,,2020-03-09,,,isolated
 7441,,,Korea,,,,,,,,2020-03-09,,,isolated
 7442,,,Korea,,,,,,,,2020-03-09,,,isolated
 7443,,,Korea,,,,,,,,2020-03-09,,,isolated
-7444,,,Korea,,,,,,,,2020-03-09,,,isolated
+7444,female,1966,Korea,capital area,,,contact with patient,,,,2020-03-09,,,isolated
 7445,,,Korea,,,,,,,,2020-03-09,,,isolated
 7446,,,Korea,,,,,,,,2020-03-09,,,isolated
 7447,,,Korea,,,,,,,,2020-03-09,,,isolated
@@ -7458,15 +7458,15 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 7458,,,Korea,,,,,,,,2020-03-09,,,isolated
 7459,,,Korea,,,,,,,,2020-03-09,,,isolated
 7460,,,Korea,,,,,,,,2020-03-09,,,isolated
-7461,,,Korea,,,,,,,,2020-03-09,,,isolated
+7461,female,1970,Korea,capital area,,,contact with patient,,,,2020-03-09,,,isolated
 7462,,,Korea,,,,,,,,2020-03-09,,,isolated
-7463,,,Korea,,,,,,,,2020-03-09,,,isolated
+7463,female,1969,Korea,capital area,,,contact with patient,,,,2020-03-09,,,isolated
 7464,,,Korea,,,,,,,,2020-03-09,,,isolated
 7465,,,Korea,,,,,,,,2020-03-09,,,isolated
 7466,,,Korea,,,,,,,,2020-03-09,,,isolated
 7467,,,Korea,,,,,,,,2020-03-09,,,isolated
 7468,,,Korea,,,,,,,,2020-03-09,,,isolated
-7469,,,Korea,,,,,,,,2020-03-09,,,isolated
+7469,female,1960,Korea,capital area,,,contact with patient,,,,2020-03-09,,,isolated
 7470,,,Korea,,,,,,,,2020-03-09,,,isolated
 7471,,,Korea,,,,,,,,2020-03-09,,,isolated
 7472,,,Korea,,,,,,,,2020-03-09,,,isolated
@@ -7476,8 +7476,8 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 7476,,,Korea,,,,,,,,2020-03-09,,,isolated
 7477,,,Korea,,,,,,,,2020-03-09,,,isolated
 7478,,,Korea,,,,,,,,2020-03-09,,,isolated
-7479,,,Korea,,,,,,,,2020-03-09,,,isolated
-7480,,,Korea,,,,,,,,2020-03-09,,,isolated
+7479,male,1963,Korea,capital area,,,contact with patient,,,,2020-03-09,,,isolated
+7480,male,1965,Korea,capital area,,,contact with patient,,,,2020-03-09,,,isolated
 7481,,,Korea,,,,,,,,2020-03-09,,,isolated
 7482,,,Korea,,,,,,,,2020-03-09,,,isolated
 7483,,,Korea,,,,,,,,2020-03-09,,,isolated
@@ -7497,9 +7497,9 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 7497,,,Korea,,,,,,,,2020-03-09,,,isolated
 7498,,,Korea,,,,,,,,2020-03-09,,,isolated
 7499,,,Korea,,,,,,,,2020-03-09,,,isolated
-7500,,,Korea,,,,,,,,2020-03-09,,,isolated
+7500,female,1978,Korea,capital area,,,,,,,2020-03-09,,,isolated
 7501,,,Korea,,,,,,,,2020-03-09,,,isolated
-7502,,,Korea,,,,,,,,2020-03-09,,,isolated
+7502,female,1971,Korea,capital area,,,contact with patient,,,,2020-03-09,,,isolated
 7503,,,Korea,,,,,,,,2020-03-09,,,isolated
 7504,,,Korea,,,,,,,,2020-03-09,,,isolated
 7505,,,Korea,,,,,,,,2020-03-09,,,isolated
@@ -7510,7 +7510,7 @@ patient_id,sex,birth_year,country,region,disease,group,infection_reason,infectio
 7510,,,Korea,,,,,,,,2020-03-09,,,isolated
 7511,,,Korea,,,,,,,,2020-03-09,,,isolated
 7512,,,Korea,,,,,,,,2020-03-09,,,isolated
-7513,,,Korea,,,,,,,,2020-03-09,,,isolated
+7513,male,1989,Korea,capital area,,,,,,,2020-03-09,,,isolated
 7514,,,Korea,,,,,,,,2020-03-10,,,isolated
 7515,,,Korea,,,,,,,,2020-03-10,,,isolated
 7516,,,Korea,,,,,,,,2020-03-10,,,isolated
