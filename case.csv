@@ -43,7 +43,7 @@ case_id,province,city,group,infection_case,confirmed,latitude,longitude
 41,Gyeonggi-do,-,FALSE,overseas inflow,6,-,-
 42,Gyeonggi-do,-,FALSE,etc,40,-,-
 43,Gangwon-do,from other city,TRUE,Shincheonji Church,16,-,-
-44,Gangwon-do,-,FALSE,contact with patient,3,,
+44,Gangwon-do,-,FALSE,contact with patient,3,-,-
 45,Gangwon-do,-,FALSE,etc,10,-,-
 46,Chungcheongbuk-do,from other city,TRUE,Shincheonji Church,10,-,-
 47,Chungcheongbuk-do,Goesan-gun,TRUE,Goesan-gun Jangyeon-myeon,11,36.82422,127.9552
@@ -58,7 +58,7 @@ case_id,province,city,group,infection_case,confirmed,latitude,longitude
 56,Jeollabuk-do,-,FALSE,etc,3,-,-
 57,Jeollanam-do,from other city,TRUE,Shincheonji Church,1,-,-
 58,Jeollanam-do,-,FALSE,overseas inflow,1,-,-
-59,Jeollanam-do,-,FALSE,contact with patient,1,,
+59,Jeollanam-do,-,FALSE,contact with patient,1,-,-
 60,Jeollanam-do,-,FALSE,etc,1,-,-
 61,Gyeongsangbuk-do,from other city,TRUE,Shincheonji Church,503,-,-
 62,Gyeongsangbuk-do,Cheongdo-gun,TRUE,Cheongdo Daenam Hospital,119,35.64887,128.7368
