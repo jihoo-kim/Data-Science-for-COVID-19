@@ -7,7 +7,7 @@
 5. trend 데이터셋: 일자별 코로나 관련 키워드 검색량 정보 (네이버 기준)
   
 - 아직 확인되지 않은 정보는 추후에 업데이트할 예정입니다.
-- kaggle Data에도 공개되어 있습니다. [Coronavirus-Dataset](https://www.kaggle.com/kimjihoo/coronavirusdataset) 
+- kaggle Data에도 공개되어 있습니다. [Coronavirus-Dataset](https://www.kaggle.com/kimjihoo/coronavirusdataset) (Description in English)
 
 ***
 
