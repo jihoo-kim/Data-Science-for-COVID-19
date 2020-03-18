@@ -7,7 +7,7 @@ We make a structured dataset based on the report materials of KCDC and local gov
 Also, we analyze and visualize the data using various data mining or visualization techniques.  
 
 ## Acknowledgements
-Thanks sincerely to all the members of KCDC and local governments.
+Thanks sincerely to all the members of KCDC and local governments.  
 **Source of data**: [KCDC](http://www.cdc.go.kr/) (Korea Centers for Disease Control & Prevention)
 
 ## Official Discussions
@@ -21,10 +21,10 @@ Thanks sincerely to all the members of KCDC and local governments.
 - [[DS4C] Who spreads the corona virus?](https://www.kaggle.com/incastle/ds4c-who-spreads-the-corona-virus)
 
 ## Update
-Keep in mind that the **'patient.csv'** is an incomplete dataset (getting filled).
-The **'patient.csv'** could be updated slowly, because the exact information of patients is opened to the public a little late.
+Keep in mind that the **'patient.csv'** is an incomplete dataset (getting filled).  
+The **'patient.csv'** could be updated slowly, because the exact information of patients is opened to the public a little late.  
   
-We can update quickly other data table (e.g. **'case.csv'** and **'time.csv'**) because their stuff is clearly reported by KCDC everyday.
+We can update quickly other data table (e.g. **'case.csv'** and **'time.csv'**) because their stuff is clearly reported by KCDC everyday.  
 It means that the statistical values from **'patient.csv**' could be different from those from other datasets.
 Be careful when you analyze **'patient.csv'**.
 
