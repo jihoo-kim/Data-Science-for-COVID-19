@@ -1,8 +1,10 @@
+![data-original](https://user-images.githubusercontent.com/50820635/76986816-8881db80-6985-11ea-8bdc-fbc2e4df7cbe.png)
+
 ## Context
-COVID-19 has infected more than 8000 people in South Korea.
-KCDC (Korea Centers for Disease Control & Prevention) announces the information of COVID-19 quickly and transparently.
-We make a structured dataset based on the report materials of KCDC and local governments.
-Also, we analyze and visualize the data using various data mining or visualization techniques.
+COVID-19 has infected more than 8000 people in South Korea.  
+KCDC (Korea Centers for Disease Control & Prevention) announces the information of COVID-19 quickly and transparently.  
+We make a structured dataset based on the report materials of KCDC and local governments.  
+Also, we analyze and visualize the data using various data mining or visualization techniques.  
 
 ## Acknowledgements
 Thanks sincerely to all the members of KCDC and local governments.
