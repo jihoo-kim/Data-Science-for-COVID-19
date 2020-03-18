@@ -20,14 +20,6 @@ Thanks sincerely to all the members of KCDC and local governments.
 - [[DS4C] time series geospatial EDA using folium](https://www.kaggle.com/mbnb8317/ds4c-time-series-geospatial-eda-using-folium)
 - [[DS4C] Who spreads the corona virus?](https://www.kaggle.com/incastle/ds4c-who-spreads-the-corona-virus)
 
-## Update
-Keep in mind that the **'patient.csv'** is an incomplete dataset (getting filled).  
-The **'patient.csv'** could be updated slowly, because the exact information of patients is opened to the public a little late.  
-  
-We can update quickly other data table (e.g. **'case.csv'** and **'time.csv'**) because their stuff is clearly reported by KCDC everyday.  
-It means that the statistical values from **'patient.csv**' could be different from those from other datasets.
-Be careful when you analyze **'patient.csv'**.
-
 ***
 
 **DS4C (Data Science for COVID-19) Project**
