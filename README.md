@@ -10,16 +10,6 @@ Also, we analyze and visualize the data using various data mining or visualizati
 Thanks sincerely to all the members of KCDC and local governments.  
 **Source of data**: [KCDC](http://www.cdc.go.kr/) (Korea Centers for Disease Control & Prevention)
 
-## Official Discussions
-- [Description of the columns and values for Korean](https://www.kaggle.com/kimjihoo/coronavirusdataset/discussion/132753)
-- [Province and City of South Korea (-do, -si, -gun, -gu?)](https://www.kaggle.com/kimjihoo/coronavirusdataset/discussion/132763)
-- [External data of COVID-19 in the world](https://www.kaggle.com/kimjihoo/coronavirusdataset/discussion/133828)
-
-## Official Kernels
-- [[DS4C] EDA with Floating Population Data](https://www.kaggle.com/incastle/ds4c-eda-with-floating-population-data)
-- [[DS4C] time series geospatial EDA using folium](https://www.kaggle.com/mbnb8317/ds4c-time-series-geospatial-eda-using-folium)
-- [[DS4C] Who spreads the corona virus?](https://www.kaggle.com/incastle/ds4c-who-spreads-the-corona-virus)
-
 ***
 
 **DS4C (Data Science for COVID-19) Project**
