@@ -1,4 +1,4 @@
-![data-original](https://user-images.githubusercontent.com/50820635/76986816-8881db80-6985-11ea-8bdc-fbc2e4df7cbe.png)
+![github_logo](https://user-images.githubusercontent.com/50820635/77249285-51604280-6c83-11ea-901d-2e90d2979e69.png)
 
 ## Context
 COVID-19 has infected more than 8000 people in South Korea.  
