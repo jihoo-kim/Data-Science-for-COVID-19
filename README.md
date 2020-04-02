@@ -68,4 +68,4 @@ Thanks sincerely to all the members of KCDC and local governments.
 
 ***
 ## Dataset License
-CC BY-NC-SA 4.0
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
