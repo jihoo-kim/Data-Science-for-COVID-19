@@ -1,7 +1,8 @@
 ![github_logo](https://user-images.githubusercontent.com/50820635/77249285-51604280-6c83-11ea-901d-2e90d2979e69.png)
 
 - [Kaggle Data](https://www.kaggle.com/kimjihoo/coronavirusdataset)  
-- [The detailed description of our dataset](https://www.kaggle.com/kimjihoo/ds4c-what-is-this-dataset-detailed-description)
+- [Detailed Description of our Dataset](https://www.kaggle.com/kimjihoo/ds4c-what-is-this-dataset-detailed-description)
+- [Visualization Competition using our Dataset](https://dacon.io/competitions/official/235590/overview/)
 
 ## Context
 COVID-19 has infected more than 9000 people in South Korea.  
