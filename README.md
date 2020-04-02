@@ -23,22 +23,23 @@ Thanks sincerely to all the members of KCDC and local governments.
 1. To reprocess information provided by KCDC and local governments for easy data analysis  
 2. To find meaningful patterns by applying various data mining or visualization techniques  
 - **Project Manager**
-  - [JoongKun Lee](https://github.com/ThisIsIsaac) 
+  - [JoongKun Lee](https://github.com/ThisIsIsaac) (absent)
 - **Project Leader**
   - [ByeongUk Yu](https://www.kaggle.com/byeongukyu)
   - [MuHwan Kim](https://github.com/minty99)
   - [SeoJin Jang](https://www.kaggle.com/sarah5398)
   - [SeongHan Ryoo](https://www.kaggle.com/incastle)
-  - [WanSik Choi](https://www.kaggle.com/wansook0316)
   - [YeonJun In](https://www.kaggle.com/mbnb8317)
 - **Project Engineer**
   - [BoYoung Song](https://www.kaggle.com/bysong)
   - [DongHwan Jang](https://github.com/DongHwanJang)
+  - [Jimi Kim](https://github.com/kjm0623v)
   - [JuHwan Park](https://www.kaggle.com/parkjuhwan) (retired)
   - [KyeongWook Jang](https://www.kaggle.com/jeeudev)
   - [MinSeok Jung](https://www.kaggle.com/msjung)
   - [SangWook Park](https://www.kaggle.com/kvmoke)
   - [TaeHyeong Park](https://www.kaggle.com/asdjfalksjdh)
+  - [WanSik Choi](https://www.kaggle.com/wansook0316)
   - [Won Hwang](https://github.com/mangocode96) (retired)
   - [WonCheol Lee](https://www.kaggle.com/leewoncheol)
   - [YouNa Jung](https://www.kaggle.com/younajung)
