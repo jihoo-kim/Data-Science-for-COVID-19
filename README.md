@@ -49,8 +49,8 @@ Thanks sincerely to all the members of KCDC and local governments.
 &gt; **Github Repository**
 - [Data-Science-for-COVID-19](https://github.com/ThisIsIsaac/Data-Science-for-COVID-19)
 
-**sponsored by**
+**sponsored by**  
 <img src="https://user-images.githubusercontent.com/50820635/77623631-c4b7cc00-6f83-11ea-85d8-fc0c25d28af2.PNG" width="600">
 
-**working with**
+**working with**  
 <img src="https://user-images.githubusercontent.com/50820635/77494409-03b52700-6e89-11ea-9de5-6bf0a621134a.PNG" width="600">
