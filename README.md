@@ -13,7 +13,7 @@ Also, we analyze and visualize the data using various data mining or visualizati
 We update our dataset weekly to ensure accuracy and stability of it.
 
 ## Acknowledgements
-Thanks sincerely to all the members of KCDC and local governments.
+Thanks sincerely to all the members of KCDC and local governments.  
 **Source of data**: [KCDC](http://www.cdc.go.kr/) (Korea Centers for Disease Control & Prevention)
 
 ***
