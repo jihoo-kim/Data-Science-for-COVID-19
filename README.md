@@ -15,7 +15,7 @@ Also, we analyze and visualize the data using various data mining or visualizati
 - [[DS4C] EDA with Floating Population Data](https://www.kaggle.com/incastle/ds4c-eda-with-floating-population-data)
 - [[DS4C] Who spreads the corona virus?](https://www.kaggle.com/incastle/ds4c-who-spreads-the-corona-virus)
 - [[DS4C] time series geospatial EDA using folium.](https://www.kaggle.com/mbnb8317/ds4c-time-series-geospatial-eda-using-folium)
-- [[DS4C]Tutorial : All about folium (ing..) + 한국어 설명](https://www.kaggle.com/mbnb8317/ds4c-time-series-geospatial-eda-using-folium)
+- [[DS4C]Tutorial : All about folium (ing..) + 한국어 설명](https://www.kaggle.com/mbnb8317/ds4c-tutorial-all-about-folium-ing)
 
 ## Update
 We update our dataset weekly to ensure accuracy and stability of it.
