@@ -10,6 +10,13 @@ KCDC (Korea Centers for Disease Control & Prevention) announces the information 
 We make a structured dataset based on the report materials of KCDC and local governments.  
 Also, we analyze and visualize the data using various data mining or visualization techniques.  
 
+## Official Kernels
+- [[DS4C] What is this dataset (Detailed Description)](https://www.kaggle.com/kimjihoo/ds4c-what-is-this-dataset-detailed-description)
+- [[DS4C] EDA with Floating Population Data](https://www.kaggle.com/incastle/ds4c-eda-with-floating-population-data)
+- [[DS4C] Who spreads the corona virus?](https://www.kaggle.com/incastle/ds4c-who-spreads-the-corona-virus)
+- [[DS4C] time series geospatial EDA using folium.](https://www.kaggle.com/mbnb8317/ds4c-time-series-geospatial-eda-using-folium)
+- [[DS4C]Tutorial : All about folium (ing..) + 한국어 설명](https://www.kaggle.com/mbnb8317/ds4c-time-series-geospatial-eda-using-folium)
+
 ## Update
 We update our dataset weekly to ensure accuracy and stability of it.
 
