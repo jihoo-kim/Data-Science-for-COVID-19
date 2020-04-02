@@ -4,10 +4,10 @@
 - [The detailed description of our dataset](https://www.kaggle.com/kimjihoo/ds4c-what-is-this-dataset-detailed-description)
 
 ## Context
-COVID-19 has infected more than 9000 people in South Korea.
-KCDC (Korea Centers for Disease Control & Prevention) announces the information of COVID-19 quickly and transparently.
-We make a structured dataset based on the report materials of KCDC and local governments.
-Also, we analyze and visualize the data using various data mining or visualization techniques.
+COVID-19 has infected more than 9000 people in South Korea.  
+KCDC (Korea Centers for Disease Control & Prevention) announces the information of COVID-19 quickly and transparently.  
+We make a structured dataset based on the report materials of KCDC and local governments.  
+Also, we analyze and visualize the data using various data mining or visualization techniques.  
 
 ## Update
 We update our dataset weekly to ensure accuracy and stability of it.
@@ -19,8 +19,8 @@ Thanks sincerely to all the members of KCDC and local governments.
 ***
 
 &gt; **DS4C (Data Science for COVID-19) Project**
-1. To reprocess information provided by KCDC and local governments for easy data analysis
-2. To find meaningful patterns by applying various data mining or visualization techniques
+1. To reprocess information provided by KCDC and local governments for easy data analysis  
+2. To find meaningful patterns by applying various data mining or visualization techniques  
 - **Project Manager**
   - [JoongKun Lee](https://github.com/ThisIsIsaac) 
 - **Project Leader**
