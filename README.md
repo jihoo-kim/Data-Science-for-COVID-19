@@ -11,11 +11,12 @@ We make a structured dataset based on the report materials of KCDC and local gov
 Also, we analyze and visualize the data using various data mining or visualization techniques.  
 
 ## Official Kernels
-- [[DS4C] What is this dataset (Detailed Description)](https://www.kaggle.com/kimjihoo/ds4c-what-is-this-dataset-detailed-description)
-- [[DS4C] EDA with Floating Population Data](https://www.kaggle.com/incastle/ds4c-eda-with-floating-population-data)
-- [[DS4C] Who spreads the corona virus?](https://www.kaggle.com/incastle/ds4c-who-spreads-the-corona-virus)
-- [[DS4C] time series geospatial EDA using folium.](https://www.kaggle.com/mbnb8317/ds4c-time-series-geospatial-eda-using-folium)
-- [[DS4C]Tutorial : All about folium (ing..) + 한국어 설명](https://www.kaggle.com/mbnb8317/ds4c-tutorial-all-about-folium-ing)
+- [[DS4C] What is this dataset (Detailed Description)](https://www.kaggle.com/kimjihoo/ds4c-what-is-this-dataset-detailed-description)  
+- [[DS4C] EDA with Floating Population Data](https://www.kaggle.com/incastle/ds4c-eda-with-floating-population-data)  
+- [[DS4C] Who spreads the corona virus?](https://www.kaggle.com/incastle/ds4c-who-spreads-the-corona-virus)  
+- [[DS4C] time series geospatial EDA using folium.](https://www.kaggle.com/mbnb8317/ds4c-time-series-geospatial-eda-using-folium)  
+- [[DS4C]Tutorial : All about folium (ing..) + 한국어 설명](https://www.kaggle.com/mbnb8317/ds4c-tutorial-all-about-folium-ing)  
+- [[DS4C] Korea, Wonderland? (Fight against COVID-19)](https://www.kaggle.com/kimjihoo/ds4c-korea-wonderland-fight-against-covid-19)  
 
 ## Update
 We update our dataset weekly to ensure accuracy and stability of it.
@@ -27,36 +28,36 @@ Thanks sincerely to all the members of KCDC and local governments.
 ***
 
 &gt; **DS4C (Data Science for COVID-19) Project**
-1. To reprocess information provided by KCDC and local governments for easy data analysis  
-2. To find meaningful patterns by applying various data mining or visualization techniques  
-- **Project Manager**
-  - [JoongKun Lee](https://github.com/ThisIsIsaac) (absent)
-- **Project Leader**
+1. To reprocess information provided by KCDC and local governments for easy data analysis
+2. To find meaningful patterns by applying various data mining or visualization techniques
+- **Project Manager (PM)**
+  - [Jihoo Kim](https://www.kaggle.com/kimjihoo)
+- **Project Leader (PL)**
   - [ByeongUk Yu](https://www.kaggle.com/byeongukyu)
   - [MuHwan Kim](https://github.com/minty99)
   - [SeoJin Jang](https://www.kaggle.com/sarah5398)
   - [SeongHan Ryoo](https://www.kaggle.com/incastle)
   - [YeonJun In](https://www.kaggle.com/mbnb8317)
-- **Project Engineer**
+- **Project Engineer (PE)**
   - [BoYoung Song](https://www.kaggle.com/bysong)
-  - [DongHwan Jang](https://github.com/DongHwanJang)
   - [Jimi Kim](https://github.com/kjm0623v)
-  - [JuHwan Park](https://www.kaggle.com/parkjuhwan) (retired)
   - [KyeongWook Jang](https://www.kaggle.com/jeeudev)
   - [MinSeok Jung](https://www.kaggle.com/msjung)
   - [SangWook Park](https://www.kaggle.com/kvmoke)
   - [TaeHyeong Park](https://www.kaggle.com/asdjfalksjdh)
   - [WanSik Choi](https://www.kaggle.com/wansook0316)
-  - [Won Hwang](https://github.com/mangocode96) (retired)
   - [WonCheol Lee](https://www.kaggle.com/leewoncheol)
   - [YouNa Jung](https://www.kaggle.com/younajung)
-- **Logo Designer**
-  - [RinChong Kim](http://indesignlab.creatorlink.net)
-- **Project Advisor**
-  - [Jihoo Kim](https://www.kaggle.com/kimjihoo)
 
 &gt; **Github Repository**
 - [Data-Science-for-COVID-19](https://github.com/ThisIsIsaac/Data-Science-for-COVID-19)
+
+- **Supporter**
+  - [RinChong Kim](http://indesignlab.creatorlink.net) (Logo Designer)
+  - [JoongKun Lee](https://github.com/ThisIsIsaac) (PM)
+  - [DongHwan Jang](https://github.com/DongHwanJang) (PE)
+  - [JuHwan Park](https://www.kaggle.com/parkjuhwan) (PE)
+  - [Won Hwang](https://github.com/mangocode96) (PE)
 
 ***
 
