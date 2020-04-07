@@ -5,7 +5,7 @@
 - [Visualization Competition using our Dataset](https://dacon.io/competitions/official/235590/overview/)
 
 ## Context
-COVID-19 has infected more than 9000 people in South Korea.  
+COVID-19 has infected more than 10,000 people in South Korea.  
 KCDC (Korea Centers for Disease Control & Prevention) announces the information of COVID-19 quickly and transparently.  
 We make a structured dataset based on the report materials of KCDC and local governments.  
 Also, we analyze and visualize the data using various data mining or visualization techniques.  
