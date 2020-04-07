@@ -48,12 +48,13 @@ Thanks sincerely to all the members of KCDC and local governments.
   - [WanSik Choi](https://www.kaggle.com/wansook0316)
   - [WonCheol Lee](https://www.kaggle.com/leewoncheol)
   - [YouNa Jung](https://www.kaggle.com/younajung)
+- **Project Designer (PD)**
+  - [RinChong Kim](http://indesignlab.creatorlink.net)
 
 &gt; **Github Repository**
 - [Data-Science-for-COVID-19](https://github.com/ThisIsIsaac/Data-Science-for-COVID-19)
 
 - **Supporter**
-  - [RinChong Kim](http://indesignlab.creatorlink.net) (Logo Designer)
   - [JoongKun Lee](https://github.com/ThisIsIsaac) (PM)
   - [DongHwan Jang](https://github.com/DongHwanJang) (PE)
   - [JuHwan Park](https://www.kaggle.com/parkjuhwan) (PE)
