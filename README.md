@@ -39,7 +39,6 @@ Thanks sincerely to all the members of KCDC and local governments.
   - [SeongHan Ryoo](https://www.kaggle.com/incastle)
   - [YeonJun In](https://www.kaggle.com/mbnb8317)
 - **Project Engineer (PE)**
-  - [BoYoung Song](https://www.kaggle.com/bysong)
   - [Jimi Kim](https://github.com/kjm0623v)
   - [KyeongWook Jang](https://www.kaggle.com/jeeudev)
   - [MinSeok Jung](https://www.kaggle.com/msjung)
@@ -56,6 +55,7 @@ Thanks sincerely to all the members of KCDC and local governments.
 
 - **Supporter**
   - [JoongKun Lee](https://github.com/ThisIsIsaac) (PM)
+  - [BoYoung Song](https://www.kaggle.com/bysong) (PL)
   - [DongHwan Jang](https://github.com/DongHwanJang) (PE)
   - [JuHwan Park](https://www.kaggle.com/parkjuhwan) (PE)
   - [Won Hwang](https://github.com/mangocode96) (PE)
