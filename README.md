@@ -27,7 +27,8 @@ Thanks sincerely to all the members of KCDC and local governments.
 
 ***
 
-&gt; **DS4C (Data Science for COVID-19) Project**
+'''
+**DS4C (Data Science for COVID-19) Project**
 1. To reprocess information provided by KCDC and local governments for easy data analysis
 2. To find meaningful patterns by applying various data mining or visualization techniques
 - **Project Manager (PM)**
@@ -51,7 +52,7 @@ Thanks sincerely to all the members of KCDC and local governments.
   - [YouNa Jung](https://www.kaggle.com/younajung)
   - [DongHwan Jang](https://github.com/DongHwanJang) (absent)
 
-&gt; **Github Repository**
+**Github Repository**
 - [Data-Science-for-COVID-19](https://github.com/ThisIsIsaac/Data-Science-for-COVID-19)
 
 - **Former Maintainer**
@@ -59,6 +60,7 @@ Thanks sincerely to all the members of KCDC and local governments.
   - [Won Hwang](https://github.com/mangocode96) (PE)
 - **Logo Designer**
   - [RinChong Kim](http://indesignlab.creatorlink.net)
+'''
 
 ***
 
