@@ -25,8 +25,6 @@ We update our dataset weekly to ensure accuracy and stability of it.
 Thanks sincerely to all the members of KCDC and local governments.  
 **Source of data**: [KCDC](http://www.cdc.go.kr/) (Korea Centers for Disease Control & Prevention)
 
-***
-
 > **DS4C (Data Science for COVID-19) Project**
 > 1. To reprocess information provided by KCDC and local governments for easy data analysis
 > 2. To find meaningful patterns by applying various data mining or visualization techniques
@@ -59,8 +57,6 @@ Thanks sincerely to all the members of KCDC and local governments.
 >   - [Won Hwang](https://github.com/mangocode96) (PE)
 > - **Logo Designer**
 >   - [RinChong Kim](http://indesignlab.creatorlink.net)
-
-***
 
 **sponsored by**  
 <img src="https://user-images.githubusercontent.com/50820635/77623631-c4b7cc00-6f83-11ea-85d8-fc0c25d28af2.PNG" width="600">
