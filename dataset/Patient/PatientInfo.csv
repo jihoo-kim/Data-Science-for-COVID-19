@@ -23,7 +23,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000022,161,male,1985,30s,Korea,Seoul,Seodaemun-gu,,Eunpyeong St. Mary's Hospital,,,,,2020-02-21,,,isolated
 1000000023,188,male,1961,50s,Korea,Seoul,Seocho-gu,,Shincheonji Church,,,,,2020-02-21,,,isolated
 1000000024,348,male,1980,40s,Korea,Seoul,Guro-gu,,contact with patient,,,,,2020-02-22,2020-03-14,,released
-1000000025,365,male,1958,60s,Korea,Seoul,Gangdong-gu,,Eunpyeong St. Mary's Hospital,,1000000022,,,2020-02-22,,,isolated
+1000000025,365,male,1958,60s,Korea,Seoul,Gangdong-gu,,Eunpyeong St. Mary's Hospital,,1000000022,,,2020-02-22,,,released
 1000000026,420,male,1986,30s,Korea,Seoul,Seocho-gu,,etc,,,,2020-02-21,2020-02-22,2020-03-11,,released
 1000000027,593,male,1968,50s,Korea,Seoul,Gangseo-gu,,overseas inflow,,,,,2020-02-23,2020-03-04,,released
 1000000028,627,female,1950,70s,Korea,Seoul,Jongno-gu,,Eunpyeong St. Mary's Hospital,,,,,2020-02-23,2020-03-11,,released
@@ -34,7 +34,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000033,794,female,1970,50s,Korea,Seoul,Songpa-gu,,contact with patient,,1000000031,,,2020-02-24,2020-03-10,,released
 1000000034,797,male,2000,20s,Korea,Seoul,Songpa-gu,,contact with patient,,1000000031,,,2020-02-24,2020-03-17,,released
 1000000035,847,male,1984,30s,Korea,Seoul,etc,,etc,,,,2020-02-19,2020-02-25,2020-03-20,,released
-1000000036,870,female,1963,50s,Korea,Seoul,Eunpyeong-gu,,Eunpyeong St. Mary's Hospital,,,,,2020-02-25,,,isolated
+1000000036,870,female,1963,50s,Korea,Seoul,Eunpyeong-gu,,Eunpyeong St. Mary's Hospital,,,,,2020-02-25,,,released
 1000000037,887,female,1976,40s,Korea,Seoul,Songpa-gu,,contact with patient,,1000000031,,,2020-02-25,2020-03-11,,released
 1000000038,907,male,1953,60s,Korea,Seoul,etc,,etc,,,,2020-02-24,2020-02-25,,,released
 1000000039,924,female,1945,70s,China,Seoul,Geumcheon-gu,,overseas inflow,,,,,2020-02-25,,,released
@@ -47,7 +47,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000046,1246,female,1999,20s,Korea,Seoul,etc,,contact with patient,,1000000041,,,2020-02-26,2020-03-03,,released
 1000000047,1247,male,1993,20s,Korea,Seoul,Gangnam-gu,,Shincheonji Church,,,,,2020-02-26,2020-03-11,,released
 1000000048,1253,female,1995,20s,Korea,Seoul,Eunpyeong-gu,,etc,,,,,2020-02-26,2020-03-13,,released
-1000000049,1254,male,1956,60s,Korea,Seoul,Eunpyeong-gu,,Eunpyeong St. Mary's Hospital,,,,,2020-02-26,,,isolated
+1000000049,1254,male,1956,60s,Korea,Seoul,Eunpyeong-gu,,Eunpyeong St. Mary's Hospital,,,,,2020-02-26,,,released
 1000000050,1295,male,1994,20s,Korea,Seoul,Gwanak-gu,,etc,,,,2020-02-24,2020-02-27,,,released
 1000000051,1370,female,1992,20s,Korea,Seoul,Songpa-gu,,etc,,,,,2020-02-27,2020-03-03,,released
 1000000052,1378,male,1984,30s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-02-27,2020-03-03,,released
@@ -56,7 +56,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000055,1567,female,1993,20s,Korea,Seoul,Yangcheon-gu,,Eunpyeong St. Mary's Hospital,,,,,2020-02-27,2020-03-03,,released
 1000000056,1611,male,1962,50s,Korea,Seoul,etc,,etc,,,,,2020-02-27,2020-03-13,,released
 1000000057,1675,female,1946,70s,Korea,Seoul,etc,,Eunpyeong St. Mary's Hospital,,,,,2020-02-27,,,released
-1000000058,1710,female,1990,30s,Korea,Seoul,Gangnam-gu,,etc,,,,,2020-02-27,,,isolated
+1000000058,1710,female,1990,30s,Korea,Seoul,Gangnam-gu,,etc,,,,,2020-02-27,,,released
 1000000059,1767,female,1954,60s,Korea,Seoul,Eunpyeong-gu,,Eunpyeong St. Mary's Hospital,,1000000060,,,2020-02-28,,,released
 1000000060,1768,male,1935,80s,Korea,Seoul,Eunpyeong-gu,,Eunpyeong St. Mary's Hospital,,1000000054,,2020-02-23,2020-02-28,,,released
 1000000061,1788,male,1955,60s,Korea,Seoul,Seodaemun-gu,,Eunpyeong St. Mary's Hospital,,1000000022,,2020-02-26,2020-02-28,2020-03-14,,released
@@ -98,12 +98,12 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000097,4709,male,1985,30s,Korea,Seoul,Yangcheon-gu,,contact with patient,,,,,2020-03-01,,,released
 1000000098,4743,male,1966,50s,Korea,Seoul,Seocho-gu,,etc,,,,,2020-03-02,,,released
 1000000099,5377,female,1996,20s,Korea,Seoul,Dongdaemun-gu,,etc,,,,,2020-03-01,,,released
-1000000100,5592,male,1985,30s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,,2020-03-04,,,isolated
+1000000100,5592,male,1985,30s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,,2020-03-04,,,released
 1000000101,5661,female,2005,10s,Korea,Seoul,Jungnang-gu,,contact with patient,,,,,2020-03-04,,,released
 1000000102,5666,female,1971,40s,Korea,Seoul,Yongsan-gu,,Seongdong-gu APT,,,,,2020-03-04,,,released
 1000000103,5695,male,1997,20s,Korea,Seoul,Dongdaemun-gu,,overseas inflow,,,,,2020-03-04,2020-03-20,,released
 1000000104,6070,female,2003,10s,Korea,Seoul,Gangbuk-gu,,etc,,,,,2020-03-05,,,released
-1000000105,6131,male,1986,30s,Korea,Seoul,Gangnam-gu,,etc,,,,,2020-03-05,,,released
+1000000105,6131,male,1986,30s,Korea,Seoul,Gangnam-gu,,etc,,,,,2020-03-05,,,isolated
 1000000106,6384,male,1986,30s,Korea,Seoul,Gangseo-gu,,contact with patient,,,,,2020-03-06,,,released
 1000000107,6589,male,1985,30s,Korea,Seoul,etc,,contact with patient,,,,,2020-03-06,,,released
 1000000108,6727,male,1979,40s,Korea,Seoul,etc,,contact with patient,,,,,2020-03-06,,,released
@@ -127,7 +127,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000126,7275,female,1982,30s,Korea,Seoul,Dongdaemun-gu,,contact with patient,,1000000120,,2020-03-04,2020-03-08,,,released
 1000000127,7280,male,1969,50s,Korea,Seoul,Gangnam-gu,,contact with patient,,1000000108,,,2020-03-08,,,released
 1000000128,7281,male,1951,60s,Korea,Seoul,Dongdaemun-gu,,contact with patient,,1000000120,,2020-03-05,2020-03-08,,,released
-1000000129,7297,female,1952,60s,Korea,Seoul,Dongdaemun-gu,,contact with patient,,1000000120,,,2020-03-08,,,isolated
+1000000129,7297,female,1952,60s,Korea,Seoul,Dongdaemun-gu,,contact with patient,,1000000120,,,2020-03-08,,,released
 1000000130,7300,male,1993,20s,Korea,Seoul,Dongdaemun-gu,,contact with patient,,1000000100,,,2020-03-08,,,released
 1000000131,7401,female,1969,50s,Korea,Seoul,Eunpyeong-gu,,Guro-gu Call Center,,,,2020-03-07,2020-03-09,,,isolated
 1000000132,7479,male,1963,50s,Korea,Seoul,Eunpyeong-gu,,Guro-gu Call Center,,,,,2020-03-09,,,isolated
@@ -135,22 +135,22 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000134,7437,female,1991,20s,Korea,Seoul,Dongjak-gu,,contact with patient,,1000000130,,,2020-03-09,,,released
 1000000135,7513,male,1989,30s,Korea,Seoul,Eunpyeong-gu,,etc,,,,,2020-03-09,,,released
 1000000136,7461,female,1970,50s,Korea,Seoul,Jung-gu,,Guro-gu Call Center,,,,,2020-03-09,,,isolated
-1000000137,7463,female,1969,50s,Korea,Seoul,Geumcheon-gu,,Guro-gu Call Center,,,,,2020-03-09,,,isolated
+1000000137,7463,female,1969,50s,Korea,Seoul,Geumcheon-gu,,Guro-gu Call Center,,,,,2020-03-09,,,released
 1000000138,7683,male,1987,30s,Korea,Seoul,etc,,etc,,,,,2020-03-09,,,released
 1000000139,8050,male,1990,30s,Korea,Seoul,Yangcheon-gu,,Guro-gu Call Center,,,,,2020-03-09,,,isolated
-1000000140,7500,female,1978,40s,Korea,Seoul,Eunpyeong-gu,,etc,,,,2020-02-27,2020-03-09,,,isolated
-1000000141,7580,female,1962,50s,Korea,Seoul,Nowon-gu,,Guro-gu Call Center,,,,2020-03-07,2020-03-09,,,isolated
+1000000140,7500,female,1978,40s,Korea,Seoul,Eunpyeong-gu,,etc,,,,2020-02-27,2020-03-09,,,released
+1000000141,7580,female,1962,50s,Korea,Seoul,Nowon-gu,,Guro-gu Call Center,,,,2020-03-07,2020-03-09,,,released
 1000000142,7726,female,1972,40s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-09,,,released
 1000000143,8003,male,1977,40s,Korea,Seoul,Yangcheon-gu,,Guro-gu Call Center,,,,2020-03-06,2020-03-09,,,released
-1000000144,7502,female,1971,40s,Korea,Seoul,Gangseo-gu,,Guro-gu Call Center,,,,,2020-03-09,,,isolated
-1000000145,7710,male,1975,40s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-09,,,isolated
-1000000146,7636,female,1969,50s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-09,,,isolated
-1000000147,7544,male,1998,20s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-09,,,isolated
+1000000144,7502,female,1971,40s,Korea,Seoul,Gangseo-gu,,Guro-gu Call Center,,,,,2020-03-09,,,released
+1000000145,7710,male,1975,40s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-09,,,released
+1000000146,7636,female,1969,50s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-09,,,released
+1000000147,7544,male,1998,20s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-09,,,released
 1000000148,7480,male,1965,50s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-09,,,isolated
 1000000149,7752,female,1967,50s,Korea,Seoul,etc,,Guro-gu Call Center,,,,,2020-03-09,,,released
 1000000150,7469,female,1960,60s,Korea,Seoul,Gangseo-gu,,Guro-gu Call Center,,,,,2020-03-09,,,released
-1000000151,7719,female,1971,40s,Korea,Seoul,etc,,Guro-gu Call Center,,,,,2020-03-09,,,isolated
-1000000152,7668,female,1974,40s,Korea,Seoul,etc,,Guro-gu Call Center,,,,,2020-03-09,,,released
+1000000151,7719,female,1971,40s,Korea,Seoul,etc,,Guro-gu Call Center,,,,,2020-03-09,,,released
+1000000152,7668,female,1974,40s,Korea,Seoul,etc,,Guro-gu Call Center,,,,,2020-03-09,,,isolated
 1000000153,7740,female,1970,50s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,2020-03-06,2020-03-09,,,isolated
 1000000154,7700,female,1969,50s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-09,,,released
 1000000155,7444,female,1966,50s,Korea,Seoul,Gangseo-gu,,Guro-gu Call Center,,,,,2020-03-09,,,released
@@ -159,23 +159,23 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000158,7721,female,1972,40s,Korea,Seoul,Dongjak-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released
 1000000159,7666,female,1976,40s,Korea,Seoul,Gwanak-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released
 1000000160,7644,female,1960,60s,Korea,Seoul,Gwanak-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released
-1000000161,7603,female,1967,50s,Korea,Seoul,Gwanak-gu,,Guro-gu Call Center,,,,,2020-03-10,,,isolated
-1000000162,7727,female,1966,50s,Korea,Seoul,Gangseo-gu,,Guro-gu Call Center,,,,,2020-03-10,,,isolated
+1000000161,7603,female,1967,50s,Korea,Seoul,Gwanak-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released
+1000000162,7727,female,1966,50s,Korea,Seoul,Gangseo-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released
 1000000163,7723,female,1972,40s,Korea,Seoul,Gangseo-gu,,Guro-gu Call Center,,,,,2020-03-10,,,isolated
 1000000164,7573,female,1959,60s,Korea,Seoul,Eunpyeong-gu,,contact with patient,,1000000140,,2020-02-29,2020-03-10,,,isolated
 1000000165,7624,female,1971,40s,Korea,Seoul,Songpa-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released
 1000000166,7685,female,1979,40s,Korea,Seoul,Yeongdeungpo-gu,,Guro-gu Call Center,,,,,2020-03-10,,,isolated
 1000000167,7622,female,1980,40s,Korea,Seoul,Yeongdeungpo-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released
-1000000168,7653,female,1977,40s,Korea,Seoul,Yeongdeungpo-gu,,Guro-gu Call Center,,,,,2020-03-10,,,isolated
+1000000168,7653,female,1977,40s,Korea,Seoul,Yeongdeungpo-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released
 1000000169,7712,female,1971,40s,Korea,Seoul,Yangcheon-gu,,Guro-gu Call Center,,,,,2020-03-10,,,isolated
-1000000170,7734,female,1968,50s,Korea,Seoul,Gwanak-gu,,Guro-gu Call Center,,,,,2020-03-10,,,isolated
+1000000170,7734,female,1968,50s,Korea,Seoul,Gwanak-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released
 1000000171,7638,female,1972,40s,Korea,Seoul,Yangcheon-gu,,Guro-gu Call Center,,,,2020-02-29,2020-03-10,,,released
 1000000172,7642,female,1965,50s,Korea,Seoul,Yangcheon-gu,,Guro-gu Call Center,,,,2020-03-08,2020-03-10,,,released
 1000000173,7731,female,1962,50s,Korea,Seoul,Gangseo-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released
 1000000174,7571,male,1993,20s,Korea,Seoul,Dongdaemun-gu,,contact with patient,,1000000124,,,2020-03-10,,,released
 1000000175,7695,female,1992,20s,Korea,Seoul,Gangseo-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released
 1000000176,7564,female,1975,40s,Korea,Seoul,Yeongdeungpo-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released
-1000000177,7523,male,1979,40s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-10,,,isolated
+1000000177,7523,male,1979,40s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released
 1000000178,7602,female,1995,20s,Korea,Seoul,Dongdaemun-gu,,contact with patient,,1000000100,,,2020-03-10,,,released
 1000000179,7584,male,1970,50s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released
 1000000180,7520,female,1972,40s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released
@@ -184,7 +184,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000183,7840,female,1967,50s,Korea,Seoul,Mapo-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released
 1000000184,7823,male,1982,30s,Korea,Seoul,Mapo-gu,,Guro-gu Call Center,,,,2020-03-09,2020-03-10,,,isolated
 1000000185,7742,female,1982,30s,Korea,Seoul,Mapo-gu,,Guro-gu Call Center,,,,2020-03-09,2020-03-10,,,isolated
-1000000186,7630,female,1970,50s,Korea,Seoul,Yeongdeungpo-gu,,Guro-gu Call Center,,,,,2020-03-10,,,isolated
+1000000186,7630,female,1970,50s,Korea,Seoul,Yeongdeungpo-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released
 1000000187,7637,female,1968,50s,Korea,Seoul,Geumcheon-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released
 1000000188,7561,female,1994,20s,Korea,Seoul,Dongdaemun-gu,,contact with patient,,1000000127,,,2020-03-10,2020-03-19,,released
 1000000189,7536,male,1992,20s,Korea,Seoul,Dongdaemun-gu,,contact with patient,,1000000124,,2020-03-02,2020-03-10,,,released
@@ -194,10 +194,10 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000193,7826,male,1991,20s,Korea,Seoul,Gwanak-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released
 1000000194,7787,male,1974,40s,Korea,Seoul,Gwanak-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released
 1000000195,7795,female,1981,30s,Korea,Seoul,Gwanak-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released
-1000000196,7619,female,1954,60s,Korea,Seoul,Yangcheon-gu,,Guro-gu Call Center,,,,,2020-03-10,,,isolated
+1000000196,7619,female,1954,60s,Korea,Seoul,Yangcheon-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released
 1000000197,7524,male,1953,60s,Korea,Seoul,Yangcheon-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released
-1000000198,7539,female,1968,50s,Korea,Seoul,Yangcheon-gu,,Guro-gu Call Center,,,,,2020-03-10,,,isolated
-1000000199,7725,female,1980,40s,Korea,Seoul,Yangcheon-gu,,Guro-gu Call Center,,,,,2020-03-10,,,isolated
+1000000198,7539,female,1968,50s,Korea,Seoul,Yangcheon-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released
+1000000199,7725,female,1980,40s,Korea,Seoul,Yangcheon-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released
 1000000200,7555,female,1968,50s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-10,,,released
 1000000201,7711,male,1989,30s,Korea,Seoul,Nowon-gu,,Guro-gu Call Center,,,,2020-03-10,2020-03-10,,,isolated
 1000000202,7567,male,1959,60s,Korea,Seoul,Nowon-gu,,Guro-gu Call Center,,,,2020-03-08,2020-03-10,,,released
@@ -210,15 +210,15 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000209,7765,male,1941,70s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,2020-03-10,2020-03-11,,,released
 1000000210,7836,male,1966,50s,Korea,Seoul,Eunpyeong-gu,,etc,,,,,2020-03-11,,,released
 1000000211,7759,male,2000,20s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,,2020-03-11,,,released
-1000000212,7794,female,1998,20s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,,2020-03-11,,,released
+1000000212,7794,female,1998,20s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,,2020-03-11,,,isolated
 1000000213,7876,female,1994,20s,Korea,Seoul,Mapo-gu,,Guro-gu Call Center,,,,2020-03-10,2020-03-11,,,released
-1000000214,7805,female,1969,50s,Korea,Seoul,Seodaemun-gu,,Guro-gu Call Center,,,,,2020-03-11,,,isolated
+1000000214,7805,female,1969,50s,Korea,Seoul,Seodaemun-gu,,Guro-gu Call Center,,,,,2020-03-11,,,released
 1000000215,7856,female,1951,60s,Korea,Seoul,Songpa-gu,,etc,,,,,2020-03-11,,,isolated
 1000000216,8063,male,1987,30s,Korea,Seoul,Seongbuk-gu,,overseas inflow,,,,,2020-03-11,,,isolated
-1000000217,7967,male,1992,20s,Korea,Seoul,Seongbuk-gu,,Dongan Church,,,,,2020-03-11,,,isolated
+1000000217,7967,male,1992,20s,Korea,Seoul,Seongbuk-gu,,Dongan Church,,,,,2020-03-11,,,released
 1000000218,,male,1974,40s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,2020-03-10,2020-03-11,,,isolated
 1000000219,7871,female,1984,30s,Korea,Seoul,Jungnang-gu,,Guro-gu Call Center,,,,,2020-03-11,,,isolated
-1000000220,7810,male,1969,50s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,,2020-03-11,,,isolated
+1000000220,7810,male,1969,50s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,,2020-03-11,,,released
 1000000221,7893,male,2007,10s,Korea,Seoul,Nowon-gu,,contact with patient,,1000000164,,,2020-03-12,,,isolated
 1000000222,7965,male,1964,50s,Korea,Seoul,Gangbuk-gu,,overseas inflow,,,,,2020-03-12,,,isolated
 1000000223,7975,female,1991,20s,Korea,Seoul,Gangnam-gu,,Guro-gu Call Center,,,,,2020-03-12,,,released
@@ -226,9 +226,9 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000225,7939,male,1998,20s,Korea,Seoul,Seongbuk-gu,,contact with patient,,1000000212,,,2020-03-12,,,released
 1000000226,7925,male,1991,20s,Korea,Seoul,Geumcheon-gu,,Guro-gu Call Center,,,,,2020-03-12,,,released
 1000000227,7914,male,1982,30s,Korea,Seoul,Geumcheon-gu,,etc,,,,2020-03-10,2020-03-12,,,isolated
-1000000228,7929,female,1958,60s,Korea,Seoul,Songpa-gu,,Guro-gu Call Center,,,,,2020-03-12,,,isolated
+1000000228,7929,female,1958,60s,Korea,Seoul,Songpa-gu,,Guro-gu Call Center,,,,,2020-03-12,,,released
 1000000229,8057,male,1984,30s,Korea,Seoul,Yongsan-gu,,overseas inflow,,,,,2020-03-12,,,released
-1000000230,7923,male,1992,20s,Korea,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-03-12,,,isolated
+1000000230,7923,male,1992,20s,Korea,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-03-12,,,released
 1000000231,8055,female,1963,50s,Korea,Seoul,Seocho-gu,,Shincheonji Church,,,,,2020-03-12,,,released
 1000000232,8074,male,1998,20s,Korea,Seoul,Gwanak-gu,,contact with patient,,1000000230,,,2020-03-13,,,released
 1000000233,8127,female,1991,20s,Korea,Seoul,Seocho-gu,,contact with patient,,1000000230,,,2020-03-13,,,isolated
@@ -239,17 +239,17 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000238,8049,female,1941,70s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,,2020-03-13,,,isolated
 1000000239,8059,male,1994,20s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,,2020-03-13,,,isolated
 1000000240,7986,male,1966,50s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,2020-03-05,2020-03-13,,,isolated
-1000000241,8158,female,1953,60s,Korea,Seoul,Jungnang-gu,,Dongan Church,,,,,2020-03-14,,,isolated
+1000000241,8158,female,1953,60s,Korea,Seoul,Jungnang-gu,,Dongan Church,,,,,2020-03-14,,,released
 1000000242,8125,male,1995,20s,Korea,Seoul,Mapo-gu,,contact with patient,,1000000237,,2020-03-11,2020-03-14,,,isolated
 1000000243,8132,female,1972,40s,Korea,Seoul,Gangnam-gu,,contact with patient,,,,,2020-03-14,,,isolated
 1000000244,8102,female,1959,60s,Korea,Seoul,Dobong-gu,,Dongan Church,,,,,2020-03-14,,,released
 1000000245,8140,male,1981,30s,Korea,Seoul,Yeongdeungpo-gu,,Guro-gu Call Center,,,,,2020-03-14,,,released
 1000000246,8138,male,1967,50s,Korea,Seoul,Yeongdeungpo-gu,,etc,,,,2020-03-11,2020-03-14,,,isolated
-1000000247,8096,male,1969,50s,Korea,Seoul,Guro-gu,,overseas inflow,,,,,2020-03-14,,,isolated
+1000000247,8096,male,1969,50s,Korea,Seoul,Guro-gu,,overseas inflow,,,,,2020-03-14,,,released
 1000000248,8153,female,1969,50s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-14,,,released
 1000000249,8209,female,1992,20s,Korea,Seoul,Nowon-gu,,contact with patient,,,,2020-03-12,2020-03-15,,,released
 1000000250,8196,female,2001,10s,Korea,Seoul,Yeongdeungpo-gu,,contact with patient,,1000000246,,2020-03-10,2020-03-15,,,isolated
-1000000251,8183,male,2012,0s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-15,,,isolated
+1000000251,8183,male,2012,0s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-15,,,released
 1000000252,8717,male,1982,30s,Korea,Seoul,Gangseo-gu,,etc,,,,2020-03-12,2020-03-15,,,released
 1000000253,8178,male,1967,50s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-15,,,isolated
 1000000254,8192,female,1939,80s,Korea,Seoul,Eunpyeong-gu,,Guro-gu Call Center,,,,2020-03-15,2020-03-15,,,isolated
@@ -257,7 +257,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000256,8250,female,1996,20s,Korea,Seoul,Eunpyeong-gu,,Guro-gu Call Center,,,,,2020-03-16,,,isolated
 1000000257,8306,male,1986,30s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-16,,,released
 1000000258,8317,male,1993,20s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,,2020-03-16,,,released
-1000000259,8270,male,1995,20s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,,2020-03-16,,,isolated
+1000000259,8270,male,1995,20s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,,2020-03-16,,,released
 1000000260,8311,male,1999,30s,Korea,Seoul,Seodaemun-gu,,etc,,,,,2020-03-16,,,released
 1000000261,8297,male,1978,40s,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-03-16,,,isolated
 1000000262,8254,female,1980,40s,Korea,Seoul,Yongsan-gu,,Guro-gu Call Center,,,,2020-03-07,2020-03-16,,,released
@@ -265,7 +265,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000264,8245,male,1978,40s,Korea,Seoul,Gangseo-gu,,contact with patient,,,,,2020-03-16,,,released
 1000000265,8408,male,1986,30s,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-03-16,,,isolated
 1000000266,8271,male,1994,20s,Korea,Seoul,Yeongdeungpo-gu,,overseas inflow,,,,2020-03-12,2020-03-16,,,isolated
-1000000267,8369,female,1967,50s,Korea,Seoul,Dongjak-gu,,etc,,,,,2020-03-16,,,isolated
+1000000267,8369,female,1967,50s,Korea,Seoul,Dongjak-gu,,etc,,,,,2020-03-16,,,released
 1000000268,8390,male,2006,10s,Korea,Seoul,Dongdaemun-gu,,Dongan Church,,,,,2020-03-17,,,isolated
 1000000269,8359,female,1999,20s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-17,,,isolated
 1000000270,8342,female,1997,20s,Korea,Seoul,etc,,overseas inflow,,,,,2020-03-17,,,released
@@ -274,11 +274,11 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000273,8508,female,1973,40s,Korea,Seoul,Seongbuk-gu,,Guro-gu Call Center,,,,,2020-03-18,,,released
 1000000274,8529,female,1963,50s,Korea,Seoul,Seongbuk-gu,,Dongan Church,,,,,2020-03-18,,,isolated
 1000000275,8485,female,1982,30s,Korea,Seoul,Mapo-gu,,Guro-gu Call Center,,,,2020-03-16,2020-03-18,,,released
-1000000276,8461,male,2012,0s,Korea,Seoul,Yangcheon-gu,,Guro-gu Call Center,,,,2020-03-16,2020-03-18,,,isolated
+1000000276,8461,male,2012,0s,Korea,Seoul,Yangcheon-gu,,Guro-gu Call Center,,,,2020-03-16,2020-03-18,,,released
 1000000277,8446,male,1984,30s,Korea,Seoul,Dongjak-gu,,overseas inflow,,,,,2020-03-18,,,isolated
 1000000278,8476,female,1994,20s,Korea,Seoul,Nowon-gu,,overseas inflow,,,,2020-03-15,2020-03-18,,,isolated
 1000000279,8486,male,1929,90s,Korea,Seoul,Yongsan-gu,,etc,,,,2020-03-11,2020-03-18,,,released
-1000000280,8547,male,1977,40s,Korea,Seoul,Gangnam-gu,,etc,,,,,2020-03-18,,,isolated
+1000000280,8547,male,1977,40s,Korea,Seoul,Gangnam-gu,,etc,,,,,2020-03-18,,,released
 1000000281,8456,female,1982,30s,Korea,Seoul,Dongjak-gu,,overseas inflow,,,,,2020-03-18,,,isolated
 1000000282,8557,male,1985,30s,Korea,Seoul,Gwangjin-gu,,overseas inflow,,,,,2020-03-18,,,isolated
 1000000283,8648,female,1941,70s,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-03-19,,,isolated
@@ -289,18 +289,18 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000288,8601,female,1961,50s,Korea,Seoul,Nowon-gu,,contact with patient,,1000000279,,,2020-03-19,,,isolated
 1000000289,8619,male,1997,20s,Korea,Seoul,Dongjak-gu,,overseas inflow,,,,,2020-03-19,,,isolated
 1000000290,8615,female,1985,30s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-19,,,isolated
-1000000291,8598,female,1964,50s,Korea,Seoul,Gangseo-gu,,Guro-gu Call Center,,,,,2020-03-19,,,isolated
+1000000291,8598,female,1964,50s,Korea,Seoul,Gangseo-gu,,Guro-gu Call Center,,,,,2020-03-19,,,released
 1000000292,8616,female,1971,40s,Korea,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-03-19,,,released
-1000000293,8606,female,1954,60s,Korea,Seoul,Yangcheon-gu,,Guro-gu Call Center,,,,,2020-03-19,,,isolated
+1000000293,8606,female,1954,60s,Korea,Seoul,Yangcheon-gu,,Guro-gu Call Center,,,,,2020-03-19,,,released
 1000000294,8646,female,1959,60s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-19,,,isolated
 1000000295,8595,female,1984,30s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-19,,,isolated
-1000000296,8603,female,1969,50s,Korea,Seoul,Dongjak-gu,,Guro-gu Call Center,,,,,2020-03-19,,,isolated
+1000000296,8603,female,1969,50s,Korea,Seoul,Dongjak-gu,,Guro-gu Call Center,,,,,2020-03-19,,,released
 1000000297,8614,female,1991,20s,Korea,Seoul,Yeongdeungpo-gu,,contact with patient,,1000000266,,,2020-03-19,,,isolated
 1000000298,8588,female,1965,50s,Korea,Seoul,Yeongdeungpo-gu,,contact with patient,,1000000266,,,2020-03-19,,,isolated
-1000000299,8612,male,1972,40s,Korea,Seoul,Nowon-gu,,overseas inflow,,,,,2020-03-19,,,isolated
+1000000299,8612,male,1972,40s,Korea,Seoul,Nowon-gu,,overseas inflow,,,,,2020-03-19,,,released
 1000000300,8782,female,1973,40s,Korea,Seoul,Guro-gu,,Guro-gu Call Center,,,,,2020-03-20,,,isolated
 1000000301,8762,male,1982,30s,Korea,Seoul,Dongjak-gu,,etc,,,,,2020-03-20,,,isolated
-1000000302,8669,male,2009,10s,Korea,Seoul,Dongjak-gu,,overseas inflow,,,8,2020-03-19,2020-03-20,,,isolated
+1000000302,8669,male,2009,10s,Korea,Seoul,Dongjak-gu,,overseas inflow,,,8,2020-03-19,2020-03-20,,,released
 1000000303,8787,male,1950,70s,Korea,Seoul,Yeongdeungpo-gu,,overseas inflow,,,,2020-03-07,2020-03-20,,,isolated
 1000000304,8717,female,1994,20s,Korea,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-03-20,,,isolated
 1000000305,8791,male,1997,20s,Korea,Seoul,Jungnang-gu,,overseas inflow,,,,,2020-03-20,,,isolated
@@ -310,33 +310,33 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000309,8664,male,1980,40s,Korea,Seoul,Gangdong-gu,,overseas inflow,,,,,2020-03-20,,,released
 1000000310,8792,female,1960,60s,Korea,Seoul,Seongbuk-gu,,contact with patient,,1000000216,,2020-03-19,2020-03-20,,,isolated
 1000000311,8760,female,2016,0s,Korea,Seoul,Gangseo-gu,,contact with patient,,1000000264,,,2020-03-20,,,isolated
-1000000312,8682,male,1967,50s,Korea,Seoul,Gangdong-gu,,etc,,,,,2020-03-20,,,isolated
+1000000312,8682,male,1967,50s,Korea,Seoul,Gangdong-gu,,etc,,,,,2020-03-20,,,released
 1000000313,8670,female,1999,20s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,2020-03-19,2020-03-20,,,isolated
 1000000314,8661,male,1999,20s,Korea,Seoul,Gwangjin-gu,,overseas inflow,,,,,2020-03-20,,,isolated
 1000000315,8824,female,1966,50s,Korea,Seoul,Gwanak-gu,,Guro-gu Call Center,,,,,2020-03-20,,,isolated
 1000000316,8884,male,1994,20s,Korea,Seoul,Nowon-gu,,etc,,,,2020-03-18,2020-03-20,,,isolated
 1000000317,8835,female,1990,30s,Korea,Seoul,Gangseo-gu,,overseas inflow,,,,2020-03-15,2020-03-21,,,released
-1000000318,8871,male,1998,20s,Korea,Seoul,Jungnang-gu,,contact with patient,,1000000305,,,2020-03-21,,,isolated
+1000000318,8871,male,1998,20s,Korea,Seoul,Jungnang-gu,,contact with patient,,1000000305,,,2020-03-21,,,released
 1000000319,8833,male,1997,20s,Korea,Seoul,Jungnang-gu,,contact with patient,,1000000305,,,2020-03-21,,,isolated
 1000000320,8848,male,1959,60s,Korea,Seoul,Seongdong-gu,,contact with patient,,1000000304,,2020-03-21,2020-03-21,,,isolated
 1000000321,8836,male,1991,20s,Korea,Seoul,Yeongdeungpo-gu,,overseas inflow,,,,2020-03-12,2020-03-21,,,released
 1000000322,8881,female,1991,20s,Korea,Seoul,Seodaemun-gu,,overseas inflow,,,,,2020-03-21,,,released
-1000000323,8826,male,1982,30s,Korea,Seoul,Seodaemun-gu,,contact with patient,,1000000322,,,2020-03-21,,,isolated
+1000000323,8826,male,1982,30s,Korea,Seoul,Seodaemun-gu,,contact with patient,,1000000322,,,2020-03-21,,,released
 1000000324,8816,female,1968,50s,Korea,Seoul,Seocho-gu,,etc,,,,2020-03-19,2020-03-21,,,released
-1000000325,8919,male,1961,50s,Korea,Seoul,Seongbuk-gu,,overseas inflow,,,,,2020-03-22,,,isolated
-1000000326,8938,male,1997,20s,Korea,Seoul,Dobong-gu,,overseas inflow,,,,,2020-03-22,,,isolated
-1000000327,8914,female,1993,20s,Korea,Seoul,Gangseo-gu,,overseas inflow,,,,,2020-03-22,,,isolated
-1000000328,8915,female,1963,50s,Korea,Seoul,Seodaemun-gu,,Guro-gu Call Center,,1000000214,,,2020-03-22,,,released
-1000000329,8918,female,1973,40s,Korea,Seoul,Seodaemun-gu,,Guro-gu Call Center,,1000000214,,,2020-03-22,,,isolated
-1000000330,8940,female,1996,20s,Korea,Seoul,Eunpyeong-gu,,contact with patient,,1000000306,,,2020-03-22,,,isolated
-1000000331,8991,male,1943,70s,Korea,Seoul,Yeongdeungpo-gu,,etc,,,,2020-03-18,2020-03-23,,,isolated
-1000000332,9016,male,1971,40s,Korea,Seoul,Yongsan-gu,,overseas inflow,,,,,2020-03-23,,,isolated
+1000000325,8961,male,1961,50s,Korea,Seoul,Seongbuk-gu,,overseas inflow,,,,,2020-03-22,,,released
+1000000326,8938,male,1997,20s,Korea,Seoul,Dobong-gu,,overseas inflow,,,,,2020-03-22,,,released
+1000000327,8928,female,1993,20s,Korea,Seoul,Gangseo-gu,,overseas inflow,,,,,2020-03-22,,,released
+1000000328,8937,female,1963,50s,Korea,Seoul,Seodaemun-gu,,Guro-gu Call Center,,1000000214,,,2020-03-22,,,released
+1000000329,8943,female,1973,40s,Korea,Seoul,Seodaemun-gu,,Guro-gu Call Center,,1000000214,,,2020-03-22,,,isolated
+1000000330,8940,female,1996,20s,Korea,Seoul,Eunpyeong-gu,,contact with patient,,1000000306,,,2020-03-22,,,released
+1000000331,8991,male,1943,70s,Korea,Seoul,Yeongdeungpo-gu,,etc,,,,2020-03-18,2020-03-23,,,released
+1000000332,9016,male,1971,40s,Korea,Seoul,Yongsan-gu,,overseas inflow,,,,,2020-03-23,,,released
 1000000333,9020,female,2003,10s,Korea,Seoul,Jongno-gu,,overseas inflow,,,,,2020-03-23,,,isolated
 1000000334,9028,male,1996,20s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-23,,,released
 1000000335,9085,male,1982,30s,United States,Seoul,Gangseo-gu,,overseas inflow,,,,,2020-03-24,,,released
 1000000336,9112,female,1993,20s,Korea,Seoul,Gangdong-gu,,overseas inflow,,,,,2020-03-23,,,isolated
 1000000337,9117,female,1992,20s,Korea,Seoul,Dongjak-gu,,overseas inflow,,,,,2020-03-24,,,isolated
-1000000338,9096,female,1998,20s,United States,Seoul,Jungnang-gu,,overseas inflow,,,,,2020-03-24,,,isolated
+1000000338,9096,female,1998,20s,United States,Seoul,Jungnang-gu,,overseas inflow,,,,,2020-03-24,,,released
 1000000339,9089,male,1991,20s,Korea,Seoul,Jungnang-gu,,overseas inflow,,,,,2020-03-24,,,isolated
 1000000340,9101,female,1999,20s,Korea,Seoul,Dobong-gu,,overseas inflow,,,,,2020-03-24,,,released
 1000000341,9135,female,1982,30s,Korea,Seoul,Gangseo-gu,,contact with patient,,1000000264,,2020-03-22,2020-03-24,,,isolated
@@ -344,7 +344,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000343,9079,male,1990,30s,Korea,Seoul,Yongsan-gu,,overseas inflow,,,,2020-03-18,2020-03-24,,,isolated
 1000000344,9115,male,1959,60s,Korea,Seoul,Gangnam-gu,,contact with patient,,1000000294,,2020-03-19,2020-03-24,,,isolated
 1000000345,9099,male,1960,60s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,2020-03-22,2020-03-24,,,isolated
-1000000346,9074,male,1963,50s,Korea,Seoul,etc,,overseas inflow,,,,,2020-03-24,,,isolated
+1000000346,9074,male,1963,50s,Korea,Seoul,etc,,overseas inflow,,,,,2020-03-24,,,released
 1000000347,9127,female,1998,20s,Korea,Seoul,Eunpyeong-gu,,contact with patient,,1000000306,,,2020-03-24,,,isolated
 1000000348,9182,female,1998,20s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-23,,,isolated
 1000000349,9232,female,1981,30s,Korea,Seoul,Dongdaemun-gu,,overseas inflow,,,,,2020-03-24,,,isolated
@@ -358,16 +358,16 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000357,9219,female,2000,20s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-25,,,isolated
 1000000358,9204,male,1993,20s,Korea,Seoul,etc,,overseas inflow,,,4,,2020-03-25,,,isolated
 1000000359,9171,male,1999,20s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,3,,2020-03-25,,,isolated
-1000000360,9228,female,2002,10s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,3,,2020-03-25,,,isolated
+1000000360,9228,female,2002,10s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,3,,2020-03-25,,,released
 1000000361,9366,male,2000,20s,Korea,Seoul,Jungnang-gu,,overseas inflow,,,6,,2020-03-26,,,isolated
 1000000362,9325,female,1996,20s,Korea,Seoul,Seongbuk-gu,,overseas inflow,,,,,2020-03-26,,,isolated
-1000000363,9301,female,1987,30s,Korea,Seoul,Geumcheon-gu,,contact with patient,,1000000353,,,2020-03-26,,,isolated
+1000000363,9301,female,1987,30s,Korea,Seoul,Geumcheon-gu,,contact with patient,,1000000353,,,2020-03-26,,,released
 1000000364,9277,male,1978,40s,Korea,Seoul,Yongsan-gu,,contact with patient,,1000000229,,,2020-03-26,,,isolated
-1000000365,9307,female,1962,50s,Korea,Seoul,Guro-gu,,contact with patient,,1000000353,,2020-03-22,2020-03-26,,,isolated
+1000000365,9307,female,1962,50s,Korea,Seoul,Guro-gu,,contact with patient,,1000000353,,2020-03-22,2020-03-26,,,released
 1000000366,9320,male,1961,50s,Korea,Seoul,Guro-gu,,overseas inflow,,,,,2020-03-26,,,isolated
-1000000367,9264,female,2000,20s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,6,,2020-03-26,,,isolated
+1000000367,9264,female,2000,20s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,6,,2020-03-26,,,released
 1000000368,9287,male,1958,60s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,0,,2020-03-26,,,isolated
-1000000369,9306,female,1997,20s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-26,,,isolated
+1000000369,9306,female,1997,20s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-26,,,released
 1000000370,9260,male,1975,40s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,2020-03-23,2020-03-26,,,isolated
 1000000371,9255,male,1986,30s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-26,,,isolated
 1000000372,9323,male,1963,50s,Korea,Seoul,etc,,etc,,,,,2020-03-25,,,released
@@ -375,7 +375,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000374,9428,male,1994,20s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,2,,2020-03-26,,,isolated
 1000000375,9434,female,1999,20s,Korea,Seoul,Gangdong-gu,,overseas inflow,,,,,2020-03-26,,,released
 1000000376,9436,female,1995,20s,Korea,Seoul,Mapo-gu,,overseas inflow,,,,,2020-03-27,,,released
-1000000377,9338,female,1985,30s,France,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-03-27,,,released
+1000000377,9388,female,1985,30s,France,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-03-27,,,released
 1000000378,9446,female,1963,50s,Korea,Seoul,Dobong-gu,,overseas inflow,,,,,2020-03-27,,,isolated
 1000000379,9368,male,1981,30s,Thailand,Seoul,Seodaemun-gu,,overseas inflow,,,,,2020-03-27,,,isolated
 1000000380,9413,male,1976,40s,Korea,Seoul,Jungnang-gu,,overseas inflow,,,,,2020-03-27,,,isolated
@@ -383,32 +383,32 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000382,9409,female,1989,30s,Korea,Seoul,Jung-gu,,overseas inflow,,,,,2020-03-27,,,isolated
 1000000383,9424,female,1998,20s,Korea,Seoul,Seongbuk-gu,,overseas inflow,,,,,2020-03-27,,,isolated
 1000000384,9425,male,1996,20s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-27,,,isolated
-1000000385,9468,male,1976,40s,Korea,Seoul,Yeongdeungpo-gu,,contact with patient,,1000000353,,2020-03-25,2020-03-27,,,isolated
+1000000385,9468,male,1976,40s,Korea,Seoul,Yeongdeungpo-gu,,contact with patient,,1000000353,,2020-03-25,2020-03-27,,,released
 1000000386,9410,male,1969,50s,Korea,Seoul,etc,,contact with patient,,1000000391,,,2020-03-27,,,released
 1000000387,9364,female,2003,10s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-27,,,isolated
 1000000388,9475,male,1995,20s,Korea,Seoul,Guro-gu,,overseas inflow,,,,2020-03-26,2020-03-27,,,isolated
-1000000389,9393,male,1963,50s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-27,,,isolated
+1000000389,9393,male,1963,50s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-27,,,released
 1000000390,9538,female,2002,10s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-25,,,isolated
 1000000391,9547,male,1965,50s,Korea,Seoul,Geumcheon-gu,,contact with patient,,1000000353,,2020-03-20,2020-03-28,,,isolated
-1000000392,9546,male,1976,40s,Korea,Seoul,Guro-gu,,etc,,,,,2020-03-28,,,isolated
+1000000392,9546,male,1976,40s,Korea,Seoul,Guro-gu,,etc,,,,,2020-03-28,,,released
 1000000393,9533,female,1970,40s,Korea,Seoul,Dongjak-gu,,etc,,,,,2020-03-28,,,isolated
-1000000394,9543,male,1974,40s,Korea,Seoul,etc,,overseas inflow,,,,,2020-03-28,,,isolated
+1000000394,9543,male,1974,40s,Korea,Seoul,etc,,overseas inflow,,,,,2020-03-28,,,released
 1000000395,9521,male,1973,40s,Korea,Seoul,etc,,overseas inflow,,,,,2020-03-28,,,released
-1000000396,9525,male,1993,20s,Korea,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-03-28,,,isolated
+1000000396,9525,male,1993,20s,Korea,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-03-28,,,released
 1000000397,9554,female,1998,20s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-03-28,,,isolated
 1000000398,9516,male,1998,20s,Korea,Seoul,Jung-gu,,overseas inflow,,,,,2020-03-28,,,isolated
-1000000399,9553,female,1973,40s,Korea,Seoul,Guro-gu,,etc,,,,,2020-03-28,,,isolated
+1000000399,9553,female,1973,40s,Korea,Seoul,Guro-gu,,etc,,,,,2020-03-28,,,released
 1000000400,9510,male,1994,20s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-28,,,isolated
 1000000401,9572,female,1976,40s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-28,,,isolated
 1000000402,9507,male,1996,20s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,2020-03-20,2020-03-28,,,isolated
-1000000403,9571,female,1980,30s,Korea,Seoul,Dongjak-gu,,contact with patient,,1000000302,,,2020-03-28,,,isolated
+1000000403,9571,female,1980,30s,Korea,Seoul,Dongjak-gu,,contact with patient,,1000000302,,,2020-03-28,,,released
 1000000404,9560,male,2003,10s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-28,,,isolated
-1000000405,9524,male,1994,20s,Korea,Seoul,Gangnam-gu,,contact with patient,,1000000227,,,2020-03-28,,,isolated
+1000000405,9524,male,1994,20s,Korea,Seoul,Gangnam-gu,,contact with patient,,1000000227,,,2020-03-28,,,released
 1000000406,9574,male,2000,10s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-28,,,isolated
 1000000407,9385,female,1996,20s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-28,,,isolated
 1000000408,9545,female,1995,20s,Korea,Seoul,Yangcheon-gu,,overseas inflow,,,,,2020-03-28,,,released
 1000000409,9515,female,1978,40s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-03-28,,,isolated
-1000000410,9552,female,1995,20s,Korea,Seoul,etc,,overseas inflow,,,,,2020-03-28,,,isolated
+1000000410,9552,female,1995,20s,Korea,Seoul,etc,,overseas inflow,,,,,2020-03-28,,,released
 1000000411,9634,female,1962,50s,Korea,Seoul,Dongjak-gu,,etc,,,,,2020-03-28,,,isolated
 1000000412,9597,female,1972,40s,Korea,Seoul,Guro-gu,,etc,,,,,2020-03-28,,,isolated
 1000000413,9621,male,1994,20s,Korea,Seoul,etc,,overseas inflow,,,,,2020-03-29,,,isolated
@@ -423,20 +423,20 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000422,9642,male,1975,40s,Korea,Seoul,Gangnam-gu,,contact with patient,,1000000401,,,2020-03-29,,,isolated
 1000000423,9628,female,2010,10s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-29,,,isolated
 1000000424,9599,female,1987,30s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-29,,,isolated
-1000000425,9627,male,1989,30s,Korea,Seoul,Seodaemun-gu,,overseas inflow,,,,,2020-03-29,,,isolated
+1000000425,9627,male,1989,30s,Korea,Seoul,Seodaemun-gu,,overseas inflow,,,,,2020-03-29,,,released
 1000000426,9613,female,1988,30s,Korea,Seoul,Gwangjin-gu,,overseas inflow,,,,,2020-03-29,,,isolated
 1000000427,9696,male,1965,50s,Korea,Seoul,Geumcheon-gu,,etc,,,,,2020-03-27,,,isolated
-1000000428,9757,male,1936,80s,Korea,Seoul,Guro-gu,,etc,,,,,2020-03-29,,,isolated
+1000000428,9757,male,1936,80s,Korea,Seoul,Guro-gu,,etc,,,,,2020-03-29,,,released
 1000000429,9697,female,1964,50s,Korea,Seoul,Geumcheon-gu,,etc,,,,,2020-03-29,,,isolated
 1000000430,9783,female,1969,50s,Korea,Seoul,Geumcheon-gu,,etc,,,,,2020-03-29,,,isolated
-1000000431,9679,female,1966,50s,Korea,Seoul,Geumcheon-gu,,etc,,,,,2020-03-29,,,isolated
+1000000431,9679,female,1966,50s,Korea,Seoul,Geumcheon-gu,,etc,,,,,2020-03-29,,,released
 1000000432,9772,female,1971,40s,Korea,Seoul,Geumcheon-gu,,etc,,,,,2020-03-29,,,isolated
 1000000433,9704,female,1975,40s,Korea,Seoul,Dongjak-gu,,etc,,,,,2020-03-29,,,isolated
-1000000434,9766,male,1972,40s,Korea,Seoul,etc,,etc,,,,,2020-03-30,,,isolated
+1000000434,9766,male,1972,40s,Korea,Seoul,etc,,etc,,,,,2020-03-30,,,released
 1000000435,9682,female,1964,50s,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-03-30,,,isolated
 1000000436,9709,male,2002,10s,Korea,Seoul,Yongsan-gu,,contact with patient,,1000000413,,2020-03-29,2020-03-30,,,isolated
 1000000437,9751,female,1950,70s,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-03-30,,,released
-1000000438,9716,female,1970,50s,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-03-30,,,isolated
+1000000438,9716,female,1970,50s,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-03-30,,,released
 1000000439,9763,female,1948,70s,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-03-30,,,isolated
 1000000440,9723,male,1966,50s,Korea,Seoul,Dongjak-gu,,etc,,,,,2020-03-30,,,isolated
 1000000441,9765,female,2003,10s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-30,,,isolated
@@ -452,175 +452,189 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000451,9797,female,1952,60s,Korea,Seoul,Dongjak-gu,,etc,,,,,2020-03-29,,,isolated
 1000000452,9869,female,1994,20s,Korea,Seoul,Gangdong-gu,,overseas inflow,,,,,2020-03-30,,,isolated
 1000000453,9813,female,1973,40s,Korea,Seoul,etc,,etc,,,,,2020-03-30,,,isolated
-1000000454,9833,female,1973,40s,Korea,Seoul,Mapo-gu,,overseas inflow,,,,,2020-03-31,,,isolated
-1000000455,9886,male,1984,30s,Korea,Seoul,Yeongdeungpo-gu,,overseas inflow,,,,,2020-03-31,,,isolated
+1000000454,9833,female,1973,40s,Korea,Seoul,Mapo-gu,,overseas inflow,,,,,2020-03-31,,,released
+1000000455,9886,male,1984,30s,Korea,Seoul,Yeongdeungpo-gu,,overseas inflow,,,,,2020-03-31,,,released
 1000000456,9795,female,1992,20s,Korea,Seoul,Jongno-gu,,overseas inflow,,,,,2020-03-31,,,isolated
 1000000457,9815,female,1967,50s,Korea,Seoul,Guro-gu,,etc,,,,,2020-03-31,,,isolated
 1000000458,9847,female,1987,30s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,2,,2020-03-31,,,isolated
 1000000459,9854,female,1996,20s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,2,,2020-03-31,,,isolated
 1000000460,9821,male,1993,20s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-03-31,,,isolated
-1000000461,9879,male,1968,50s,Korea,Seoul,Gwanak-gu,,contact with patient,,1000000438,,,2020-03-31,,,isolated
+1000000461,9879,male,1968,50s,Korea,Seoul,Gwanak-gu,,contact with patient,,1000000438,,,2020-03-31,,,released
 1000000462,9852,female,1961,50s,Korea,Seoul,Dongjak-gu,,etc,,,,,2020-03-31,,,released
 1000000463,9876,male,1946,70s,Korea,Seoul,Gwanak-gu,,contact with patient,,1000000439,,,2020-03-31,,,isolated
 1000000464,9812,female,1979,40s,Korea,Seoul,Gwanak-gu,,contact with patient,,1000000439,,,2020-03-31,,,isolated
 1000000465,9837,female,1975,40s,Korea,Seoul,Gwanak-gu,,contact with patient,,1000000439,,,2020-03-31,,,isolated
 1000000466,9859,female,1997,20s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-31,,,isolated
 1000000467,9829,male,1998,20s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-03-31,,,isolated
-1000000468,9849,female,1991,20s,Korea,Seoul,Mapo-gu,,overseas inflow,,,,,2020-03-31,,,isolated
+1000000468,9849,female,1991,20s,Korea,Seoul,Mapo-gu,,overseas inflow,,,,,2020-03-31,,,released
 1000000469,9810,male,1991,20s,Korea,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-03-31,,,isolated
 1000000470,9883,male,1997,20s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-03-31,,,released
 1000000471,9867,male,1981,30s,Korea,Seoul,Yangcheon-gu,,contact with patient,,,,,2020-03-31,,,isolated
 1000000472,9800,female,1971,40s,Korea,Seoul,Jung-gu,,contact with patient,,1000000443,,,2020-03-31,,,isolated
 1000000473,9870,male,1958,60s,Korea,Seoul,etc,,contact with patient,,1000000443,,,2020-03-31,,,isolated
 1000000474,9864,female,1985,30s,Canada,Seoul,Jongno-gu,,overseas inflow,,,,,2020-03-31,,,isolated
-1000000475,9929,female,1997,20s,Korea,Seoul,Gwangjin-gu,,overseas inflow,,,,,2020-03-31,,,isolated
+1000000475,9929,female,1997,20s,Korea,Seoul,Gwangjin-gu,,overseas inflow,,,,,2020-03-31,,,released
 1000000476,9912,female,2010,10s,Korea,Seoul,etc,,etc,,,,2020-03-24,2020-03-31,,,isolated
 1000000477,9930,female,1988,30s,Korea,Seoul,Dongdaemun-gu,,overseas inflow,,,,,2020-04-01,,,isolated
 1000000478,9932,male,1972,40s,Korea,Seoul,Mapo-gu,,overseas inflow,,,,,2020-04-01,,,isolated
-1000000479,9950,male,1984,30s,Korea,Seoul,etc,,overseas inflow,,,,,2020-04-01,,,isolated
-1000000480,9963,female,1985,30s,Korea,Seoul,etc,,overseas inflow,,,,,2020-04-01,,,isolated
-1000000481,9951,female,2019,0s,Korea,Seoul,etc,,overseas inflow,,,,,2020-04-01,,,isolated
-1000000482,9939,female,1981,30s,Korea,Seoul,Dongjak-gu,,overseas inflow,,,,,2020-04-01,,,isolated
+1000000479,9950,male,1984,30s,Korea,Seoul,etc,,overseas inflow,,,,,2020-04-01,,,released
+1000000480,9963,female,1985,30s,Korea,Seoul,etc,,overseas inflow,,,,,2020-04-01,,,released
+1000000481,9951,female,2019,0s,Korea,Seoul,etc,,overseas inflow,,,,,2020-04-01,,,released
+1000000482,9939,female,1981,30s,Korea,Seoul,Dongjak-gu,,overseas inflow,,,,,2020-04-01,,,released
 1000000483,9946,male,1982,30s,Korea,Seoul,Seocho-gu,,contact with patient,,1000000302,,2020-03-27,2020-04-01,,,isolated
 1000000484,9974,female,1992,20s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-04-01,,,isolated
-1000000485,9944,female,1982,30s,Korea,Seoul,etc,,overseas inflow,,,,,2020-04-01,,,isolated
+1000000485,9944,female,1982,30s,Korea,Seoul,etc,,overseas inflow,,,,,2020-04-01,,,released
 1000000486,9911,female,1995,20s,Korea,Seoul,Gwangjin-gu,,overseas inflow,,,,,2020-04-01,,,isolated
 1000000487,9931,male,2001,10s,Korea,Seoul,etc,,overseas inflow,,,,,2020-04-01,,,isolated
 1000000488,9949,female,1968,50s,Korea,Seoul,Yangcheon-gu,,etc,,,,,2020-04-01,,,isolated
-1000000489,10049,female,2014,0s,Korea,Seoul,etc,,overseas inflow,,,,,2020-04-01,,,isolated
+1000000489,10049,female,2014,0s,Korea,Seoul,etc,,overseas inflow,,,,,2020-04-01,,,released
 1000000490,10027,female,1999,20s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-04-01,,,isolated
 1000000491,10021,male,1965,50s,Korea,Seoul,Yangcheon-gu,,contact with patient,,1000000266,,,2020-04-01,,,isolated
 1000000492,10053,female,1996,20s,Korea,Seoul,Jungnang-gu,,overseas inflow,,,,,2020-04-02,,,isolated
 1000000493,10017,female,1998,20s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,2020-04-01,2020-04-02,,,isolated
 1000000494,10009,male,1952,60s,Korea,Seoul,Yangcheon-gu,,contact with patient,,,,,2020-04-02,,,isolated
 1000000495,10036,female,1981,30s,Korea,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-04-02,,,released
-1000000496,10022,female,1979,40s,Korea,Seoul,Yongsan-gu,,overseas inflow,,,,,2020-04-02,,,isolated
+1000000496,10022,female,1979,40s,Korea,Seoul,Yongsan-gu,,overseas inflow,,,,,2020-04-02,,,released
 1000000497,10061,female,2009,10s,Korea,Seoul,Yongsan-gu,,overseas inflow,,,,,2020-04-02,,,isolated
 1000000498,10003,female,1969,50s,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-04-02,,,isolated
 1000000499,10028,male,1991,20s,United States,Seoul,Jongno-gu,,overseas inflow,,,,,2020-04-02,,,isolated
-1000000500,10024,female,1956,60s,Korea,Seoul,Eunpyeong-gu,,overseas inflow,,,,,2020-04-02,,,isolated
-1000000501,10020,male,1949,70s,,Seoul,Eunpyeong-gu,,overseas inflow,,,,,2020-04-02,,,isolated
-1000000502,10054,female,1994,20s,,Seoul,Gangnam-gu,,overseas inflow,,,3,,2020-04-02,,,isolated
-1000000503,10015,female,1984,30s,,Seoul,Gangnam-gu,,contact with patient,,1000000483,1,,2020-04-02,,,isolated
-1000000504,10044,female,1996,20s,,Seoul,etc,,overseas inflow,,,1,2020-03-27,2020-04-02,,,isolated
-1000000505,10046,female,1982,30s,,Seoul,Nowon-gu,,overseas inflow,,,,,2020-04-02,,,isolated
-1000000506,10013,male,1994,20s,,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-04-02,,,isolated
-1000000507,10079,female,1997,20s,,Seoul,Yongsan-gu,,overseas inflow,,,,,2020-03-30,,,isolated
-1000000508,10081,male,1995,20s,,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-03-31,,,released
-1000000509,10084,female,1932,80s,,Seoul,Seodaemun-gu,,overseas inflow,,,,,2020-04-01,,,isolated
-1000000510,10092,female,1967,50s,,Seoul,Seongdong-gu,,contact with patient,,1000000252,,,2020-04-02,,,isolated
-1000000511,10096,female,1989,30s,,Seoul,Seocho-gu,,overseas inflow,,,,,2020-04-02,,,isolated
-1000000512,10098,female,1949,70s,,Seoul,Nowon-gu,,contact with patient,,1000000288,,,2020-04-03,,,isolated
-1000000513,10115,female,1955,60s,,Seoul,Gangnam-gu,,contact with patient,,1000000368,1,,2020-04-03,,,isolated
-1000000514,10110,female,1986,30s,,Seoul,Dobong-gu,,overseas inflow,,,,,2020-04-03,,,isolated
-1000000515,10140,male,1982,30s,,Seoul,Dongjak-gu,,overseas inflow,,,,,2020-04-03,,,isolated
-1000000516,10134,female,1988,30s,,Seoul,Dongjak-gu,,overseas inflow,,,,,2020-04-03,,,isolated
-1000000517,10095,male,1938,80s,,Seoul,Seodaemun-gu,,contact with patient,,1000000509,,,2020-04-03,,,isolated
-1000000518,10138,female,1997,20s,,Seoul,Songpa-gu,,contact with patient,,,,,2020-04-03,,,isolated
-1000000519,10147,male,1988,30s,,Seoul,Songpa-gu,,overseas inflow,,,,,2020-04-03,,,isolated
-1000000520,10124,female,1992,20s,,Seoul,Seocho-gu,,overseas inflow,,,,,2020-04-03,,,isolated
-1000000521,10078,male,1998,20s,,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-03,,,isolated
-1000000522,10145,female,1997,20s,,Seoul,Gangnam-gu,,overseas inflow,,,2,,2020-04-03,,,isolated
-1000000523,10146,female,1943,70s,,Seoul,Gangnam-gu,,overseas inflow,,,1,,2020-04-03,,,isolated
-1000000524,10122,male,2019,0s,,Seoul,Dongdaemun-gu,,overseas inflow,,,,,2020-04-03,,,isolated
-1000000525,10117,female,1972,40s,,Seoul,Gangnam-gu,,etc,,,,,2020-04-03,,,isolated
-1000000526,10106,male,1992,20s,,Seoul,Songpa-gu,,overseas inflow,,,,,2020-04-03,,,isolated
-1000000527,10087,female,1997,20s,,Seoul,Seocho-gu,,overseas inflow,,,,,2020-04-03,,,isolated
-1000000528,10142,female,1955,60s,,Seoul,Eunpyeong-gu,,etc,,,,,2020-04-03,,,isolated
-1000000529,10228,male,1971,40s,,Seoul,Guro-gu,,etc,,,,,2020-04-02,,,released
-1000000530,10195,male,1979,40s,,Seoul,Gangdong-gu,,overseas inflow,,,,,2020-04-02,,,isolated
-1000000531,10199,male,1998,20s,,Seoul,Songpa-gu,,overseas inflow,,,,,2020-04-03,,,isolated
-1000000532,10224,female,1979,40s,,Seoul,Gangdong-gu,,overseas inflow,,,,,2020-04-03,,,isolated
-1000000533,10222,female,1994,20s,,Seoul,Dongjak-gu,,contact with patient,,1000000504,,,2020-04-03,,,isolated
-1000000534,10186,female,1991,20s,,Seoul,Yongsan-gu,,contact with patient,,,,2020-03-28,2020-04-04,,,isolated
-1000000535,10236,male,1984,30s,,Seoul,Mapo-gu,,overseas inflow,,,,,2020-04-04,,,isolated
-1000000536,10183,male,2000,20s,,Seoul,Seodaemun-gu,,overseas inflow,,,,,2020-04-04,,,isolated
-1000000537,10202,male,1989,30s,,Seoul,Seongbuk-gu,,contact with patient,,1000000216,,,2020-04-04,,,isolated
-1000000538,10204,male,1967,50s,,Seoul,Dongdaemun-gu,,contact with patient,,,,,2020-04-04,,,isolated
-1000000539,10227,female,1984,30s,,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-04-04,,,isolated
-1000000540,10216,female,1968,50s,,Seoul,Gwanak-gu,,etc,,,,,2020-04-04,,,isolated
-1000000541,10194,female,1970,50s,,Seoul,Jungnang-gu,,contact with patient,,1000000513,,,2020-04-04,,,isolated
-1000000542,10198,male,1994,20s,,Seoul,Gangseo-gu,,overseas inflow,,,,,2020-04-04,,,isolated
-1000000543,10230,female,1986,30s,,Seoul,Dongdaemun-gu,,overseas inflow,,,,,2020-04-04,,,isolated
-1000000544,10233,female,1994,20s,,Seoul,Seodaemun-gu,,overseas inflow,,,,,2020-04-04,,,isolated
-1000000545,10219,female,1969,50s,,Seoul,Songpa-gu,,contact with patient,,1000000441,,,2020-04-04,,,isolated
-1000000546,10197,male,1996,20s,,Seoul,Songpa-gu,,overseas inflow,,,,,2020-04-04,,,isolated
-1000000547,10210,male,1989,30s,,Seoul,Songpa-gu,,overseas inflow,,,,,2020-04-04,,,isolated
-1000000548,10200,male,2003,10s,,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-04,,,isolated
-1000000549,10191,male,1984,30s,,Seoul,Gangnam-gu,,overseas inflow,,,1,,2020-04-04,,,isolated
-1000000550,10182,female,1980,40s,,Seoul,etc,,contact with patient,,1000000476,,,2020-04-04,,,isolated
-1000000551,10237,male,1950,70s,,Seoul,Eunpyeong-gu,,contact with patient,,1000000528,,,2020-04-04,,,isolated
-1000000552,10188,male,1989,30s,,Seoul,Yeongdeungpo-gu,,etc,,,,,2020-04-05,,,isolated
-1000000553,10259,female,1992,20s,,Seoul,Eunpyeong-gu,,overseas inflow,,,,,2020-04-04,,,isolated
-1000000554,10270,female,2000,20s,,Seoul,Seongbuk-gu,,overseas inflow,,,,,2020-04-05,,,isolated
-1000000555,10272,female,1996,20s,,Seoul,Seongbuk-gu,,overseas inflow,,,,,2020-04-05,,,isolated
-1000000556,10266,female,1996,20s,,Seoul,Yongsan-gu,,overseas inflow,,,,,2020-04-05,,,isolated
-1000000557,10262,male,1995,20s,,Seoul,Gangseo-gu,,overseas inflow,,,,,2020-04-05,,,isolated
-1000000558,10277,male,1966,50s,,Seoul,Gwanak-gu,,contact with patient,,1000000540,,,2020-04-05,,,isolated
-1000000559,10276,female,1991,20s,,Seoul,Yongsan-gu,,overseas inflow,,,,,2020-04-05,,,isolated
-1000000560,10275,female,1954,60s,,Seoul,Songpa-gu,,contact with patient,,1000000368,,2020-03-23,2020-04-05,,,isolated
-1000000561,10284,female,1983,30s,,Seoul,Yeongdeungpo-gu,,overseas inflow,,,,,2020-04-05,,,isolated
-1000000562,10246,female,1994,20s,,Seoul,Gangdong-gu,,overseas inflow,,,,,2020-04-05,,,isolated
-1000000563,10250,male,1971,40s,,Seoul,etc,,overseas inflow,,,2,,2020-04-05,,,isolated
-1000000564,10313,,,,,Seoul,Jungnang-gu,,etc,,,,,2020-04-06,,,isolated
-1000000565,10321,,,,,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-04-06,,,isolated
-1000000566,10329,,,,,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-04-06,,,isolated
-1000000567,10325,,,,,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-06,,,isolated
-1000000568,10358,,,,,Seoul,Nowon-gu,,overseas inflow,,,,,2020-04-06,,,isolated
-1000000569,10355,,,,,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-06,,,isolated
-1000000570,10360,,,,,Seoul,Gangseo-gu,,overseas inflow,,,,,2020-04-07,,,isolated
-1000000571,10352,,,,,Seoul,Seongbuk-gu,,overseas inflow,,,,,2020-04-07,,,isolated
-1000000572,10369,,,,,Seoul,Seongbuk-gu,,contact with patient,,,,,2020-04-07,,,isolated
-1000000573,10357,,,,,Seoul,Seocho-gu,,etc,,,,,2020-04-07,,,isolated
-1000000574,10359,,,,,Seoul,Yeongdeungpo-gu,,overseas inflow,,,,,2020-04-07,,,isolated
-1000000575,10377,,,,,Seoul,Seocho-gu,,etc,,,,,2020-04-07,,,isolated
-1000000576,10379,,,,,Seoul,Seocho-gu,,overseas inflow,,,,,2020-04-07,,,isolated
-1000000577,10364,,,,,Seoul,Dongdaemun-gu,,overseas inflow,,,,,2020-04-07,,,isolated
-1000000578,10374,,,,,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-07,,,isolated
-1000000579,10419,,,,,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-04-07,,,isolated
-1000000580,10412,,,,,Seoul,Dobong-gu,,overseas inflow,,,,,2020-04-08,,,isolated
-1000000581,10405,,,,,Seoul,Mapo-gu,,overseas inflow,,,,,2020-04-08,,,isolated
-1000000582,10402,,,,,Seoul,Mapo-gu,,overseas inflow,,,,,2020-04-08,,,isolated
-1000000583,10423,,,,,Seoul,Mapo-gu,,overseas inflow,,,,,2020-04-08,,,isolated
-1000000584,10399,,,,,Seoul,Seocho-gu,,overseas inflow,,,,,2020-04-08,,,isolated
-1000000585,10422,,,,,Seoul,Seocho-gu,,overseas inflow,,,,2020-03-24,2020-04-08,,,isolated
-1000000586,10407,,,,,Seoul,Seongdong-gu,,etc,,,,2020-04-05,2020-04-08,,,isolated
-1000000587,10411,,,,,Seoul,Dongjak-gu,,contact with patient,,1000000575,,,2020-04-08,,,isolated
-1000000588,10421,,,,,Seoul,Yeongdeungpo-gu,,overseas inflow,,,,,2020-04-08,,,isolated
-1000000589,10413,,,,,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-08,,,isolated
-1000000590,10396,,,,,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-08,,,isolated
-1000000591,10435,,,,,Seoul,Gangnam-gu,,contact with patient,,1000000503,,,2020-04-06,,,isolated
-1000000592,10448,,,,,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-04-09,,,isolated
-1000000593,10442,,,,,Seoul,Gwangjin-gu,,overseas inflow,,,,,2020-04-09,,,isolated
-1000000594,10441,,,,,Seoul,Seongdong-gu,,contact with patient,,1000000586,,2020-04-07,2020-04-09,,,isolated
-1000000595,10443,,,,,Seoul,Seongbuk-gu,,etc,,,,,2020-04-09,,,isolated
-1000000596,10471,,,,,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-09,,,isolated
-1000000597,10470,,,,,Seoul,Yangcheon-gu,,overseas inflow,,,,,2020-04-10,,,isolated
-1000000598,10499,,,,,Seoul,etc,,overseas inflow,,,,,2020-04-06,,,isolated
-1000000599,10474,,,,,Seoul,Gangnam-gu,,contact with patient,,,,,2020-04-10,,,isolated
-1000000600,10465,,,,,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-10,,,isolated
-1000000601,10503,,,,,Seoul,Gwanak-gu,,etc,,,,,2020-04-11,,,isolated
-1000000602,10504,,,,,Seoul,Eunpyeong-gu,,contact with patient,,,,,2020-04-11,,,isolated
-1000000603,10525,,,,,Seoul,Dongjak-gu,,overseas inflow,,,,,2020-04-12,,,isolated
-1000000604,10520,,,,,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-04-12,,,isolated
-1000000605,10521,,,,,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-04-12,,,isolated
-1000000606,10526,,,,,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-04-12,,,isolated
-1000000607,10522,,,,,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-04-12,,,isolated
-1000000608,10537,,,,,Seoul,Songpa-gu,,overseas inflow,,,,,2020-04-12,,,isolated
-1000000609,10528,,,,,Seoul,Dobong-gu,,contact with patient,,1000000418,,,2020-04-12,,,isolated
-1000000610,10524,,,,,Seoul,Eunpyeong-gu,,contact with patient,,,,,2020-04-12,,,isolated
-1100000001,,male,2001,10s,Korea,Busan,Dongnae-gu,,Onchun Church,,,1091,,2020-02-21,,,isolated
-1100000002,,female,1963,50s,Korea,Busan,Haeundae-gu,,contact with patient,,,131,,2020-02-21,,,isolated
-1100000003,,female,2000,20s,Korea,Busan,Haeundae-gu,,etc,,,16,2020-02-21,2020-02-22,,,released
+1000000500,10024,female,1956,60s,Korea,Seoul,Eunpyeong-gu,,overseas inflow,,,,,2020-04-02,,,released
+1000000501,10020,male,1949,70s,Korea,Seoul,Eunpyeong-gu,,overseas inflow,,,,,2020-04-02,,,isolated
+1000000502,10054,female,1994,20s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,3,,2020-04-02,,,isolated
+1000000503,10015,female,1984,30s,Korea,Seoul,Gangnam-gu,,contact with patient,,1000000483,1,,2020-04-02,,,isolated
+1000000504,10044,female,1996,20s,Korea,Seoul,etc,,overseas inflow,,,1,2020-03-27,2020-04-02,,,isolated
+1000000505,10046,female,1982,30s,Korea,Seoul,Nowon-gu,,overseas inflow,,,,,2020-04-02,,,isolated
+1000000506,10013,male,1994,20s,Korea,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-04-02,,,isolated
+1000000507,10079,female,1997,20s,Korea,Seoul,Yongsan-gu,,overseas inflow,,,,,2020-03-30,,,isolated
+1000000508,10081,male,1995,20s,Korea,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-03-31,,,released
+1000000509,10084,female,1932,80s,Korea,Seoul,Seodaemun-gu,,overseas inflow,,,,,2020-04-01,,,isolated
+1000000510,10092,female,1967,50s,Korea,Seoul,Seongdong-gu,,contact with patient,,1000000252,,,2020-04-02,,,isolated
+1000000511,10096,female,1989,30s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-04-02,,,released
+1000000512,10098,female,1949,70s,Korea,Seoul,Nowon-gu,,contact with patient,,1000000288,,,2020-04-03,,,isolated
+1000000513,10115,female,1955,60s,Korea,Seoul,Gangnam-gu,,contact with patient,,1000000368,1,,2020-04-03,,,isolated
+1000000514,10110,female,1986,30s,Korea,Seoul,Dobong-gu,,overseas inflow,,,,,2020-04-03,,,isolated
+1000000515,10140,male,1982,30s,Korea,Seoul,Dongjak-gu,,overseas inflow,,,,,2020-04-03,,,isolated
+1000000516,10134,female,1988,30s,Korea,Seoul,Dongjak-gu,,overseas inflow,,,,,2020-04-03,,,isolated
+1000000517,10095,male,1938,80s,Korea,Seoul,Seodaemun-gu,,contact with patient,,1000000509,,,2020-04-03,,,isolated
+1000000518,10138,female,1997,20s,Korea,Seoul,Songpa-gu,,contact with patient,,,,,2020-04-03,,,isolated
+1000000519,10147,male,1988,30s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-04-03,,,isolated
+1000000520,10124,female,1992,20s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-04-03,,,isolated
+1000000521,10078,male,1998,20s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-03,,,isolated
+1000000522,10145,female,1997,20s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,2,,2020-04-03,,,isolated
+1000000523,10146,female,1943,70s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,1,,2020-04-03,,,isolated
+1000000524,10122,male,2019,0s,Korea,Seoul,Dongdaemun-gu,,overseas inflow,,,,,2020-04-03,,,isolated
+1000000525,10117,female,1972,40s,Korea,Seoul,Gangnam-gu,,etc,,,,,2020-04-03,,,isolated
+1000000526,10106,male,1992,20s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-04-03,,,released
+1000000527,10087,female,1997,20s,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-04-03,,,isolated
+1000000528,10142,female,1955,60s,Korea,Seoul,Eunpyeong-gu,,etc,,,,,2020-04-03,,,isolated
+1000000529,10228,male,1971,40s,Korea,Seoul,Guro-gu,,etc,,,,,2020-04-02,,,released
+1000000530,10195,male,1979,40s,Korea,Seoul,Gangdong-gu,,overseas inflow,,,,,2020-04-02,,,released
+1000000531,10199,male,1998,20s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-04-03,,,isolated
+1000000532,10224,female,1979,40s,Korea,Seoul,Gangdong-gu,,overseas inflow,,,,,2020-04-03,,,isolated
+1000000533,10222,female,1994,20s,Korea,Seoul,Dongjak-gu,,contact with patient,,1000000504,,,2020-04-03,,,isolated
+1000000534,10186,female,1991,20s,Korea,Seoul,Yongsan-gu,,contact with patient,,,,2020-03-28,2020-04-04,,,isolated
+1000000535,10236,male,1984,30s,Korea,Seoul,Mapo-gu,,overseas inflow,,,,,2020-04-04,,,isolated
+1000000536,10183,male,2000,20s,Korea,Seoul,Seodaemun-gu,,overseas inflow,,,,,2020-04-04,,,released
+1000000537,10202,male,1989,30s,Korea,Seoul,Seongbuk-gu,,contact with patient,,1000000216,,,2020-04-04,,,isolated
+1000000538,10204,male,1967,50s,Korea,Seoul,Dongdaemun-gu,,contact with patient,,,,,2020-04-04,,,isolated
+1000000539,10227,female,1984,30s,Korea,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-04-04,,,isolated
+1000000540,10216,female,1968,50s,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-04-04,,,isolated
+1000000541,10194,female,1970,50s,Korea,Seoul,Jungnang-gu,,contact with patient,,1000000513,,,2020-04-04,,,isolated
+1000000542,10198,male,1994,20s,Korea,Seoul,Gangseo-gu,,overseas inflow,,,,,2020-04-04,,,isolated
+1000000543,10230,female,1986,30s,Korea,Seoul,Dongdaemun-gu,,overseas inflow,,,,,2020-04-04,,,isolated
+1000000544,10233,female,1994,20s,Korea,Seoul,Seodaemun-gu,,overseas inflow,,,,,2020-04-04,,,isolated
+1000000545,10219,female,1969,50s,Korea,Seoul,Songpa-gu,,contact with patient,,1000000441,,,2020-04-04,,,isolated
+1000000546,10197,male,1996,20s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-04-04,,,isolated
+1000000547,10210,male,1989,30s,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-04-04,,,isolated
+1000000548,10200,male,2003,10s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-04,,,isolated
+1000000549,10191,male,1984,30s,Korea,Seoul,Gangnam-gu,,overseas inflow,,,1,,2020-04-04,,,isolated
+1000000550,10182,female,1980,40s,Korea,Seoul,etc,,contact with patient,,1000000476,,,2020-04-04,,,isolated
+1000000551,10237,male,1950,70s,Korea,Seoul,Eunpyeong-gu,,contact with patient,,1000000528,,,2020-04-04,,,isolated
+1000000552,10188,male,1989,30s,Korea,Seoul,Yeongdeungpo-gu,,etc,,,,,2020-04-05,,,isolated
+1000000553,10259,female,1992,20s,Korea,Seoul,Eunpyeong-gu,,overseas inflow,,,,,2020-04-04,,,isolated
+1000000554,10270,female,2000,20s,Korea,Seoul,Seongbuk-gu,,overseas inflow,,,,,2020-04-05,,,isolated
+1000000555,10272,female,1996,20s,Korea,Seoul,Seongbuk-gu,,overseas inflow,,,,,2020-04-05,,,isolated
+1000000556,10266,female,1996,20s,Korea,Seoul,Yongsan-gu,,overseas inflow,,,,,2020-04-05,,,isolated
+1000000557,10262,male,1995,20s,Korea,Seoul,Gangseo-gu,,overseas inflow,,,,,2020-04-05,,,isolated
+1000000558,10277,male,1966,50s,Korea,Seoul,Gwanak-gu,,contact with patient,,1000000540,,,2020-04-05,,,isolated
+1000000559,10276,female,1991,20s,Korea,Seoul,Yongsan-gu,,overseas inflow,,,,,2020-04-05,,,isolated
+1000000560,10275,female,1954,60s,Korea,Seoul,Songpa-gu,,contact with patient,,1000000368,,2020-03-23,2020-04-05,,,isolated
+1000000561,10284,female,1983,30s,Korea,Seoul,Yeongdeungpo-gu,,overseas inflow,,,,,2020-04-05,,,isolated
+1000000562,10246,female,1994,20s,Korea,Seoul,Gangdong-gu,,overseas inflow,,,,,2020-04-05,,,isolated
+1000000563,10250,male,1971,40s,Korea,Seoul,etc,,overseas inflow,,,2,,2020-04-05,,,isolated
+1000000564,10313,,,,Korea,Seoul,Jungnang-gu,,etc,,,,,2020-04-06,,,released
+1000000565,10321,,,,Korea,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-04-06,,,isolated
+1000000566,10329,,,,Korea,Seoul,Gwanak-gu,,overseas inflow,,,,,2020-04-06,,,isolated
+1000000567,10325,,,,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-06,,,isolated
+1000000568,10358,,,,Korea,Seoul,Nowon-gu,,overseas inflow,,,,,2020-04-06,,,isolated
+1000000569,10355,,,,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-06,,,isolated
+1000000570,10360,,,,Korea,Seoul,Gangseo-gu,,overseas inflow,,,,,2020-04-07,,,released
+1000000571,10352,,,,Korea,Seoul,Seongbuk-gu,,overseas inflow,,,,,2020-04-07,,,isolated
+1000000572,10369,,,,Korea,Seoul,Seongbuk-gu,,contact with patient,,,,,2020-04-07,,,isolated
+1000000573,10357,,,,Korea,Seoul,Seocho-gu,,etc,,,,,2020-04-07,,,isolated
+1000000574,10359,,,,Korea,Seoul,Yeongdeungpo-gu,,overseas inflow,,,,,2020-04-07,,,isolated
+1000000575,10377,,,,Korea,Seoul,Seocho-gu,,etc,,,,,2020-04-07,,,isolated
+1000000576,10379,,,,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-04-07,,,isolated
+1000000577,10364,,,,Korea,Seoul,Dongdaemun-gu,,overseas inflow,,,,,2020-04-07,,,isolated
+1000000578,10374,,,,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-07,,,isolated
+1000000579,10419,,,,Korea,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-04-07,,,isolated
+1000000580,10412,,,,Korea,Seoul,Dobong-gu,,overseas inflow,,,,,2020-04-08,,,isolated
+1000000581,10405,,,,Korea,Seoul,Mapo-gu,,overseas inflow,,,,,2020-04-08,,,isolated
+1000000582,10402,,,,Korea,Seoul,Mapo-gu,,overseas inflow,,,,,2020-04-08,,,released
+1000000583,10423,,,,Korea,Seoul,Mapo-gu,,overseas inflow,,,,,2020-04-08,,,released
+1000000584,10399,,,,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-04-08,,,isolated
+1000000585,10422,,,,Korea,Seoul,Seocho-gu,,overseas inflow,,,,2020-03-24,2020-04-08,,,isolated
+1000000586,10407,,,,Korea,Seoul,Seongdong-gu,,etc,,,,2020-04-05,2020-04-08,,,isolated
+1000000587,10411,,,,Korea,Seoul,Dongjak-gu,,contact with patient,,1000000575,,,2020-04-08,,,isolated
+1000000588,10421,,,,Korea,Seoul,Yeongdeungpo-gu,,overseas inflow,,,,,2020-04-08,,,isolated
+1000000589,10413,,,,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-08,,,isolated
+1000000590,10396,,,,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-08,,,isolated
+1000000591,10435,,,,Korea,Seoul,Gangnam-gu,,contact with patient,,1000000503,,,2020-04-06,,,isolated
+1000000592,10448,,,,Korea,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-04-09,,,isolated
+1000000593,10442,,,,Korea,Seoul,Gwangjin-gu,,overseas inflow,,,,,2020-04-09,,,isolated
+1000000594,10441,,,,Korea,Seoul,Seongdong-gu,,contact with patient,,1000000586,,2020-04-07,2020-04-09,,,isolated
+1000000595,10443,,,,Korea,Seoul,Seongbuk-gu,,etc,,,,,2020-04-09,,,isolated
+1000000596,10471,,,,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-09,,,isolated
+1000000597,10470,,,,Korea,Seoul,Yangcheon-gu,,overseas inflow,,,,,2020-04-10,,,isolated
+1000000598,10499,,,,Korea,Seoul,etc,,overseas inflow,,,,,2020-04-06,,,isolated
+1000000599,10474,,,,Korea,Seoul,Gangnam-gu,,contact with patient,,,,,2020-04-10,,,isolated
+1000000600,10465,,,,Korea,Seoul,Gangnam-gu,,overseas inflow,,,,,2020-04-10,,,isolated
+1000000601,10503,,,,Korea,Seoul,Gwanak-gu,,etc,,,,,2020-04-11,,,released
+1000000602,10504,,,,Korea,Seoul,Eunpyeong-gu,,contact with patient,,,,,2020-04-11,,,isolated
+1000000603,10525,,,,Korea,Seoul,Dongjak-gu,,overseas inflow,,,,,2020-04-12,,,isolated
+1000000604,10520,,,,Korea,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-04-12,,,isolated
+1000000605,10521,,,,Korea,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-04-12,,,isolated
+1000000606,10526,,,,Korea,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-04-12,,,isolated
+1000000607,10522,,,,Korea,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-04-12,,,isolated
+1000000608,10537,,,,Korea,Seoul,Songpa-gu,,overseas inflow,,,,,2020-04-12,,,isolated
+1000000609,10528,,,,Korea,Seoul,Dobong-gu,,contact with patient,,1000000418,,,2020-04-12,,,isolated
+1000000610,10524,,,,Korea,Seoul,Eunpyeong-gu,,contact with patient,,,,,2020-04-12,,,isolated
+1000000611,10564,,,,Korea,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-04-13,,,isolated
+1000000612,10559,,,,Korea,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-04-13,,,released
+1000000613,10588,,,,Korea,Seoul,Seongbuk-gu,,contact with patient,,1000000504,,2020-04-12,2020-04-13,,,isolated
+1000000614,10575,,,,Korea,Seoul,Seongdong-gu,,overseas inflow,,,,,2020-04-14,,,isolated
+1000000615,10569,,,,Korea,Seoul,Dongjak-gu,,overseas inflow,,,,,2020-04-14,,,isolated
+1000000616,10584,,,,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-04-14,,,isolated
+1000000617,10589,,,,Korea,Seoul,Seocho-gu,,overseas inflow,,,,,2020-04-14,,,isolated
+1000000618,10610,,,,Korea,Seoul,Jung-gu,,contact with patient,,1000000472,,,2020-04-15,,,isolated
+1000000619,10597,,,,Korea,Seoul,Seodaemun-gu,,overseas inflow,,,,,2020-04-15,,,isolated
+1000000620,10632,,,,Korea,Seoul,Gangnam-gu,,contact with patient,,1000000502,,,2020-04-16,,,isolated
+1000000621,10635,,,,Korea,Seoul,Yongsan-gu,,overseas inflow,,,,,2020-04-17,,,isolated
+1000000622,10644,,,,Korea,Seoul,Seongbuk-gu,,overseas inflow,,,,,2020-04-17,,,isolated
+1000000623,10658,,,,Korea,Seoul,Gangnam-gu,,overseas inflow,,,0,,2020-04-17,,,isolated
+1000000624,10659,,,,Korea,Seoul,Gangnam-gu,,overseas inflow,,,1,,2020-04-18,,,isolated
+1100000001,,male,2001,10s,Korea,Busan,Dongnae-gu,,Onchun Church,,,1091,,2020-02-21,,,released
+1100000002,,female,1963,50s,Korea,Busan,Haeundae-gu,,contact with patient,,,131,,2020-02-21,,,released
+1100000003,,female,2000,20s,Korea,Busan,Haeundae-gu,,etc,,,16,2020-02-21,2020-02-22,,,isolated
 1100000004,,female,1998,20s,Korea,Busan,Haeundae-gu,,Shincheonji Church,,,8,,2020-02-22,,,released
 1100000005,,female,1995,20s,Korea,Busan,Haeundae-gu,,contact with patient,,,14,,2020-02-22,,,released
 1100000006,,female,1938,80s,Korea,Busan,Yeonje-gu,,contact with patient,,,0,,2020-02-22,,,isolated
 1100000007,,male,1994,20s,China,Busan,,,Shincheonji Church,,,485,,2020-02-22,,,released
 1100000008,,male,1999,20s,Korea,Busan,Dongnae-gu,,Onchun Church,,,27,,2020-02-22,,,released
 1100000009,,male,1999,20s,Korea,Busan,Dongnae-gu,,Onchun Church,,,4,,2020-02-22,,,released
-1100000010,,male,1974,40s,Korea,Busan,Dongnae-gu,,Onchun Church,,,19,,2020-02-22,,,isolated
+1100000010,,male,1974,40s,Korea,Busan,Dongnae-gu,,Onchun Church,,,19,,2020-02-22,,,released
 1100000011,,female,1994,20s,Korea,Busan,Buk-gu,,Onchun Church,,,23,,2020-02-22,,,released
-1100000012,,female,1964,50s,Korea,Busan,Nam-gu,,Shincheonji Church,,,296,,2020-02-22,,,isolated
+1100000012,,female,1964,50s,Korea,Busan,Nam-gu,,Shincheonji Church,,,296,,2020-02-22,,,released
 1100000013,,male,1995,20s,Korea,Busan,Seo-gu,,etc,,,15,,2020-02-22,,,released
 1100000014,,male,1988,30s,Korea,Busan,Dongnae-gu,,Onchun Church,,,27,,2020-02-22,,,released
 1100000015,,male,2001,10s,Korea,Busan,Dongnae-gu,,Onchun Church,,,34,,2020-02-22,,,released
@@ -653,7 +667,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1100000042,,male,2001,10s,Korea,Busan,Dongnae-gu,,contact with patient,,1100000029,2,2020-02-24,2020-02-24,,,released
 1100000043,,female,1969,50s,Korea,Busan,Dongnae-gu,,contact with patient,,1100000029,7,2020-02-21,2020-02-24,,,released
 1100000044,,female,1972,40s,Korea,Busan,Dongnae-gu,,Onchun Church,,1100000015,0,,2020-02-24,,,released
-1100000045,,female,1954,60s,Korea,Busan,Dongnae-gu,,contact with patient,,,0,,2020-02-25,,,isolated
+1100000045,,female,1954,60s,Korea,Busan,Dongnae-gu,,contact with patient,,,0,,2020-02-25,,,released
 1100000046,,male,1947,70s,Korea,Busan,Dongnae-gu,,contact with patient,,,27,,2020-02-25,,,released
 1100000047,,male,1972,40s,Korea,Busan,Dongnae-gu,,etc,,,10,,2020-02-25,,,released
 1100000048,,male,1941,70s,Korea,Busan,Dongnae-gu,,Onchun Church,,,1,,2020-02-25,,,released
@@ -662,7 +676,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1100000051,,female,1956,60s,Korea,Busan,Yeonje-gu,,contact with patient,,,0,,2020-02-25,,,released
 1100000052,,male,1950,70s,Korea,Busan,Saha-gu,,contact with patient,,1100000040,4,2020-02-21,2020-02-25,,,released
 1100000053,,female,1992,20s,Korea,Busan,Sasang-gu,,etc,,,30,2020-02-19,2020-02-25,,,released
-1100000054,,male,1993,20s,Korea,Busan,Busanjin-gu,,contact with patient,,1100000036,41,2020-02-23,2020-02-25,,,isolated
+1100000054,,male,1993,20s,Korea,Busan,Busanjin-gu,,contact with patient,,1100000036,41,2020-02-23,2020-02-25,,,released
 1100000055,,female,1962,50s,Korea,Busan,Haeundae-gu,,Onchun Church,,,2,,2020-02-25,,,released
 1100000056,,female,1968,50s,Korea,Busan,Busanjin-gu,,contact with patient,,1100000039,27,2020-02-23,2020-02-26,,,released
 1100000057,,male,1995,20s,Korea,Busan,Haeundae-gu,,Onchun Church,,,19,,2020-02-26,,,released
@@ -670,9 +684,9 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1100000059,,female,1995,20s,Korea,Busan,Suyeong-gu,,etc,,,71,2020-02-21,2020-02-26,,,released
 1100000060,,female,1955,60s,Korea,Busan,Haeundae-gu,,contact with patient,,1100000057,2,,2020-02-26,,,released
 1100000061,,female,1976,40s,Korea,Busan,Haeundae-gu,,Suyeong-gu Kindergarten,,,10,2020-02-22,2020-02-27,,,released
-1100000062,,male,2004,10s,Korea,Busan,Dongnae-gu,,contact with patient,,,3,2020-02-26,2020-02-27,,,isolated
+1100000062,,male,2004,10s,Korea,Busan,Dongnae-gu,,contact with patient,,,3,2020-02-26,2020-02-27,,,released
 1100000063,,female,1989,30s,Korea,Busan,Buk-gu,,Suyeong-gu Kindergarten,,,2,2020-02-28,2020-02-27,,,released
-1100000064,,female,1971,40s,Korea,Busan,Dongnae-gu,,Onchun Church,,,3,2020-02-26,2020-02-27,,,isolated
+1100000064,,female,1971,40s,Korea,Busan,Dongnae-gu,,Onchun Church,,,3,2020-02-26,2020-02-27,,,released
 1100000065,,male,1995,20s,Korea,Busan,Suyeong-gu,,contact with patient,,1100000059,1,2020-02-27,2020-02-27,,,released
 1100000066,,female,2012,0s,Korea,Busan,Dongnae-gu,,etc,,,5,2020-02-21,2020-02-27,,,released
 1100000067,,female,1955,60s,Korea,Busan,Haeundae-gu,,contact with patient,,1100000002,2,,2020-02-28,,,released
@@ -685,53 +699,59 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1100000074,,male,1939,80s,Korea,Busan,Seo-gu,,etc,,,10,,2020-02-29,,,released
 1100000075,,male,1963,50s,Korea,Busan,Busanjin-gu,,etc,,,38,2020-02-27,2020-02-29,,,released
 1100000076,,female,1982,30s,Korea,Busan,Saha-gu,,Shincheonji Church,,,3,2020-02-23,2020-02-29,,,released
-1100000077,,male,1946,70s,Korea,Busan,etc,,etc,,,3,,2020-03-01,,,isolated
+1100000077,,male,1946,70s,Korea,Busan,etc,,etc,,,3,,2020-03-01,,,released
 1100000078,,female,1958,60s,Korea,Busan,Seo-gu,,etc,,,13,2020-02-22,2020-03-01,,,released
 1100000079,,male,2015,0s,Korea,Busan,Saha-gu,,contact with patient,,1100000076,0,,2020-03-01,,,released
-1100000080,,male,1952,60s,Korea,Busan,Suyeong-gu,,Onchun Church,,,0,2020-02-28,2020-03-02,,,isolated
+1100000080,,male,1952,60s,Korea,Busan,Suyeong-gu,,Onchun Church,,,0,2020-02-28,2020-03-02,,,released
 1100000081,,female,1984,30s,Korea,Busan,Seo-gu,,contact with patient,,1100000078,1,2020-03-01,2020-03-03,,,released
-1100000082,,male,2001,10s,Korea,Busan,Dongnae-gu,,contact with patient,,1100000015,2,2020-02-28,2020-03-03,,,isolated
+1100000082,,male,2001,10s,Korea,Busan,Dongnae-gu,,contact with patient,,1100000015,2,2020-02-28,2020-03-03,,,released
 1100000083,,male,2003,10s,Korea,Busan,Busanjin-gu,,contact with patient,,1100000054,3,2020-02-27,2020-03-03,,,released
 1100000084,,male,1995,20s,Korea,Busan,Suyeong-gu,,Shincheonji Church,,,5,2020-02-28,2020-03-04,,,released
 1100000085,,female,1980,40s,Korea,Busan,Yeonje-gu,,contact with patient,,1100000054,1,2020-03-02,2020-03-05,,,released
 1100000086,,female,1966,50s,Korea,Busan,Sasang-gu,,etc,,,15,2020-02-29,2020-03-06,,,released
 1100000087,,female,1937,80s,Korea,Busan,Haeundae-gu,,contact with patient,,1100000002,5,2020-02-29,2020-03-06,,,released
 1100000088,,female,1982,30s,Korea,Busan,Gangseo-gu,,etc,,,14,,2020-03-06,,,released
-1100000089,,female,1943,70s,Korea,Busan,Dongnae-gu,,Onchun Church,,1100000048,0,2020-03-04,2020-03-07,,,isolated
+1100000089,,female,1943,70s,Korea,Busan,Dongnae-gu,,Onchun Church,,1100000048,0,2020-03-04,2020-03-07,,,released
 1100000090,,female,1964,50s,Korea,Busan,Dongnae-gu,,contact with patient,,6100000072,4,2020-02-27,2020-03-10,,,released
-1100000091,,male,1996,20s,Korea,Busan,Haeundae-gu,,overseas inflow,,,4,2020-03-09,2020-03-10,,,isolated
-1100000092,,male,1970,50s,Korea,Busan,Busanjin-gu,,contact with patient,,1100000071,2,2020-03-09,2020-03-11,,,isolated
-1100000093,,male,1977,40s,Korea,Busan,etc,,contact with patient,,,0,,2020-03-11,,,isolated
+1100000091,,male,1996,20s,Korea,Busan,Haeundae-gu,,overseas inflow,,,4,2020-03-09,2020-03-10,,,released
+1100000092,,male,1970,50s,Korea,Busan,Busanjin-gu,,contact with patient,,1100000071,2,2020-03-09,2020-03-11,,,released
+1100000093,,male,1977,40s,Korea,Busan,etc,,contact with patient,,,0,,2020-03-11,,,released
 1100000094,,male,1972,40s,Korea,Busan,etc,,contact with patient,,,24,2020-03-02,2020-03-12,,,released
 1100000095,,female,1932,80s,Korea,Busan,etc,,,,,24,2020-02-15,2020-03-13,,,deceased
-1100000096,,female,1971,40s,Korea,Busan,Haeundae-gu,,contact with patient,,,6,2020-03-12,2020-03-13,,,isolated
+1100000096,,female,1971,40s,Korea,Busan,Haeundae-gu,,contact with patient,,,6,2020-03-12,2020-03-13,,,released
 1100000097,,male,1947,70s,Korea,Busan,Busanjin-gu,,etc,,,11,2020-03-09,2020-03-13,,,deceased
 1100000098,,male,1970,50s,Korea,Busan,Busanjin-gu,,contact with patient,,1100000071,0,2020-03-12,2020-03-13,,,isolated
-1100000099,,male,1952,60s,Korea,Busan,Busanjin-gu,,contact with patient,,1100000097,5,,2020-03-14,,,isolated
-1100000100,,female,1952,60s,Korea,Busan,Busanjin-gu,,contact with patient,,1100000097,1,2020-03-06,2020-03-14,,,isolated
-1100000101,,female,1948,70s,Korea,Busan,Busanjin-gu,,contact with patient,,1100000100,4,,2020-03-15,,,isolated
-1100000102,,female,1997,20s,Korea,Busan,Saha-gu,,overseas inflow,,,9,2020-03-13,2020-03-17,,,isolated
-1100000103,,female,1994,20s,Korea,Busan,Busanjin-gu,,overseas inflow,,,4,,2020-03-18,,,isolated
-1100000104,,male,1996,20s,Switzerland,Busan,Dongnae-gu,,overseas inflow,,,5,2020-03-17,2020-03-18,,,isolated
-1100000105,,male,1994,20s,Korea,Busan,Buk-gu,,overseas inflow,,,24,2020-03-20,2020-03-22,,,isolated
-1100000106,,female,1958,60s,Korea,Busan,Saha-gu,,contact with patient,,,1,,2020-03-22,,,isolated
-1100000107,,male,1958,60s,Korea,Busan,Saha-gu,,contact with patient,,,0,2020-03-21,2020-03-22,,,isolated
-1100000108,,female,1987,30s,Korea,Busan,Buk-gu,,overseas inflow,,,8,2020-03-18,2020-03-24,,,isolated
+1100000099,,male,1952,60s,Korea,Busan,Busanjin-gu,,contact with patient,,1100000097,5,,2020-03-14,,,released
+1100000100,,female,1952,60s,Korea,Busan,Busanjin-gu,,contact with patient,,1100000097,1,2020-03-06,2020-03-14,,,released
+1100000101,,female,1948,70s,Korea,Busan,Busanjin-gu,,contact with patient,,1100000100,4,,2020-03-15,,,released
+1100000102,,female,1997,20s,Korea,Busan,Saha-gu,,overseas inflow,,,9,2020-03-13,2020-03-17,,,released
+1100000103,,female,1994,20s,Korea,Busan,Busanjin-gu,,overseas inflow,,,4,,2020-03-18,,,released
+1100000104,,male,1996,20s,Switzerland,Busan,Dongnae-gu,,overseas inflow,,,5,2020-03-17,2020-03-18,,,released
+1100000105,,male,1994,20s,Korea,Busan,Buk-gu,,overseas inflow,,,24,2020-03-20,2020-03-22,,,released
+1100000106,,female,1958,60s,Korea,Busan,Saha-gu,,contact with patient,,,1,,2020-03-22,,,released
+1100000107,,male,1958,60s,Korea,Busan,Saha-gu,,contact with patient,,,0,2020-03-21,2020-03-22,,,released
+1100000108,,female,1987,30s,Korea,Busan,Buk-gu,,overseas inflow,,,8,2020-03-18,2020-03-24,,,released
 1100000109,,male,1997,20s,Korea,Busan,Dongnae-gu,,overseas inflow,,,3,2020-03-21,2020-03-25,,,isolated
 1100000110,,male,2002,10s,Korea,Busan,Dongnae-gu,,overseas inflow,,,2,2020-03-23,2020-03-26,,,isolated
-1100000111,,male,1976,40s,Korea,Busan,Haeundae-gu,,overseas inflow,,,1,2020-03-26,2020-03-27,,,isolated
-1100000112,,male,1994,20s,Korea,Busan,Geumjeong-gu,,overseas inflow,,,18,,2020-03-27,,,isolated
-1100000113,,male,1993,20s,Korea,Busan,Gijang-gun,,overseas inflow,,,1,2020-03-27,2020-03-28,,,isolated
-1100000114,,male,2002,10s,Korea,Busan,Suyeong-gu,,overseas inflow,,,1,,2020-03-28,,,isolated
+1100000111,,male,1976,40s,Korea,Busan,Haeundae-gu,,overseas inflow,,,1,2020-03-26,2020-03-27,,,released
+1100000112,,male,1994,20s,Korea,Busan,Geumjeong-gu,,overseas inflow,,,18,,2020-03-27,,,released
+1100000113,,male,1993,20s,Korea,Busan,Gijang-gun,,overseas inflow,,,1,2020-03-27,2020-03-28,,,released
+1100000114,,male,2002,10s,Korea,Busan,Suyeong-gu,,overseas inflow,,,1,,2020-03-28,,,released
 1100000115,,male,1959,60s,Korea,Busan,Nam-gu,,overseas inflow,,,1,,2020-03-29,,,isolated
-1100000116,,male,1994,20s,Korea,Busan,Busanjin-gu,,overseas inflow,,,2,,2020-03-29,,,isolated
-1100000117,,female,2013,0s,Korea,Busan,Dongnae-gu,,overseas inflow,,,4,,2020-03-31,,,isolated
-1100000118,,female,1998,20s,Korea,Busan,Geumjeong-gu,,overseas inflow,,,2,2020-03-28,2020-03-31,,,isolated
-1100000119,,male,1994,20s,Indonesia,Busan,etc,,overseas inflow,,,21,,2020-03-31,,,isolated
+1100000116,,male,1994,20s,Korea,Busan,Busanjin-gu,,overseas inflow,,,2,,2020-03-29,,,released
+1100000117,,female,2013,0s,Korea,Busan,Dongnae-gu,,overseas inflow,,,4,,2020-03-31,,,released
+1100000118,,female,1998,20s,Korea,Busan,Geumjeong-gu,,overseas inflow,,,2,2020-03-28,2020-03-31,,,released
+1100000119,,male,1994,20s,Indonesia,Busan,etc,,overseas inflow,,,21,,2020-03-31,,,released
 1100000120,,male,1995,20s,Korea,Busan,Dong-gu,,overseas inflow,,,0,2020-04-01,2020-04-06,,,isolated
-1100000121,,female,2002,10s,Korea,Busan,Haeundae-gu,,overseas inflow,,,3,,2020-04-07,,,isolated
+1100000121,,female,2002,10s,Korea,Busan,Haeundae-gu,,overseas inflow,,,3,,2020-04-07,,,released
 1100000122,,male,1983,30s,Korea,Busan,Haeundae-gu,,overseas inflow,,,0,,2020-04-07,,,isolated
-1100000123,,,,,,Busan,etc,,overseas inflow,,,0,,2020-04-09,,,isolated
+1100000123,,male,1996,20s,Korea,Busan,etc,,overseas inflow,,,0,,2020-04-09,,,isolated
+1100000124,,female,2000,20s,Foreign,Busan,Nam-gu,,overseas inflow,,,0,,2020-04-14,,,isolated
+1100000125,,male,2013,0s,Korea,Busan,Dongnae-gu,,overseas inflow,,,2,,2020-04-15,,,isolated
+1100000126,,male,2011,0s,Korea,Busan,Dongnae-gu,,overseas inflow,,,,,2020-04-15,,,isolated
+1100000127,,female,1979,40s,Korea,Busan,Dongnae-gu,,overseas inflow,,,2,2020-04-08,2020-04-15,,,isolated
+1100000128,,male,1962,50s,Korea,Busan,Buk-gu,,etc,,,143,2020-04-08,2020-04-18,,,isolated
+1100000129,,female,1995,20s,Korea,Busan,etc,,etc,,,,,2020-04-18,,,isolated
 1200000031,31,female,1959,60s,Korea,Daegu,,,Shincheonji Church,,,1160,,2020-02-18,,,isolated
 1200000033,33,female,1980,40s,Korea,Daegu,Jung-gu,,contact with patient,,1200000031,,,2020-02-18,,,isolated
 1200000034,34,male,1996,20s,Korea,Daegu,Jung-gu,,Shincheonji Church,,,,,2020-02-18,,,isolated
@@ -806,7 +826,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1300000009,611,female,,30s,Korea,Gwangju,,,contact with patient,,1300000004,0,,2020-02-23,2020-03-19,,released
 1300000010,4388,female,,40s,Korea,Gwangju,,,contact with patient,,1300000011,86,,2020-03-02,2020-04-02,,released
 1300000011,4257,male,,20s,Korea,Gwangju,,,contact with patient,,1300000010,86,,2020-03-02,2020-03-30,,released
-1300000012,5141,female,,80s,Korea,Gwangju,,,contact with patient,,1300000011,14,,2020-03-02,,,isolated
+1300000012,5141,female,,80s,Korea,Gwangju,,,contact with patient,,1300000011,14,,2020-03-02,2020-04-15,,released
 1300000013,5031,male,,50s,Korea,Gwangju,,,etc,,,30,2020-02-27,2020-03-04,2020-03-29,,released
 1300000014,7268,male,,20s,Korea,Gwangju,,,contact with patient,,1300000003,74,,2020-03-07,2020-03-23,,released
 1300000015,7285,female,,20s,Korea,Gwangju,,,contact with patient,,1300000003,12,,2020-03-08,2020-03-19,,released
@@ -815,13 +835,16 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1300000018,8574,male,,60s,Korea,Gwangju,,,contact with patient,,1300000017,16,,2020-03-17,2020-04-10,,released
 1300000019,8821,male,,30s,Korea,Gwangju,,,overseas inflow,,,25,,2020-03-20,,,isolated
 1300000020,9322,male,,20s,Korea,Gwangju,,,overseas inflow,,,2,2020-03-25,2020-03-26,,,isolated
-1300000021,9808,female,,40s,Korea,Gwangju,,,overseas inflow,,,, ,2020-03-31,,,isolated
+1300000021,9808,female,,40s,Korea,Gwangju,,,overseas inflow,,,, ,2020-03-31,2020-04-13,,isolated
 1300000022,9855,female,,10s,Korea,Gwangju,,,overseas inflow,,,,,2020-03-31,2020-04-11,,released
-1300000023,9887,female,,10s,Korea,Gwangju,,,overseas inflow,,,,,2020-03-31,,,isolated
+1300000023,9887,female,,10s,Korea,Gwangju,,,overseas inflow,,,,,2020-03-31,2020-04-13,,isolated
 1300000024,9818,female,,30s,Korea,Gwangju,,,overseas inflow,,,,,2020-03-31,,,isolated
 1300000025,9945,female,,10s,Korea,Gwangju,,,overseas inflow,,,1,2020-03-31,2020-04-01,,,isolated
 1300000026,10062,male,,30s,Korea,Gwangju,,,overseas inflow,,,1,,2020-04-02,2020-04-10,,released
 1300000027,10226,female,,20s,Korea,Gwangju,,,overseas inflow,,,4,,2020-04-04,,,isolated
+1300000028,10579,male,,20s,Korea,Gwangju,,,overseas inflow,,,2,,2020-04-14,,,isolated
+1300000029,,male,,60s,Korea,Gwangju,,,overseas inflow,,,3,,2020-04-16,,,isolated
+1300000030,,female,,20s,Korea,Gwangju,,,overseas inflow,,,2,,2020-04-16,,,isolated
 1400000001,1,female,1985,30s,China,Incheon,etc,,overseas inflow,,,,2020-01-19,2020-01-20,2020-02-06,,released
 1400000002,398,female,1960,60s,Korea,Incheon,Bupyeong-gu,,Shincheonji Church,,,,,2020-02-22,2020-03-09,,released
 1400000003,1129,male,1963,50s,Korea,Incheon,Michuhol-gu,,etc,,,,2020-01-31,2020-02-25,2020-03-03,,released
@@ -830,9 +853,9 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1400000006,2641,male,1976,40s,Korea,Incheon,Yeonsu-gu,,etc,,,,2020-02-27,2020-02-28,,,isolated
 1400000007,4122,male,1963,50s,Korea,Incheon,Yeonsu-gu,,contact with patient,,,,,2020-03-01,2020-03-17,,released
 1400000008,5026,female,1972,40s,Korea,Incheon,Bupyeong-gu,,Shincheonji Church,,,,,2020-03-03,2020-03-11,,released
-1400000009,5581,male,2012,0s,Korea,Incheon,Michuhol-gu,,contact with patient,,,,2020-03-04,2020-03-03,,,isolated
+1400000009,5581,male,2012,0s,Korea,Incheon,Michuhol-gu,,contact with patient,,,,2020-03-04,2020-03-03,2020-04-13,,released
 1400000010,7434,female,1968,50s,Korea,Incheon,Seo-gu,,contact with patient,,,,2020-03-07,2020-03-09,2020-04-01,,released
-1400000011,7471,female,1970,50s,Korea,Incheon,Gyeyang-gu,,Guro-gu Call Center,,,,,2020-03-09,,,isolated
+1400000011,7471,female,1970,50s,Korea,Incheon,Gyeyang-gu,,Guro-gu Call Center,,,,,2020-03-09,2020-04-14,,isolated
 1400000012,7486,female,1982,30s,Korea,Incheon,Seo-gu,,Guro-gu Call Center,,,,,2020-03-09,,,isolated
 1400000013,7507,female,1959,60s,Korea,Incheon,Yeonsu-gu,,Guro-gu Call Center,,,,,2020-03-09,,,isolated
 1400000014,7542,female,1965,50s,Korea,Incheon,Bupyeong-gu,,Guro-gu Call Center,,,,,2020-03-09,2020-03-26,,released
@@ -841,16 +864,16 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1400000017,7574,female,1976,40s,Korea,Incheon,Michuhol-gu,,Guro-gu Call Center,,,,,2020-03-09,2020-03-24,,released
 1400000018,7609,female,1977,40s,Korea,Incheon,Michuhol-gu,,Guro-gu Call Center,,,,,2020-03-09,2020-03-28,,released
 1400000019,7621,female,1994,20s,Korea,Incheon,Bupyeong-gu,,Guro-gu Call Center,,,,,2020-03-09,2020-03-26,,released
-1400000020,7627,female,1976,40s,Korea,Incheon,Michuhol-gu,,Guro-gu Call Center,,,,,2020-03-09,,,isolated
+1400000020,7627,female,1976,40s,Korea,Incheon,Michuhol-gu,,Guro-gu Call Center,,,,,2020-03-09,2020-04-13,,released
 1400000021,7628,male,1992,20s,Korea,Incheon,Namdong-gu,,Guro-gu Call Center,,,,,2020-03-09,2020-04-05,,released
-1400000022,7657,female,1976,40s,Korea,Incheon,Gyeyang-gu,,Guro-gu Call Center,,,,,2020-03-10,,,isolated
+1400000022,7657,female,1976,40s,Korea,Incheon,Gyeyang-gu,,Guro-gu Call Center,,,,,2020-03-10,2020-04-13,,released
 1400000023,7659,male,1969,50s,Korea,Incheon,Bupyeong-gu,,Guro-gu Call Center,,,,,2020-03-09,2020-03-31,,released
 1400000024,7688,male,1989,30s,Korea,Incheon,Michuhol-gu,,contact with patient,,,,,2020-03-10,2020-03-31,,released
 1400000025,7743,male,1965,50s,Korea,Incheon,Yeonsu-gu,,contact with patient,,,,,2020-03-10,2020-04-04,,released
 1400000026,7927,male,1986,30s,Korea,Incheon,Namdong-gu,,Guro-gu Call Center,,,,,2020-03-12,2020-03-24,,released
 1400000027,7928,female,1993,20s,Korea,Incheon,Bupyeong-gu,,Guro-gu Call Center,,,,,2020-03-11,2020-03-21,,released
 1400000028,7997,male,1970,50s,Korea,Incheon,Yeonsu-gu,,contact with patient,,,,,2020-03-13,2020-03-30,,released
-1400000029,8088,female,1981,30s,Korea,Incheon,Namdong-gu,,Guro-gu Call Center,,,,,2020-03-14,,,isolated
+1400000029,8088,female,1981,30s,Korea,Incheon,Namdong-gu,,Guro-gu Call Center,,,,,2020-03-14,2020-04-08,,released
 1400000030,8198,female,1990,30s,Korea,Incheon,Namdong-gu,,Ministry of Oceans and Fisheries,,,,2020-03-09,2020-03-14,2020-04-09,,released
 1400000031,8273,female,1971,40s,Korea,Incheon,Namdong-gu,,Guro-gu Call Center,,,,,2020-03-16,2020-04-04,,released
 1400000032,8387,male,1988,30s,Korea,Incheon,Gyeyang-gu,,etc,,,,,2020-03-17,2020-03-27,,released
@@ -861,54 +884,59 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1400000037,8695,male,1963,50s,Korea,Incheon,Yeonsu-gu,,overseas inflow,,,,,2020-03-19,,,isolated
 1400000038,8724,female,1979,40s,Korea,Incheon,Dong-gu,,contact with patient,,1400000035,,,2020-03-19,,,isolated
 1400000039,8737,male,1957,60s,Korea,Incheon,Gyeyang-gu,,contact with patient,,1400000013,,,2020-03-19,,,isolated
-1400000040,8753,male,1970,50s,Korea,Incheon,Yeonsu-gu,,overseas inflow,,,,,2020-03-20,,,isolated
+1400000040,8753,male,1970,50s,Korea,Incheon,Yeonsu-gu,,overseas inflow,,,,,2020-03-20,2020-04-13,,released
 1400000041,9001,male,1967,50s,Korea,Incheon,Bupyeong-gu,,etc,,,,,2020-03-23,,,isolated
 1400000042,9082,male,1989,30s,Korea,Incheon,Yeonsu-gu,,overseas inflow,,,,,2020-03-23,2020-04-05,,released
 1400000043,9184,female,1998,20s,Korea,Incheon,Jung-gu,,overseas inflow,,,,,2020-03-25,,,isolated
 1400000044,9265,male,1963,50s,Korea,Incheon,Yeonsu-gu,,contact with patient,,,,,2020-03-25,2020-04-09,,released
 1400000045,9257,female,1991,20s,Korea,Incheon,Yeonsu-gu,,overseas inflow,,,,,2020-03-26,2020-04-07,,released
-1400000046,9311,female,1998,20s,Korea,Incheon,Namdong-gu,,overseas inflow,,,,,2020-03-26,,,isolated
-1400000047,9374,female,1997,20s,Korea,Incheon,Bupyeong-gu,,contact with patient,,,,,2020-03-26,,,isolated
-1400000048,9456,male,1965,50s,Korea,Incheon,Bupyeong-gu,,overseas inflow,,,,,2020-03-27,,,isolated
+1400000046,9311,female,1998,20s,Korea,Incheon,Namdong-gu,,overseas inflow,,,,,2020-03-26,2020-04-19,,released
+1400000047,9374,female,1997,20s,Korea,Incheon,Bupyeong-gu,,contact with patient,,,,,2020-03-26,2020-04-17,,released
+1400000048,9456,male,1965,50s,Korea,Incheon,Bupyeong-gu,,overseas inflow,,,,,2020-03-27,2020-04-14,,released
 1400000049,9366,female,2000,20s,Korea,Incheon,Yeonsu-gu,,overseas inflow,,,,,2020-03-27,,,isolated
 1400000050,9564,female,1973,40s,Korea,Incheon,Gyeyang-gu,,contact with patient,,,,,2020-03-27,2020-04-08,,released
-1400000051,9469,male,1959,60s,Korea,Incheon,Bupyeong-gu,,overseas inflow,,,,,2020-03-27,,,isolated
+1400000051,9469,male,1959,60s,Korea,Incheon,Bupyeong-gu,,overseas inflow,,,,,2020-03-27,2020-04-15,,released
 1400000052,9578,male,1989,30s,Korea,Incheon,Michuhol-gu,,overseas inflow,,,,,2020-03-27,,,isolated
-1400000053,9541,female,1988,30s,Korea,Incheon,Jung-gu,,overseas inflow,,,,,2020-03-28,,,isolated
+1400000053,9541,female,1988,30s,Korea,Incheon,Jung-gu,,overseas inflow,,,,,2020-03-28,2020-04-15,,released
 1400000054,9558,male,1983,30s,Korea,Incheon,Jung-gu,,overseas inflow,,,,,2020-03-28,2020-04-09,,released
 1400000055,9519,male,1982,30s,Korea,Incheon,Yeonsu-gu,,overseas inflow,,,,,2020-03-28,2020-04-04,,released
 1400000056,9508,female,1963,50s,Korea,Incheon,Bupyeong-gu,,overseas inflow,,,,,2020-03-28,,,isolated
 1400000057,9702,female,1973,40s,Korea,Incheon,Namdong-gu,,overseas inflow,,,,,2020-03-28,,,isolated
 1400000058,9411,male,1951,60s,Korea,Incheon,,,etc,,,,,2020-03-28,,,isolated
-1400000059,9557,male,1998,20s,Korea,Incheon,Bupyeong-gu,,overseas inflow,,,,,2020-03-28,,,isolated
-1400000060,9750,female,1999,20s,Korea,Incheon,Seo-gu,,overseas inflow,,,,,2020-03-29,,,isolated
+1400000059,9557,male,1998,20s,Korea,Incheon,Bupyeong-gu,,overseas inflow,,,,,2020-03-28,2020-04-11,,released
+1400000060,9750,female,1999,20s,Korea,Incheon,Seo-gu,,overseas inflow,,,,,2020-03-29,2020-04-14,,released
 1400000061,9779,female,1951,60s,Korea,Incheon,Bupyeong-gu,,etc,,,,,2020-03-29,2020-04-02,,released
-1400000062,9747,female,1964,50s,Korea,Incheon,Michuhol-gu,,overseas inflow,,,,,2020-03-30,,,isolated
+1400000062,9747,female,1964,50s,Korea,Incheon,Michuhol-gu,,overseas inflow,,,,,2020-03-30,2020-04-14,,released
 1400000063,9782,female,1977,40s,Korea,Incheon,Jung-gu,,contact with patient,,,,,2020-03-30,,,isolated
 1400000064,9680,male,1944,70s,Korea,Incheon,Jung-gu,,overseas inflow,,,,,2020-03-30,,,isolated
-1400000065,9858,female,1992,20s,Korea,Incheon,Namdong-gu,,overseas inflow,,,,,2020-03-30,,,isolated
+1400000065,9858,female,1992,20s,Korea,Incheon,Namdong-gu,,overseas inflow,,,,,2020-03-30,2020-04-16,,released
 1400000066,9834,female,1997,20s,Korea,Incheon,Namdong-gu,,overseas inflow,,,,,2020-03-30,,,isolated
 1400000067,9820,male,1987,30s,Korea,Incheon,Michuhol-gu,,overseas inflow,,,,,2020-03-31,,,isolated
 1400000068,9970,female,1961,50s,Korea,Incheon,,,contact with patient,,,,,2020-03-31,,,isolated
 1400000069,9822,female,1964,50s,Korea,Incheon,Namdong-gu,,overseas inflow,,,,,2020-03-31,,,isolated
-1400000070,9819,female,1982,30s,Korea,Incheon,Yeonsu-gu,,contact with patient,,,,,2020-03-31,,,isolated
+1400000070,9819,female,1982,30s,Korea,Incheon,Yeonsu-gu,,contact with patient,,,,,2020-03-31,2020-04-14,,released
 1400000071,9942,female,1955,60s,Korea,Incheon,Yeonsu-gu,,Eunpyeong St. Mary's Hospital,,,,,2020-04-01,,,isolated
 1400000072,9999,female,1952,60s,Korea,Incheon,Michuhol-gu,,Eunpyeong St. Mary's Hospital,,,,,2020-04-01,2020-04-08,,released
 1400000073,9906,female,1973,40s,Korea,Incheon,Yeonsu-gu,,contact with patient,,,,,2020-04-01,,,isolated
 1400000074,9907,female,2012,0s,Korea,Incheon,Yeonsu-gu,,contact with patient,,,,,2020-04-01,,,isolated
-1400000075,10091,male,1959,60s,Korea,Incheon,Seo-gu,,overseas inflow,,,,,2020-04-02,,,isolated
-1400000076,10094,male,1959,60s,Korea,Incheon,Seo-gu,,overseas inflow,,,,,2020-04-03,,,isolated
-1400000077,10083,female,1991,20s,Korea,Incheon,Seo-gu,,overseas inflow,,,,,2020-04-03,,,isolated
-1400000078,10209,male,1986,30s,Korea,Incheon,Seo-gu,,etc,,,,,2020-04-03,,,isolated
+1400000075,10091,male,1959,60s,Korea,Incheon,Seo-gu,,overseas inflow,,,,,2020-04-02,2020-04-11,,released
+1400000076,10094,male,1959,60s,Korea,Incheon,Seo-gu,,overseas inflow,,,,,2020-04-03,2020-04-11,,released
+1400000077,10083,female,1991,20s,Korea,Incheon,Seo-gu,,overseas inflow,,,,,2020-04-03,2020-04-14,,released
+1400000078,10209,male,1986,30s,Korea,Incheon,Seo-gu,,etc,,,,,2020-04-03,2020-04-10,,released
 1400000079,10232,male,1949,60s,Korea,Incheon,Gyeyang-gu,,overseas inflow,,,,,2020-04-04,,,isolated
 1400000080,10283,female,1953,70s,Korea,Incheon,Yeonsu-gu,,contact with patient,,,,,2020-04-05,,,isolated
-1400000081,10366,female,1957,60s,Korea,Incheon,Seo-gu,,contact with patient,,,,,2020-04-07,,,isolated
+1400000081,10366,female,1957,60s,Korea,Incheon,Seo-gu,,contact with patient,,,,,2020-04-07,2020-04-17,,released
 1400000082,10351,male,1982,30s,Korea,Incheon,Seo-gu,,overseas inflow,,,,,2020-04-07,,,isolated
-1400000083,10372,female,1977,40s,Korea,Incheon,Bupyeong-gu,,etc,,,,,2020-04-07,,,isolated
-1400000084,,female,1952,60s,Korea,Incheon,Namdong-gu,,overseas inflow,,,,,2020-04-09,,,isolated
-1400000085,,male,1927,90s,Korea,Incheon,Bupyeong-gu,,contact with patient,,,,,2020-04-09,,,isolated
-1400000086,,male,1991,20s,Korea,Incheon,Ganghwa-gun,,overseas inflow,,,,,2020-04-10,,,isolated
-1400000087,,male,1958,60s,Korea,Incheon,Yeonsu-gu,,overseas inflow,,,,,2020-04-12,,,isolated
+1400000083,10372,female,1977,40s,Korea,Incheon,Bupyeong-gu,,etc,,,,,2020-04-07,2020-04-17,,released
+1400000084,10368,female,1952,60s,Korea,Incheon,Namdong-gu,,overseas inflow,,,,,2020-04-09,,,isolated
+1400000085,10433,male,1927,90s,Korea,Incheon,Bupyeong-gu,,contact with patient,,,,,2020-04-09,,,isolated
+1400000086,10500,male,1991,20s,Korea,Incheon,Ganghwa-gun,,overseas inflow,,,,,2020-04-10,,,isolated
+1400000087,10534,male,1958,60s,Korea,Incheon,Yeonsu-gu,,overseas inflow,,,,,2020-04-12,,,isolated
+1400000088,10546,male,1983,30s,Korea,Incheon,Namdong-gu,,overseas inflow,,,,,2020-04-13,,,isolated
+1400000089,10629,female,1990,30s,Korea,Incheon,Seo-gu,,overseas inflow,,,,,2020-04-16,,,isolated
+1400000090,10646,female,1980,40s,Korea,Incheon,Michuhol-gu,,overseas inflow,,,,,2020-04-17,,,isolated
+1400000091,10660,female,2001,20s,Korea,Incheon,Namdong-gu,,overseas inflow,,,,,2020-04-18,,,isolated
+1400000092,,male,1992,20s,Korea,Incheon,Gyeyang-gu,,overseas inflow,,,,,2020-04-19,,,isolated
 1500000001,241,female,,20s,Korea,Daejeon,Dong-gu,,etc,,,23,,2020-02-21,2020-03-04,,released
 1500000002,372,female,,60s,Korea,Daejeon,Yuseong-gu,,etc,,,9,,2020-02-22,2020-03-28,,released
 1500000003,573,male,,60s,Korea,Daejeon,Yuseong-gu,,contact with patient,,1500000002,1,,2020-02-23,,,isolated
@@ -924,7 +952,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1500000013,2025,female,,20s,Korea,Daejeon,Seo-gu,,etc,,,2,,2020-02-28,2020-03-29,,released
 1500000014,3797,male,,20s,Korea,Daejeon,Seo-gu,,etc,,,21,,2020-03-01,2020-04-11,,released
 1500000015,4996,male,,20s,Korea,Daejeon,Yuseong-gu,,contact with patient,,1200000031,12,,2020-03-03,2020-03-11,,released
-1500000016,5764,male,,50s,Korea,Daejeon,Yuseong-gu,,etc,,,66,,2020-03-04,,,isolated
+1500000016,5764,male,,50s,Korea,Daejeon,Yuseong-gu,,etc,,,66,,2020-03-04,2020-04-09,,released
 1500000017,6078,female,,40s,Korea,Daejeon,Yuseong-gu,,contact with patient,,1500000011,0,,2020-03-04,2020-03-26,,released
 1500000018,6018,male,,20s,Korea,Daejeon,Yuseong-gu,,Shincheonji Church,,,3,,2020-03-04,2020-03-29,,released
 1500000019,7820,female,,70s,Korea,Daejeon,Seo-gu,,etc,,,6,,2020-03-11,,,isolated
@@ -940,10 +968,10 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1500000029,9208,male,,10s,Korea,Daejeon,Yuseong-gu,,contact with patient,,1500000027,40,2020-03-12,2020-03-25,2020-04-06,,released
 1500000030,9207,female,,50s,Korea,Daejeon,Yuseong-gu,,etc,,,27,2020-03-14,2020-03-25,,,isolated
 1500000031,9278,female,,20s,Korea,Daejeon,Yuseong-gu,,overseas inflow,,,7,2020-03-24,2020-03-26,,,isolated
-1500000032,9568,male,,50s,Korea,Daejeon,Yuseong-gu,,etc,,,3,,2020-03-28,,,isolated
+1500000032,9568,male,,50s,Korea,Daejeon,Yuseong-gu,,etc,,,3,,2020-03-28,2020-04-10,,released
 1500000033,9430,female,,20s,Korea,Daejeon,Seo-gu,,overseas inflow,,5000000011,3,,2020-03-28,,,isolated
-1500000034,9576,female,,60s,Korea,Daejeon,Seo-gu,,contact with patient,,1500000030,2,,2020-03-28,,,isolated
-1500000035,9430,female,,10s,Korea,Daejeon,Seo-gu,,overseas inflow,,,,,2020-03-30,,,isolated
+1500000034,9576,female,,60s,Korea,Daejeon,Seo-gu,,contact with patient,,1500000030,2,,2020-03-28,2020-04-09,,released
+1500000035,9430,female,,10s,Korea,Daejeon,Seo-gu,,overseas inflow,,,,,2020-03-30,2020-04-15,,released
 1500000036,9698,male,,30s,Korea,Daejeon,Seo-gu,,overseas inflow,,,,,2020-03-30,,,isolated
 1500000037,10207,male,,20s,Korea,Daejeon,Yuseong-gu,,overseas inflow,,,,,2020-04-04,,,isolated
 1500000038,10267,female,,20s,Korea,Daejeon,Yuseong-gu,,overseas inflow,,,,,2020-04-05,,,isolated
@@ -975,7 +1003,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1600000025,,male,1997,20s,Korea,Ulsan,Buk-gu,,Shincheonji Church,,,,,2020-03-10,2020-03-19,,released
 1600000026,,male,1960,60s,Korea,Ulsan,Nam-gu,,contact with patient,,1600000027,,,2020-03-12,2020-04-01,,released
 1600000027,,female,1986,30s,Korea,Ulsan,Nam-gu,,etc,,,,,2020-03-12,2020-03-31,,released
-1600000028,,female,1963,50s,Korea,Ulsan,Nam-gu,,contact with patient,,1600000027,,,2020-03-14,,,isolated
+1600000028,,female,1963,50s,Korea,Ulsan,Nam-gu,,contact with patient,,1600000027,,,2020-03-14,2020-04-15,,released
 1600000029,,female,1990,30s,Korea,Ulsan,Nam-gu,,overseas inflow,,,,,2020-03-17,2020-04-04,,released
 1600000030,,male,1990,30s,Korea,Ulsan,Nam-gu,,overseas inflow,,,,,2020-03-17,2020-04-11,,released
 1600000031,,female,1994,20s,Korea,Ulsan,Jung-gu,,overseas inflow,,,,,2020-03-18,,,isolated
@@ -1023,15 +1051,15 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1700000031,,male,,50s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,5,2020-03-05,2020-03-12,2020-04-11,,released
 1700000032,,male,,50s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,26,,2020-03-12,2020-04-09,,released
 1700000033,,male,,30s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,22,2020-03-07,2020-03-12,2020-04-09,,released
-1700000034,,female,,50s,Korea,Sejong,Sejong,,contact with patient,,1700000021,,2020-03-12,2020-03-12,,,isolated
+1700000034,,female,,50s,Korea,Sejong,Sejong,,contact with patient,,1700000021,,2020-03-12,2020-03-12,2020-04-16,,released
 1700000035,,male,,40s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,,2020-03-09,2020-03-12,,,isolated
 1700000036,,female,,30s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,23,2020-03-06,2020-03-12,,,isolated
 1700000037,,female,,30s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,3,2020-03-11,2020-03-12,,,isolated
 1700000038,,male,,50s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,9,2020-03-08,2020-03-13,,,isolated
 1700000039,,male,,30s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,2,,2020-03-14,2020-04-09,,released
-1700000040,,female,,30s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,1,,2020-03-15,,,isolated
-1700000041,,male,,50s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,1700000013,3,2020-03-17,2020-03-17,,,isolated
-1700000042,,female,,60s,Korea,Sejong,Sejong,,etc,,,18,2020-03-18,2020-03-22,,,isolated
+1700000040,,female,,30s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,1,,2020-03-15,2020-04-16,,released
+1700000041,,male,,50s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,1700000013,3,2020-03-17,2020-03-17,2020-04-17,,released
+1700000042,,female,,60s,Korea,Sejong,Sejong,,etc,,,18,2020-03-18,2020-03-22,2020-04-09,,released
 1700000043,,male,,40s,Korea,Sejong,Sejong,,overseas inflow,,,3,2020-03-21,2020-03-24,,,isolated
 1700000044,,male,,40s,Korea,Sejong,Sejong,,Ministry of Oceans and Fisheries,,,1,,2020-03-24,2020-04-09,,released
 1700000045,,male,,40s,Korea,Sejong,Sejong,,overseas inflow,,,1,,2020-03-28,,,isolated
@@ -1090,8 +1118,8 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 2000000052,1402,male,1985,30s,Korea,Gyeonggi-do,Yongin-si,,etc,,,,,2020-02-27,2020-03-16,,released
 2000000053,1292,female,1994,20s,Korea,Gyeonggi-do,Pyeongtaek-si,,etc,,,,,2020-02-27,,,isolated
 2000000054,1255,female,1985,30s,Korea,Gyeonggi-do,Gwangmyeong-si,,etc,,,,,2020-02-26,2020-03-04,,released
-2000000055,1279,male,1993,20s,Korea,Gyeonggi-do,Gwacheon-si,,Shincheonji Church,,,,,2020-02-27,,,isolated
-2000000056,1264,male,1992,20s,Korea,Gyeonggi-do,Gwacheon-si,,Shincheonji Church,,,,,2020-02-27,,,isolated
+2000000055,1279,male,1993,20s,Korea,Gyeonggi-do,Gwacheon-si,,Shincheonji Church,,,,,2020-02-27,2020-03-14,,isolated
+2000000056,1264,male,1992,20s,Korea,Gyeonggi-do,Gwacheon-si,,Shincheonji Church,,,,,2020-02-27,2020-03-12,,isolated
 2000000057,4944,male,1989,30s,Korea,Gyeonggi-do,Hwaseong-si,,etc,,,,,2020-03-03,,,isolated
 2000000058,1753,female,1990,30s,Korea,Gyeonggi-do,Yongin-si,,contact with patient,,2000000052,,,2020-02-27,2020-03-25,,released
 2000000059,1798,female,1982,30s,Korea,Gyeonggi-do,Suwon-si,,contact with patient,,,,,2020-02-28,,,isolated
@@ -1124,7 +1152,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 2000000086,3083,male,1974,40s,Korea,Gyeonggi-do,Hwaseong-si,,contact with patient,,,,,2020-02-29,,,isolated
 2000000087,3300,female,2007,10s,Korea,Gyeonggi-do,Hwaseong-si,,contact with patient,,,,,2020-03-01,,,isolated
 2000000088,3583,male,1973,40s,Korea,Gyeonggi-do,Namyangju-si,,contact with patient,,,3,,2020-03-01,2020-03-21,,released
-2000000089,3663,male,1981,30s,Korea,Gyeonggi-do,Gwacheon-si,,Shincheonji Church,,,,,2020-03-01,,,isolated
+2000000089,3663,male,1981,30s,Korea,Gyeonggi-do,Gwacheon-si,,Shincheonji Church,,,,,2020-03-01,2020-03-24,,isolated
 2000000090,3558,female,1976,40s,Korea,Gyeonggi-do,Yongin-si,,contact with patient,,2000000062,,,2020-03-01,,,isolated
 2000000091,3780,male,1974,40s,Korea,Gyeonggi-do,Goyang-si,,contact with patient,,,,,2020-03-01,,,isolated
 2000000092,4384,male,1997,20s,Korea,Gyeonggi-do,Suwon-si,,contact with patient,,2000000080,,,2020-03-02,2020-03-02,,released
@@ -1176,7 +1204,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 2000000138,7103,male,1960,60s,Korea,Gyeonggi-do,Seongnam-si,,etc,,,,,2020-03-07,,,isolated
 2000000139,7005,male,1973,40s,Korea,Gyeonggi-do,Bucheon-si,,etc,,,,,2020-03-07,,,isolated
 2000000140,7075,female,1970,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000122,2,,2020-03-07,,,isolated
-2000000141,7329,male,1955,60s,Korea,Gyeonggi-do,Gwangju-si,,contact with patient,,2000000114,10,,2020-03-08,,,isolated
+2000000141,7329,male,1955,60s,Korea,Gyeonggi-do,Gwangju-si,,contact with patient,,2000000114,10,,2020-03-08,2020-04-14,,released
 2000000142,7230,female,1965,50s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000139,,,2020-03-08,,,isolated
 2000000143,7340,male,1994,20s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000139,,,2020-03-08,,,isolated
 2000000144,7161,female,1988,30s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000139,,,2020-03-08,,,isolated
@@ -1207,12 +1235,12 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 2000000169,7716,female,1977,40s,Korea,Gyeonggi-do,Gwangmyeong-si,,contact with patient,,1000000125,,,2020-03-10,,,isolated
 2000000170,7579,female,1994,20s,Korea,Gyeonggi-do,Goyang-si,,contact with patient,,,,,2020-03-10,,,isolated
 2000000171,7533,female,1969,50s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,1000000125,,,2020-03-10,,,isolated
-2000000172,7648,female,1971,40s,Korea,Gyeonggi-do,Gwangju-si,,etc,,,6,,2020-03-10,,,isolated
+2000000172,7648,female,1971,40s,Korea,Gyeonggi-do,Gwangju-si,,etc,,,6,,2020-03-10,2020-04-09,,released
 2000000173,7589,female,1988,30s,Korea,Gyeonggi-do,Anyang-si,,contact with patient,,1000000125,,,2020-03-10,,,isolated
 2000000174,7895,female,2002,10s,Korea,Gyeonggi-do,Paju-si,,contact with patient,,,,,2020-03-10,,,isolated
 2000000175,7885,female,1963,50s,Korea,Gyeonggi-do,Goyang-si,,etc,,,,,2020-03-11,,,isolated
 2000000176,7855,female,1975,40s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,1000000125,,,2020-03-11,,,isolated
-2000000177,8079,male,1968,50s,Korea,Gyeonggi-do,Gwangju-si,,contact with patient,,2000000172,29,,2020-03-11,,,isolated
+2000000177,8079,male,1968,50s,Korea,Gyeonggi-do,Gwangju-si,,contact with patient,,2000000172,29,,2020-03-11,2020-04-06,,released
 2000000178,7821,male,1952,60s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000111,,,2020-03-11,,,isolated
 2000000179,7762,male,1992,20s,Korea,Gyeonggi-do,Uijeongbu-si,,overseas inflow,,,,,2020-03-11,,,isolated
 2000000180,7931,female,1971,40s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000167,,,2020-03-12,,,isolated
@@ -1340,7 +1368,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 2000000302,8569,male,1947,70s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000288,19,2020-03-08,2020-03-19,,,isolated
 2000000303,8759,female,1988,30s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,,1,2020-03-07,2020-03-19,,,isolated
 2000000304,8587,female,1970,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000125,2,,2020-03-19,,,isolated
-2000000305,8572,female,1980,40s,Korea,Gyeonggi-do,Gwacheon-si,,etc,,,,2020-03-18,2020-03-19,,,isolated
+2000000305,8572,female,1980,40s,Korea,Gyeonggi-do,Gwacheon-si,,etc,,,2,2020-03-18,2020-03-19,,,isolated
 2000000306,8755,female,1967,50s,Korea,Gyeonggi-do,Gwangju-si,,contact with patient,,2000000114,,,2020-03-19,2020-03-30,,released
 2000000307,8608,male,1972,40s,Korea,Gyeonggi-do,Suwon-si,,overseas inflow,,,3,,2020-03-19,,,isolated
 2000000308,8618,male,2000,20s,Korea,Gyeonggi-do,Bucheon-si,,overseas inflow,,,,,2020-03-19,,,isolated
@@ -1353,11 +1381,11 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 2000000315,8688,female,1958,60s,Korea,Gyeonggi-do,Gunpo-si,,etc,,,,,2020-03-20,,,isolated
 2000000316,8729,female,1935,80s,Korea,Gyeonggi-do,Gunpo-si,,etc,,,,,2020-03-20,,,isolated
 2000000317,8667,male,1955,60s,Korea,Gyeonggi-do,Yongin-si,,contact with patient,,2000000301,,,2020-03-20,,,isolated
-2000000318,8769,female,1974,40s,Korea,Gyeonggi-do,Guri-si,,overseas inflow,,,,,2020-03-20,,,isolated
+2000000318,8769,female,1974,40s,Korea,Gyeonggi-do,Guri-si,,overseas inflow,,,,2020-03-18,2020-03-20,,,isolated
 2000000319,8748,male,1979,40s,Korea,Gyeonggi-do,Namyangju-si,,contact with patient,,1000000272,2,,2020-03-20,,,isolated
 2000000320,8822,female,1968,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000125,,,2020-03-20,,,isolated
 2000000321,8865,male,1964,50s,Korea,Gyeonggi-do,Suwon-si,,overseas inflow,,,,,2020-03-20,,,isolated
-2000000322,8789,female,1984,30s,Korea,Gyeonggi-do,Gwangju-si,,contact with patient,,2000000114,,,2020-03-20,,,isolated
+2000000322,8789,female,1984,30s,Korea,Gyeonggi-do,Gwangju-si,,contact with patient,,2000000114,,,2020-03-20,2020-04-09,,released
 2000000323,8691,male,1995,20s,Korea,Gyeonggi-do,Seongnam-si,,overseas inflow,,,3,,2020-03-20,,,isolated
 2000000324,8872,female,1992,20s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000114,,,2020-03-21,,,isolated
 2000000325,8845,male,1985,30s,Korea,Gyeonggi-do,Yongin-si,,contact with patient,,2000000223,,2020-03-18,2020-03-21,,,isolated
@@ -1380,7 +1408,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 2000000342,9030,female,1986,30s,Korea,Gyeonggi-do,Yongin-si,,overseas inflow,,,,2020-03-18,2020-03-22,,,isolated
 2000000343,8956,female,1969,50s,Korea,Gyeonggi-do,Anyang-si,,contact with patient,,1000000125,,,2020-03-22,,,isolated
 2000000344,9036,female,1958,60s,Korea,Gyeonggi-do,Gwangju-si,,contact with patient,,2000000141,,,2020-03-22,2020-04-01,,released
-2000000345,8955,female,1994,20s,Korea,Gyeonggi-do,Gwangju-si,,overseas inflow,,,5,2020-03-16,2020-03-22,,,isolated
+2000000345,8955,female,1994,20s,Korea,Gyeonggi-do,Gwangju-si,,overseas inflow,,,5,2020-03-16,2020-03-22,2020-04-12,,released
 2000000346,8959,male,1960,60s,Korea,Gyeonggi-do,Goyang-si,,contact with patient,,2000000150,,,2020-03-22,,,isolated
 2000000347,8948,female,1982,30s,Korea,Gyeonggi-do,Yongin-si,,contact with patient,,2000000332,,2020-03-19,2020-03-22,,,isolated
 2000000348,8952,male,1982,30s,Korea,Gyeonggi-do,Yongin-si,,contact with patient,,2000000332,,2020-03-17,2020-03-22,,,isolated
@@ -1435,8 +1463,8 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 2000000397,9198,male,2001,20s,Korea,Gyeonggi-do,Suwon-si,,overseas inflow,,,,,2020-03-25,,,isolated
 2000000398,9169,female,2000,20s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000364,,,2020-03-25,,,isolated
 2000000399,9191,male,1996,20s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000364,,,2020-03-25,,,isolated
-2000000400,9240,male,1964,50s,Korea,Gyeonggi-do,Gwangju-si,,contact with patient,,2000000297,3,2020-03-22,2020-03-25,,,isolated
-2000000401,9188,male,1986,30s,Korea,Gyeonggi-do,Gwangju-si,,overseas inflow,,,5,2020-03-23,2020-03-25,,,isolated
+2000000400,9240,male,1964,50s,Korea,Gyeonggi-do,Gwangju-si,,contact with patient,,2000000297,3,2020-03-22,2020-03-25,2020-04-09,,released
+2000000401,9188,male,1986,30s,Korea,Gyeonggi-do,Gwangju-si,,overseas inflow,,,5,2020-03-23,2020-03-25,2020-04-10,,released
 2000000402,9229,male,1999,20s,Korea,Gyeonggi-do,Hwaseong-si,,contact with patient,,2000000387,,,2020-03-25,,,isolated
 2000000403,9295,female,1949,70s,Korea,Gyeonggi-do,Seongnam-si,,etc,,,1,2020-03-24,2020-03-25,,,isolated
 2000000404,9326,male,1993,20s,Korea,Gyeonggi-do,Ansan-si,,contact with patient,,2000000387,,,2020-03-26,,,isolated
@@ -1475,7 +1503,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 2000000437,9660,male,1962,50s,Korea,Gyeonggi-do,Hwaseong-si,,contact with patient,,2000000421,,,2020-03-28,,,isolated
 2000000438,9540,female,1990,30s,Korea,Gyeonggi-do,Ansan-si,,contact with patient,,1000000269,,,2020-03-28,,,isolated
 2000000439,9542,female,1942,70s,Korea,Gyeonggi-do,Yongin-si,,contact with patient,,2000000328,,,2020-03-28,,,isolated
-2000000440,9579,male,1993,20s,Korea,Gyeonggi-do,Gwangju-si,,overseas inflow,,,2,,2020-03-28,,,isolated
+2000000440,9579,male,1993,20s,Korea,Gyeonggi-do,Gwangju-si,,overseas inflow,,,2,,2020-03-28,2020-04-13,,released
 2000000441,9573,female,1989,30s,Korea,Gyeonggi-do,Suwon-si,,overseas inflow,,,,,2020-03-28,,,isolated
 2000000442,9555,female,1985,30s,Korea,Gyeonggi-do,Gimpo-si,,overseas inflow,,,,,2020-03-28,,,isolated
 2000000443,9827,female,1967,50s,Korea,Gyeonggi-do,Gwangmyeong-si,,contact with patient,,1000000386,,,2020-03-28,,,isolated
@@ -1626,7 +1654,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 2000000588,10305,male,1994,20s,Korea,Gyeonggi-do,Namyangju-si,,overseas inflow,,,,,2020-04-06,,,isolated
 2000000589,10320,female,1939,80s,Korea,Gyeonggi-do,Dongducheon-si,,contact with patient,,2000000476,,,2020-04-06,,,isolated
 2000000590,10303,female,1958,60s,Korea,Gyeonggi-do,Dongducheon-si,,contact with patient,,,,,2020-04-06,,,isolated
-2000000591,10432,female,1943,70s,Korea,Gyeonggi-do,Guri-si,,contact with patient,,2000000465,,,2020-04-06,,,isolated
+2000000591,10432,female,1943,70s,Korea,Gyeonggi-do,Guri-si,,contact with patient,,2000000465,,2020-04-01,2020-04-06,,,isolated
 2000000592,10365,female,1980,40s,Korea,Gyeonggi-do,Yongin-si,,etc,,,,2020-03-28,2020-04-07,,,isolated
 2000000593,10409,male,1992,20s,Korea,Gyeonggi-do,Bucheon-si,,overseas inflow,,,,,2020-04-07,,,isolated
 2000000594,10400,male,2011,10s,Korea,Gyeonggi-do,Pyeongtaek-si,,contact with patient,,2000000584,,,2020-04-07,,,isolated
@@ -1653,8 +1681,8 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 2000000615,10434,male,2017,0s,Korea,Gyeonggi-do,Gwangju-si,,overseas inflow,,,,,2020-04-09,,,isolated
 2000000616,10431,female,1960,60s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000476,,,2020-04-09,,,isolated
 2000000617,10475,male,1990,30s,Korea,Gyeonggi-do,Seongnam-si,,overseas inflow,,,,,2020-04-10,,,isolated
-2000000618,10458,female,1964,50s,Korea,Gyeonggi-do,Gwangju-si,,contact with patient,,,,,2020-04-10,,,isolated
-2000000619,10480,male,1960,60s,Korea,Gyeonggi-do,Gwangju-si,,contact with patient,,,,,2020-04-10,,,isolated
+2000000618,10458,female,1964,50s,Korea,Gyeonggi-do,Gwangju-si,,contact with patient,,,17,2020-04-09,2020-04-10,,,isolated
+2000000619,10480,male,1960,60s,Korea,Gyeonggi-do,Gwangju-si,,contact with patient,,,10,2020-04-09,2020-04-10,,,isolated
 2000000620,10459,male,1964,50s,Korea,Gyeonggi-do,Yangju-si,,contact with patient,,2000000476,,,2020-04-10,,,isolated
 2000000621,10467,female,1992,20s,Korea,Gyeonggi-do,Hwaseong-si,,overseas inflow,,,,,2020-04-10,,,isolated
 2000000622,10469,female,1967,50s,Korea,Gyeonggi-do,Hwaseong-si,,contact with patient,,2000000421,,,2020-04-10,,,isolated
@@ -1664,12 +1692,34 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 2000000626,10507,female,1991,30s,Korea,Gyeonggi-do,Seongnam-si,,overseas inflow,,,,,2020-04-11,,,isolated
 2000000627,10508,male,1961,60s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,,,,2020-04-11,,,isolated
 2000000628,10510,female,1994,20s,Korea,Gyeonggi-do,Hwaseong-si,,contact with patient,,1000000504,,,2020-04-11,,,isolated
-2000000629,,male,1955,60s,Korea,Gyeonggi-do,Guri-si,,etc,,,,2020-04-09,2020-04-11,,,isolated
-2000000630,,female,1996,20s,Korea,Gyeonggi-do,Seongnam-si,,overseas inflow,,,,,2020-04-12,,,isolated
-2000000631,,female,1968,50s,Korea,Gyeonggi-do,Yangju-si,,overseas inflow,,,,,2020-04-12,,,isolated
-2000000632,,female,1952,60s,Korea,Gyeonggi-do,Anseong-si,,overseas inflow,,,,,2020-04-12,,,isolated
-2000000633,,female,1942,70s,Korea,Gyeonggi-do,Guri-si,,overseas inflow,,,,,2020-04-12,,,isolated
-2000000634,,female,1999,20s,Korea,Gyeonggi-do,Gimpo-si,,overseas inflow,,,,,2020-04-12,,,isolated
+2000000629,10533,male,1955,60s,Korea,Gyeonggi-do,Guri-si,,etc,,,,2020-04-09,2020-04-11,,,isolated
+2000000630,10530,female,1996,20s,Korea,Gyeonggi-do,Seongnam-si,,overseas inflow,,,,,2020-04-12,,,isolated
+2000000631,10555,female,1968,50s,Korea,Gyeonggi-do,Yangju-si,,overseas inflow,,,,,2020-04-12,,,isolated
+2000000632,10554,female,1952,60s,Korea,Gyeonggi-do,Anseong-si,,overseas inflow,,,,,2020-04-12,,,isolated
+2000000633,10560,female,1942,70s,Korea,Gyeonggi-do,Guri-si,,overseas inflow,,,,,2020-04-12,,,isolated
+2000000634,10562,female,1999,20s,Korea,Gyeonggi-do,Gimpo-si,,overseas inflow,,,,,2020-04-12,,,isolated
+2000000635,10557,female,1958,60s,Korea,Gyeonggi-do,Pocheon-si,,contact with patient,,2000000629,,,2020-04-13,,,isolated
+2000000636,10552,male,1956,60s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000614,,,2020-04-13,,,isolated
+2000000637,10571,male,1946,70s,Korea,Gyeonggi-do,Namyangju-si,,contact with patient,,2000000476,,,2020-04-13,,,isolated
+2000000638,10527,female,1953,60s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000476,,,2020-04-13,,,isolated
+2000000639,10548,male,1971,50s,Korea,Gyeonggi-do,Namyangju-si,,overseas inflow,,,,,2020-04-13,,,isolated
+2000000640,10547,female,1983,30s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000476,,,2020-04-13,,,isolated
+2000000641,10570,male,1974,40s,Korea,Gyeonggi-do,Pyeongtaek-si,,contact with patient,,2000000529,,,2020-04-13,,,isolated
+2000000642,10577,female,1988,30s,Korea,Gyeonggi-do,Gwangmyeong-si,,overseas inflow,,,,,2020-04-14,,,isolated
+2000000643,10586,female,1973,40s,Korea,Gyeonggi-do,Pyeongtaek-si,,contact with patient,,2000000477,,,2020-04-14,,,isolated
+2000000644,10581,male,1958,60s,Korea,Gyeonggi-do,Pocheon-si,,contact with patient,,2000000498,,,2020-04-14,,,isolated
+2000000645,10590,male,1949,70s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000638,,,2020-04-14,,,isolated
+2000000646,10596,male,1990,30s,Korea,Gyeonggi-do,Goyang-si,,overseas inflow,,,,,2020-04-14,,,isolated
+2000000647,10600,female,1959,60s,Korea,Gyeonggi-do,Pocheon-si,,contact with patient,,2000000635,,,2020-04-15,,,isolated
+2000000648,10604,female,1986,30s,Korea,Gyeonggi-do,Yongin-si,,overseas inflow,,,,,2020-04-15,,,isolated
+2000000649,10603,female,2005,10s,Korea,Gyeonggi-do,Yongin-si,,overseas inflow,,,,,2020-04-15,,,isolated
+2000000650,10627,female,1961,60s,Korea,Gyeonggi-do,Pocheon-si,,contact with patient,,,,,2020-04-16,,,isolated
+2000000651,10649,male,1963,50s,Korea,Gyeonggi-do,Pocheon-si,,contact with patient,,2000000650,,,2020-04-17,,,isolated
+2000000652,10648,female,1934,80s,Korea,Gyeonggi-do,Pocheon-si,,contact with patient,,2000000629,,,2020-04-17,,,isolated
+2000000653,10652,male,1965,50s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000520,,,2020-04-17,,,isolated
+2000000654,10650,female,2017,0s,Korea,Gyeonggi-do,Gunpo-si,,contact with patient,,1000000550,,,2020-04-17,,,isolated
+2000000655,,female,1998,20s,Korea,Gyeonggi-do,Yongin-si,,overseas inflow,,,,,2020-04-19,,,isolated
+2000000656,,male,1964,50s,Korea,Gyeonggi-do,Namyangju-si,,contact with patient,,2000000586,,,2020-04-19,,,isolated
 3001000001,,male,,40s,Korea,Gangwon-do,Gangneung-si,,etc,,,,,2020-02-22,,,isolated
 3001000002,,male,,20s,China,Gangwon-do,Gangneung-si,,overseas inflow,,,,,2020-03-01,2020-03-09,,released
 3001000003,,male,,40s,Korea,Gangwon-do,Gangneung-si,,etc,,,,,2020-03-01,2020-03-14,,released
@@ -1760,15 +1810,15 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 4100000007,,male,1975,40s,Korea,Chungcheongnam-do,Asan-si,,contact with patient,,4100000006,51,2020-02-22,2020-02-26,2020-03-26,,released
 4100000008,,female,1974,40s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,,130,2020-02-20,2020-02-26,2020-03-29,,released
 4100000009,,female,1982,30s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,3,2020-02-23,2020-02-26,2020-03-23,,released
-4100000010,,female,1971,40s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,2,2020-02-25,2020-02-27,,,isolated
-4100000011,,female,1989,30s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,31,2020-02-22,2020-02-27,,,isolated
+4100000010,,female,1971,40s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,2,2020-02-25,2020-02-27,2020-04-17,,released
+4100000011,,female,1989,30s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,31,2020-02-22,2020-02-27,2020-04-18,,released
 4100000012,,female,1967,50s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,5,2020-02-24,2020-02-27,2020-03-26,,released
 4100000013,,female,1977,40s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,10,2020-02-22,2020-02-27,2020-03-17,,released
 4100000014,,male,1975,40s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000013,,,2020-02-27,2020-04-01,,released
 4100000015,,female,1977,40s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,,,2020-02-27,2020-03-23,,released
 4100000016,,female,1974,40s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,,,2020-02-27,2020-03-18,,released
 4100000017,,female,1980,40s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,15,2020-02-26,2020-02-27,2020-03-14,,released
-4100000018,,male,1990,30s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000049,51,2020-02-27,2020-02-27,2020-04-02,,released
+4100000018,,male,1990,30s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000049,51,2020-02-27,2020-04-15,,,isolated
 4100000019,,female,1979,40s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,2,2020-02-24,2020-02-27,2020-03-23,,released
 4100000020,,female,1980,40s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000006,1,2020-02-21,2020-02-28,2020-03-22,,released
 4100000021,,male,1989,30s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000011,,2020-02-27,2020-02-28,2020-03-26,,released
@@ -1799,9 +1849,9 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 4100000046,,female,1971,40s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000006,0,,2020-02-28,2020-03-26,,released
 4100000047,,male,1978,40s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000037,0,,2020-02-29,2020-03-11,,released
 4100000048,,male,2007,10s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000037,0,,2020-02-29,2020-03-11,,released
-4100000049,,male,1983,30s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000022,,,2020-02-29,,,isolated
+4100000049,,male,1983,30s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000022,,,2020-02-29,2020-04-12,,released
 4100000050,,female,1991,20s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000006,1,2020-02-27,2020-02-29,2020-03-13,,released
-4100000051,,female,1959,60s,Korea,Chungcheongnam-do,Cheonan-si,,etc,,,5,2020-02-25,2020-02-29,,,isolated
+4100000051,,female,1959,60s,Korea,Chungcheongnam-do,Cheonan-si,,etc,,,5,2020-02-25,2020-02-29,2020-04-18,,released
 4100000052,,female,1978,40s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000070,7,2020-02-24,2020-02-29,2020-03-18,,released
 4100000053,,female,1959,60s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,0,,2020-02-29,2020-03-24,,released
 4100000054,,female,1969,50s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,1,,2020-02-29,2020-03-23,,released
@@ -1851,7 +1901,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 4100000098,,female,2000,20s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000059,19,,2020-03-07,2020-03-23,,released
 4100000099,,female,1970,50s,Korea,Chungcheongnam-do,Cheonan-si,,etc,,,18,,2020-03-08,2020-03-25,,released
 4100000100,,male,1966,50s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000099,5,,2020-03-08,2020-03-30,,released
-4100000101,,female,1998,20s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000099,5,,2020-03-08,,,isolated
+4100000101,,female,1998,20s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000099,5,,2020-03-08,2020-04-16,,released
 4100000102,,female,1996,20s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000003,0,,2020-03-08,2020-03-23,,released
 4100000103,,female,2000,20s,Korea,Chungcheongnam-do,Cheonan-si,,etc,,,7,,2020-03-09,,,isolated
 4100000104,,male,1966,50s,Korea,Chungcheongnam-do,Seosan-si,,etc,,,37,,2020-03-09,2020-04-02,,released
@@ -1860,7 +1910,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 4100000107,,female,1978,40s,Korea,Chungcheongnam-do,Asan-si,,contact with patient,,,4,2020-03-08,2020-03-10,2020-03-26,,released
 4100000108,,male,2019,0s,Korea,Chungcheongnam-do,Asan-si,,contact with patient,,4100000107,0,2020-03-06,2020-03-10,2020-03-26,,released
 4100000109,,female,1986,30s,Korea,Chungcheongnam-do,Seosan-si,,contact with patient,,4100000104,34,,2020-03-10,2020-03-20,,released
-4100000110,,male,1968,50s,Korea,Chungcheongnam-do,Seosan-si,,contact with patient,,4100000104,1,,2020-03-10,,,isolated
+4100000110,,male,1968,50s,Korea,Chungcheongnam-do,Seosan-si,,contact with patient,,4100000104,1,,2020-03-10,2020-04-17,,released
 4100000111,,female,1995,20s,Korea,Chungcheongnam-do,Seosan-si,,contact with patient,,4100000104,15,,2020-03-10,2020-04-01,,released
 4100000112,,male,1967,50s,Korea,Chungcheongnam-do,Seosan-si,,contact with patient,,4100000104,2,,2020-03-10,2020-04-11,,released
 4100000113,,male,1983,30s,Korea,Chungcheongnam-do,Seosan-si,,contact with patient,,4100000104,3,,2020-03-10,2020-03-29,,released
@@ -1868,28 +1918,30 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 4100000115,,female,1939,80s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000002,14,2020-03-11,2020-03-11,2020-03-20,,released
 4100000116,,male,1955,60s,Korea,Chungcheongnam-do,Hongseong-gun,,overseas inflow,,4100000118,0,2020-03-16,2020-03-17,2020-04-03,,released
 4100000117,,male,1995,20s,Korea,Chungcheongnam-do,Cheonan-si,,River of Grace Community Church,,,1,2020-03-09,2020-03-17,2020-04-05,,released
-4100000118,,female,1958,60s,Korea,Chungcheongnam-do,Hongseong-gun,,overseas inflow,,4100000116,5,,2020-03-17,,,isolated
+4100000118,,female,1958,60s,Korea,Chungcheongnam-do,Hongseong-gun,,overseas inflow,,4100000116,5,,2020-03-17,2020-04-15,,released
 4100000119,,female,1984,30s,Korea,Chungcheongnam-do,Taean-gun,,etc,,,0,,2020-03-19,,,isolated
 4100000120,,female,1975,40s,Korea,Chungcheongnam-do,Cheonan-si,,etc,,,10,,2020-03-21,2020-03-28,,released
 4100000121,,male,1972,40s,Korea,Chungcheongnam-do,Buyeo-gun,,contact with patient,,4100000122,2,,2020-03-24,2020-04-07,,released
-4100000122,,female,1975,40s,Korea,Chungcheongnam-do,Buyeo-gun,,contact with patient,,4100000121,39,,2020-03-24,,,isolated
+4100000122,,female,1975,40s,Korea,Chungcheongnam-do,Buyeo-gun,,contact with patient,,4100000121,39,,2020-03-24,2020-04-14,,released
 4100000123,,male,1971,40s,Korea,Chungcheongnam-do,Cheonan-si,,overseas inflow,,,0,2020-03-13,2020-03-24,2020-04-13,,released
 4100000124,,male,1990,30s,Korea,Chungcheongnam-do,Cheonan-si,,overseas inflow,,,1,2020-03-21,2020-03-25,,,isolated
-4100000125,,male,1981,30s,Korea,Chungcheongnam-do,Buyeo-gun,,contact with patient,,4100000122,3,2020-03-27,2020-03-27,,,isolated
-4100000126,,male,1986,30s,Korea,Chungcheongnam-do,Buyeo-gun,,overseas inflow,,,1,2020-03-25,2020-03-27,,,isolated
+4100000125,,male,1981,30s,Korea,Chungcheongnam-do,Buyeo-gun,,contact with patient,,4100000122,3,2020-03-27,2020-03-27,2020-04-18,,released
+4100000126,,male,1986,30s,Korea,Chungcheongnam-do,Buyeo-gun,,overseas inflow,,,1,2020-03-25,2020-03-27,2020-04-16,,released
 4100000127,,male,2001,10s,Korea,Chungcheongnam-do,Cheonan-si,,overseas inflow,,,3,2020-03-22,2020-03-28,,,isolated
 4100000128,,female,1977,40s,Korea,Chungcheongnam-do,Buyeo-gun,,etc,,,8,,2020-03-30,,,isolated
 4100000129,,male,1985,30s,Korea,Chungcheongnam-do,Cheonan-si,,overseas inflow,,,2,2020-03-21,2020-03-31,,,isolated
 4100000130,,female,1957,60s,Korea,Chungcheongnam-do,Buyeo-gun,,contact with patient,,4100000122,5,2020-03-26,2020-03-31,,,isolated
-4100000131,,male,1964,50s,Korea,Chungcheongnam-do,Buyeo-gun,,contact with patient,,4100000122,0,,2020-03-31,,,isolated
+4100000131,,male,1964,50s,Korea,Chungcheongnam-do,Buyeo-gun,,contact with patient,,4100000122,0,,2020-03-31,2020-04-17,,released
 4100000132,,female,1942,70s,Korea,Chungcheongnam-do,Buyeo-gun,,etc,,,3,,2020-04-01,,,isolated
 4100000133,,female,1970,50s,Korea,Chungcheongnam-do,Buyeo-gun,,etc,,,8,,2020-04-01,,,isolated
 4100000134,,female,1999,20s,Korea,Chungcheongnam-do,Buyeo-gun,,contact with patient,,4100000133,0,,2020-04-02,,,isolated
 4100000135,,male,1973,40s,United States,Chungcheongnam-do,Asan-si,,overseas inflow,,2000000508,2,,2020-04-03,,,isolated
 4100000136,,male,1949,70s,Korea,Chungcheongnam-do,Buyeo-gun,,contact with patient,,4100000130,0,2020-04-03,2020-04-05,,,isolated
-4100000137,,female,1994,20s,Korea,Chungcheongnam-do,Cheonan-si,,etc,,,22,2020-04-01,2020-04-06,,,released
+4100000137,,female,1994,20s,Korea,Chungcheongnam-do,Cheonan-si,,etc,,,29,2020-04-01,2020-04-06,2020-04-10,,released
 4100000138,,male,1982,30s,Korea,Chungcheongnam-do,Cheonan-si,,overseas inflow,,,1,2020-04-06,2020-04-07,,,isolated
 4100000139,,female,1959,60s,United States,Chungcheongnam-do,Seocheon-gun,,overseas inflow,,,4,2020-04-10,2020-04-11,,,isolated
+4100000140,,female,1958,60s,Korea,Chungcheongnam-do,Cheonan-si,,overseas inflow,,,1,,2020-04-17,,,isolated
+4100000141,,male,1999,20s,Korea,Chungcheongnam-do,Nonsan-si,,contact with patient,,6100000115,89,,2020-04-17,,,isolated
 5000000001,8,female,1958,60s,Korea,Jeollabuk-do,Gunsan-si,,overseas inflow,1,,113,,2020-01-31,2020-02-12,,released
 5000000002,113,male,1992,20s,Korea,Jeollabuk-do,Gimje-si,,etc,,,,,2020-02-20,2020-03-10,,released
 5000000003,230,male,1984,30s,Korea,Jeollabuk-do,Jeonju-si,,contact with patient,,5000000002,,,2020-02-21,2020-03-07,,released
@@ -1936,7 +1988,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000012,240,female,1978,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,9,,2020-02-21,2020-03-06,,released
 6001000013,394,male,1987,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,5,,2020-02-22,2020-03-21,,released
 6001000014,395,female,1977,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,15,,2020-02-22,2020-03-27,,released
-6001000015,530,female,1962,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,4,,2020-02-22,,,isolated
+6001000015,530,female,1962,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,4,,2020-02-22,2020-04-14,,released
 6001000016,532,male,1957,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,1,,2020-02-22,2020-03-20,,released
 6001000017,548,female,1977,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,7,,2020-02-22,2020-03-18,,released
 6001000018,571,female,1969,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,2,,2020-02-23,2020-03-28,,released
@@ -1949,7 +2001,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000025,775,female,1966,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-24,2020-03-06,,released
 6001000026,774,female,1956,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-24,2020-03-26,,released
 6001000027,852,male,1982,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,5,,2020-02-24,2020-03-22,,released
-6001000028,856,male,1949,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-24,,,isolated
+6001000028,856,male,1949,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-24,2020-04-15,,released
 6001000029,855,female,1973,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,6,,2020-02-24,2020-03-30,,released
 6001000030,854,female,1985,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,2,,2020-02-24,2020-03-20,,released
 6001000031,853,male,2009,10s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-24,2020-03-19,,released
@@ -2012,7 +2064,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000088,1942,female,1998,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,4,,2020-02-27,2020-03-27,,released
 6001000089,1674,female,1987,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-27,2020-03-23,,released
 6001000090,1679,female,1965,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-27,2020-03-27,,released
-6001000091,2674,female,1983,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-27,,,isolated
+6001000091,2674,female,1983,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-27,2020-04-16,,released
 6001000092,1816,female,1974,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-27,2020-03-27,,released
 6001000093,2430,female,1960,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-27,2020-03-17,,released
 6001000094,2659,female,1991,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-27,2020-03-13,,released
@@ -2040,7 +2092,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000116,2631,female,1956,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,2,,2020-02-28,2020-03-27,,released
 6001000117,2922,male,1954,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-28,2020-03-25,,released
 6001000118,2921,female,1962,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-28,2020-04-07,,released
-6001000119,2925,male,1936,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-28,,,isolated
+6001000119,2925,male,1936,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Seorin Nursing Home,,,,,2020-02-28,,,isolated
 6001000120,2924,female,1940,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-28,2020-04-09,,released
 6001000121,3008,female,1992,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-28,2020-03-26,,released
 6001000122,1992,female,1948,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-28,2020-04-10,,released
@@ -2065,7 +2117,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000141,3358,female,1978,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-29,2020-03-10,,released
 6001000142,3460,female,1966,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-29,2020-03-12,,released
 6001000143,3461,female,1935,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-29,2020-03-24,,released
-6001000144,3370,female,1990,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-29,,,isolated
+6001000144,3370,female,1990,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-29,2020-04-16,,released
 6001000145,3371,male,2020,0s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-02-29,2020-04-07,,released
 6001000146,3620,female,1995,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-01,2020-03-30,,released
 6001000147,3619,male,2000,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-01,2020-03-15,,released
@@ -2159,7 +2211,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000235,5151,female,1995,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-03,2020-04-02,,released
 6001000236,5403,male,1957,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-03,2020-04-09,,released
 6001000237,5189,female,1972,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-03,2020-03-19,,released
-6001000238,5111,male,1972,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-03,,,isolated
+6001000238,5111,male,1972,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-03,2020-04-17,,released
 6001000239,5097,female,1995,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-03,2020-03-19,,released
 6001000240,4887,female,1970,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-03,2020-03-29,,released
 6001000241,5215,male,1993,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-03,2020-03-27,,released
@@ -2322,7 +2374,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000398,5871,female,1997,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-05,2020-03-25,,released
 6001000399,5771,female,1978,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-05,2020-03-22,,released
 6001000400,6249,female,1995,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-05,2020-03-29,,released
-6001000401,6096,female,1955,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-05,,,isolated
+6001000401,6096,female,1955,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-05,2020-04-16,,released
 6001000402,6064,female,1939,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-05,,2020-03-16,deceased
 6001000403,6205,male,1991,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-05,2020-04-08,,released
 6001000404,6240,female,1985,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-05,2020-03-16,,released
@@ -2339,11 +2391,11 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000415,6654,female,1950,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-06,2020-03-25,,released
 6001000416,6287,male,1993,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-06,2020-04-04,,released
 6001000417,6659,male,1936,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-06,2020-03-20,,released
-6001000418,6695,female,1965,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-06,,,isolated
+6001000418,6695,female,1965,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-06,2020-04-17,,released
 6001000419,6419,female,1935,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Jeil Silver Town,,,,,2020-03-06,2020-03-31,,released
 6001000420,6642,female,1997,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-06,2020-03-19,,released
-6001000421,,female,1953,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-06,,,isolated
-6001000422,6540,female,1970,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-06,,,isolated
+6001000421,6299,female,1953,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-06,2020-04-15,,released
+6001000422,6540,female,1970,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-06,2020-04-10,,released
 6001000423,6396,female,1957,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-06,2020-04-07,,released
 6001000424,6564,male,1995,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-06,2020-04-01,,released
 6001000425,6487,male,1996,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-06,2020-03-15,,released
@@ -2437,121 +2489,122 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6001000513,7792,female,1963,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-11,2020-03-22,,released
 6001000514,7769,female,1939,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-01,,,isolated
 6001000515,7960,female,1932,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-12,,,isolated
-6001000516,7996,female,1933,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Cham Joeun Community Center,,,,,2020-03-13,,,isolated
+6001000516,7996,female,1933,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Cham Joeun Community Center,,,,,2020-03-13,2020-03-28,,released
 6001000517,8068,male,1978,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-13,2020-04-05,,released
 6001000518,8018,male,1937,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-14,,,isolated
-6001000519,8062,male,1957,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-14,,,isolated
+6001000519,8062,male,1957,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-14,2020-04-16,,released
 6001000520,8134,female,1989,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-14,2020-03-23,,released
 6001000521,8099,male,1950,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-14,2020-04-01,,released
 6001000522,8155,female,1948,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-15,2020-03-29,,released
-6001000523,,male,1963,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-15,,,isolated
-6001000524,,female,1968,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-15,2020-04-01,,released
-6001000525,,female,1938,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Seorin Nursing Home,,,,,2020-03-15,,,isolated
-6001000526,,female,1928,90s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Cham Joeun Community Center,,,,,2020-03-15,2020-04-05,,released
-6001000527,,male,1950,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-16,,,isolated
-6001000528,,male,1949,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-15,,2020-03-16,deceased
-6001000529,,female,1949,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-16,,,isolated
-6001000530,,male,1939,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Seorin Nursing Home,,,,,2020-03-16,,,isolated
-6001000531,,female,1969,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-17,2020-04-07,,released
-6001000532,,female,1932,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Cham Joeun Community Center,,,,,2020-03-17,2020-04-02,,released
-6001000533,,female,1986,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-17,2020-03-29,,released
-6001000534,,female,1956,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-17,2020-04-08,,released
-6001000535,,male,1963,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-17,2020-03-28,,released
-6001000536,,male,1998,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-17,2020-03-28,,released
-6001000537,,female,1987,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-17,2020-03-28,,released
-6001000538,,female,1996,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-18,,,isolated
-6001000539,,female,1970,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-18,,,isolated
-6001000540,,female,1941,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-18,2020-04-07,,released
-6001000541,,female,2010,10s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-18,2020-04-08,,released
-6001000542,,female,1964,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Seorin Nursing Home,,,,,2020-03-18,,,isolated
-6001000543,,male,2001,10s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-18,2020-03-28,,released
-6001000544,,male,1954,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-18,2020-04-08,,released
-6001000545,,male,2011,0s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-19,2020-04-05,,released
-6001000546,,female,1967,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-19,2020-04-03,,released
-6001000547,,female,2003,10s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-20,2020-04-04,,released
-6001000548,,female,1971,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-20,2020-03-29,,released
-6001000549,,female,1971,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-20,2020-03-30,,released
-6001000550,,female,1997,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-20,2020-04-03,,released
-6001000551,,male,2010,10s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-20,2020-03-30,,released
-6001000552,,male,1953,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-20,2020-03-30,,released
-6001000553,,female,1952,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,2020-04-05,,released
-6001000554,,female,1959,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,2020-04-13,,released
-6001000555,,female,1945,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
-6001000556,,female,1943,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,2020-04-09,,released
-6001000557,,female,1949,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
-6001000558,,female,1955,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,2020-04-05,,released
-6001000559,,female,1959,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
-6001000560,,female,1940,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
-6001000561,,female,1963,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
-6001000562,,female,1935,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,2020-04-10,,released
-6001000563,,female,1929,90s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
-6001000564,,female,1932,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
-6001000565,,male,1928,90s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,2020-04-02,deceased
-6001000566,,male,1934,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
-6001000567,,male,1930,90s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-20,,2020-03-27,deceased
-6001000568,,male,1939,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-20,,2020-03-25,deceased
-6001000569,,male,1966,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,2020-04-10,,released
-6001000570,,female,1940,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
-6001000571,,female,1934,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-20,,2020-03-29,deceased
-6001000572,,male,1942,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,2020-04-03,deceased
-6001000573,,male,1941,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-20,,2020-03-25,deceased
-6001000574,,male,1944,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-20,,2020-03-24,deceased
-6001000575,,male,1962,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
-6001000576,,male,1942,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
-6001000577,,male,1947,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
-6001000578,,male,1979,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
-6001000579,,male,1948,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
-6001000580,,female,1941,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
-6001000581,,female,1940,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
-6001000582,,female,1932,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,2020-04-05,deceased
-6001000583,,female,1945,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
-6001000584,,male,1933,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-21,,2020-03-31,deceased
-6001000585,,male,1961,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-23,,,isolated
-6001000586,,female,1983,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-24,,,isolated
-6001000587,,male,1956,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-24,,,isolated
-6001000588,,female,1937,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-25,,2020-03-26,deceased
-6001000589,,female,1966,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-25,2020-04-13,,released
-6001000590,,female,1996,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-25,,,isolated
-6001000591,,female,1937,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-25,,,isolated
-6001000592,,female,1937,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-25,,,isolated
-6001000593,,female,1953,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-25,,,isolated
-6001000594,,female,1999,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-25,2020-04-04,,released
-6001000595,,female,1968,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-26,,,isolated
-6001000596,,male,1964,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-26,,,isolated
-6001000597,,female,1943,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-26,,,isolated
-6001000598,,female,1946,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-26,,,isolated
-6001000599,,male,1942,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-26,,2020-04-06,deceased
-6001000600,,male,1943,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-26,,,isolated
-6001000601,,male,1956,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-26,,,isolated
-6001000602,,female,1942,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-26,,,isolated
-6001000603,,female,1958,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-26,,,isolated
-6001000604,,female,1959,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-26,,,isolated
-6001000605,,male,2003,10s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-27,2020-04-05,,released
-6001000606,,male,1945,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-28,,,isolated
-6001000607,,female,1958,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-29,,,isolated
-6001000608,,female,1968,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-29,,,isolated
-6001000609,,female,1941,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-29,,,isolated
-6001000610,,female,1943,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-29,,2020-03-31,deceased
-6001000611,,female,1950,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-29,,,isolated
-6001000612,,female,1932,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-29,,2020-04-03,deceased
-6001000613,,male,1967,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-29,2020-04-08,,released
-6001000614,,male,1951,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-30,,,isolated
-6001000615,,male,1934,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-31,,,isolated
-6001000616,,female,1957,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-31,,,isolated
-6001000617,,female,1972,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-31,2020-04-06,,released
-6001000618,,female,1993,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-01,,,isolated
-6001000619,,male,1974,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-02,,,isolated
-6001000620,,female,1998,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-04-02,,,isolated
-6001000621,,male,1958,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-02,,,isolated
-6001000622,,female,1945,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-02,,,isolated
-6001000623,,female,1996,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-04-03,,,isolated
-6001000624,,female,1934,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-03,,,isolated
+6001000523,8176,male,1963,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-15,,,isolated
+6001000524,8193,female,1968,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-15,2020-04-01,,released
+6001000525,8177,female,1938,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Seorin Nursing Home,,,,,2020-03-15,,,isolated
+6001000526,8173,female,1928,90s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Cham Joeun Community Center,,,,,2020-03-15,2020-04-05,,released
+6001000527,8294,male,1950,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-16,,,isolated
+6001000528,8237,male,1949,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-15,,2020-03-16,deceased
+6001000529,8275,female,1949,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-16,,,isolated
+6001000530,8279,male,1939,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Seorin Nursing Home,,,,,2020-03-16,,,isolated
+6001000531,8371,female,1969,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-17,2020-04-07,,released
+6001000532,8389,female,1932,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Cham Joeun Community Center,,,,,2020-03-17,2020-04-02,,released
+6001000533,8398,female,1986,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-17,2020-03-29,,released
+6001000534,8339,female,1956,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-17,2020-04-08,,released
+6001000535,8343,male,1963,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-17,2020-03-28,,released
+6001000536,8403,male,1998,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-17,2020-03-28,,released
+6001000537,8329,female,1987,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-17,2020-03-28,,released
+6001000538,8497,female,1996,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-18,,,isolated
+6001000539,8518,female,1970,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-18,2020-04-14,,released
+6001000540,6475,female,1941,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-18,2020-04-07,,released
+6001000541,8558,female,2010,10s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-18,2020-04-08,,released
+6001000542,8546,female,1964,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Gyeongsan Seorin Nursing Home,,,,,2020-03-18,,,isolated
+6001000543,8499,male,2001,10s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-18,2020-03-28,,released
+6001000544,8334,male,1954,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-18,2020-04-08,,released
+6001000545,8590,male,2011,0s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-19,2020-04-05,,released
+6001000546,8593,female,1967,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-19,2020-04-03,,released
+6001000547,8699,female,2003,10s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-20,2020-04-04,,released
+6001000548,8756,female,1971,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-20,2020-03-29,,released
+6001000549,8684,female,1971,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-20,2020-03-30,,released
+6001000550,8718,female,1997,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-20,2020-04-03,,released
+6001000551,8779,male,2010,10s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-20,2020-03-30,,released
+6001000552,8701,male,1953,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-20,2020-03-30,,released
+6001000553,8681,female,1952,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,2020-04-05,,released
+6001000554,8680,female,1959,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,2020-04-13,,released
+6001000555,8678,female,1945,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
+6001000556,8673,female,1943,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,2020-04-09,,released
+6001000557,8777,female,1949,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
+6001000558,8796,female,1955,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,2020-04-05,,released
+6001000559,8742,female,1959,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
+6001000560,8733,female,1940,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
+6001000561,8683,female,1963,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
+6001000562,8745,female,1935,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,2020-04-10,,released
+6001000563,8758,female,1929,90s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
+6001000564,8722,female,1932,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
+6001000565,8772,male,1928,90s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,2020-04-02,deceased
+6001000566,8794,male,1934,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
+6001000567,8793,male,1930,90s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-20,,2020-03-27,deceased
+6001000568,8797,male,1939,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-20,,2020-03-25,deceased
+6001000569,8711,male,1966,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,2020-04-10,,released
+6001000570,8751,female,1940,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
+6001000571,8662,female,1934,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-20,,2020-03-29,deceased
+6001000572,8696,male,1942,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,2020-04-03,deceased
+6001000573,8674,male,1941,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-20,,2020-03-25,deceased
+6001000574,8764,male,1944,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-20,,2020-03-24,deceased
+6001000575,8747,male,1962,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
+6001000576,8778,male,1942,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
+6001000577,8786,male,1947,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
+6001000578,8768,male,1979,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
+6001000579,8734,male,1948,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,2020-04-17,,released
+6001000580,8727,female,1941,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,2020-04-16,,released
+6001000581,8784,female,1940,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
+6001000582,8839,female,1932,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,2020-04-05,deceased
+6001000583,8889,female,1945,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-20,,,isolated
+6001000584,8893,male,1933,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-21,,2020-03-31,deceased
+6001000585,9033,male,1961,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-23,,,isolated
+6001000586,9114,female,1983,30s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-24,,,isolated
+6001000587,9118,male,1956,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-24,,,isolated
+6001000588,9218,female,1937,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-25,,2020-03-26,deceased
+6001000589,9199,female,1966,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-25,2020-04-13,,released
+6001000590,9213,female,1996,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-25,,,isolated
+6001000591,9236,female,1937,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-25,,,isolated
+6001000592,9195,female,1937,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-25,,,isolated
+6001000593,9233,female,1953,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-25,,,isolated
+6001000594,9225,female,1999,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-25,2020-04-04,,released
+6001000595,9261,female,1968,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-26,,,isolated
+6001000596,9271,male,1964,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-26,,,isolated
+6001000597,9272,female,1943,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-26,,,isolated
+6001000598,9329,female,1946,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-26,,,isolated
+6001000599,9297,male,1942,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-26,,2020-04-06,deceased
+6001000600,9280,male,1943,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-26,,,isolated
+6001000601,9262,male,1956,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-26,2020-04-16,,released
+6001000602,9273,female,1942,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-26,,,isolated
+6001000603,9283,female,1958,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-26,,,isolated
+6001000604,9285,female,1959,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-26,,,isolated
+6001000605,9433,male,2003,10s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-27,2020-04-05,,released
+6001000606,9563,male,1945,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-28,,,isolated
+6001000607,9562,female,1958,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-29,,,isolated
+6001000608,9606,female,1968,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-29,,,isolated
+6001000609,9646,female,1941,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-29,,,isolated
+6001000610,9622,female,1943,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-29,,2020-03-31,deceased
+6001000611,9659,female,1950,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-29,,,isolated
+6001000612,9636,female,1932,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-29,,2020-04-03,deceased
+6001000613,9657,male,1967,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-03-29,2020-04-08,,released
+6001000614,9770,male,1951,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-30,,,isolated
+6001000615,9809,male,1934,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-31,,,isolated
+6001000616,9804,female,1957,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-31,,,isolated
+6001000617,9845,female,1972,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-03-31,2020-04-06,,released
+6001000618,9925,female,1993,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-01,,,isolated
+6001000619,10007,male,1974,40s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-02,,,isolated
+6001000620,10032,female,1998,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-04-02,,,isolated
+6001000621,10040,male,1958,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-02,,,isolated
+6001000622,10039,female,1945,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-02,2020-04-16,,released
+6001000623,10125,female,1996,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-04-03,,,isolated
+6001000624,10102,female,1934,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-03,,,isolated
 6001000625,10261,female,1935,80s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-05,,,isolated
-6001000626,,female,1941,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-07,,,isolated
-6001000627,,female,1956,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-07,,,isolated
-6001000628,,female,1954,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-07,,,isolated
+6001000626,10356,female,1941,70s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-07,,,isolated
+6001000627,10353,female,1956,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-07,,,isolated
+6001000628,10362,female,1954,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-07,,,isolated
 6001000629,,male,1999,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,,,,,,2020-04-09,,,isolated
 6001000630,,female,1959,60s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-09,,,isolated
+6001000631,,female,1961,50s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,etc,,,,,2020-04-14,,,isolated
 6002000001,,male,1998,20s,Korea,Gyeongsangbuk-do,Gyeongju-si,,etc,,,,,2020-02-22,,,isolated
 6002000002,,male,1980,40s,Korea,Gyeongsangbuk-do,Gyeongju-si,,etc,,,,,2020-02-22,,,deceased
 6002000003,,female,1996,20s,Korea,Gyeongsangbuk-do,Gyeongju-si,,Shincheonji Church,,,,,2020-02-22,,,isolated
@@ -2819,43 +2872,43 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6010000020,,male,,60s,Korea,Gyeongsangbuk-do,Seongju-gun,,etc,,,,,2020-03-14,,,isolated
 6010000021,,female,,60s,Korea,Gyeongsangbuk-do,Seongju-gun,,overseas inflow,,,,,2020-03-21,,,isolated
 6010000022,,male,,20s,Korea,Gyeongsangbuk-do,Seongju-gun,,overseas inflow,,,,2020-03-15,2020-03-22,,,isolated
-6011000001,387,female,1960,60s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,,2020-02-21,,,isolated
-6011000002,386,male,1956,60s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,,2020-02-21,,,isolated
-6011000003,384,male,1995,20s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,,2020-02-20,,,isolated
-6011000004,385,male,1956,60s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,,2020-02-21,,,isolated
-6011000005,388,female,1960,60s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,,2020-02-21,,,isolated
-6011000006,440,female,1957,60s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,,2020-02-22,,,isolated
-6011000007,,male,1995,20s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,,2020-02-23,,,isolated
+6011000001,387,female,1960,60s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,2020-02-21,,,isolated
+6011000002,386,male,1956,60s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,2020-02-21,,,isolated
+6011000003,384,male,1995,20s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,2020-02-20,,,isolated
+6011000004,385,male,1956,60s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,2020-02-21,,,isolated
+6011000005,388,female,1960,60s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,2020-02-21,,,isolated
+6011000006,440,female,1957,60s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,2020-02-22,,,isolated
+6011000007,,male,1995,20s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,2020-02-23,,,isolated
 6011000008,,female,1988,30s,Korea,Gyeongsangbuk-do,Andong-si,,contact with patient,,6011000004,,,2020-02-23,,,isolated
 6011000009,,female,1996,20s,Korea,Gyeongsangbuk-do,Andong-si,,contact with patient,,6011000003,,,2020-02-23,,,isolated
 6011000010,,female,1998,20s,Korea,Gyeongsangbuk-do,Andong-si,,contact with patient,,,,,2020-02-23,,,isolated
-6011000011,,female,1994,40s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,,2020-02-24,,,isolated
-6011000012,,female,1971,20s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,,2020-02-25,,,isolated
-6011000013,,male,1992,20s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,,2020-02-26,,,isolated
-6011000014,,male,1996,20s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,,2020-02-27,,,isolated
-6011000015,,male,1986,30s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,,2020-02-27,,,isolated
-6011000016,,female,2002,10s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,,2020-02-27,,,isolated
-6011000017,,male,1988,30s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,,2020-02-28,,,isolated
-6011000018,,female,1975,40s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,,2020-02-27,,,isolated
-6011000019,,male,1993,20s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,,2020-02-28,,,isolated
-6011000020,,male,1975,40s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,,2020-02-27,,,isolated
-6011000021,,female,1976,40s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,,2020-02-27,,,isolated
-6011000022,,female,1997,20s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,,2020-02-27,,,isolated
-6011000023,,male,1997,20s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,2020-02-21,2020-02-27,,,isolated
-6011000024,,female,1976,40s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,,2020-02-28,,,isolated
-6011000025,,male,1986,30s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,2020-02-25,2020-02-28,,,isolated
-6011000026,,female,1958,60s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,2020-02-20,2020-02-28,,,isolated
-6011000027,,female,1967,50s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,2020-02-26,2020-02-28,,,isolated
-6011000028,,female,1993,20s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,2020-02-19,2020-02-28,,,isolated
-6011000029,,female,2000,20s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,2020-02-21,2020-02-28,,,isolated
-6011000030,,male,1991,20s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,2020-02-19,2020-02-28,,,isolated
-6011000031,,female,1950,70s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,2020-02-21,2020-03-01,,,isolated
+6011000011,,female,1994,40s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,2020-02-24,,,isolated
+6011000012,,female,1971,20s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,2020-02-25,,,isolated
+6011000013,,male,1992,20s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,2020-02-26,,,isolated
+6011000014,,male,1996,20s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,2020-02-27,,,isolated
+6011000015,,male,1986,30s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,2020-02-27,,,isolated
+6011000016,,female,2002,10s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,2020-02-27,,,isolated
+6011000017,,male,1988,30s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,2020-02-28,,,isolated
+6011000018,,female,1975,40s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,2020-02-27,,,isolated
+6011000019,,male,1993,20s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,2020-02-28,,,isolated
+6011000020,,male,1975,40s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,2020-02-27,,,isolated
+6011000021,,female,1976,40s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,2020-02-27,,,isolated
+6011000022,,female,1997,20s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,2020-02-27,,,isolated
+6011000023,,male,1997,20s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,2020-02-21,2020-02-27,,,isolated
+6011000024,,female,1976,40s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,2020-02-28,,,isolated
+6011000025,,male,1986,30s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,2020-02-25,2020-02-28,,,isolated
+6011000026,,female,1958,60s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,2020-02-20,2020-02-28,,,isolated
+6011000027,,female,1967,50s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,2020-02-26,2020-02-28,,,isolated
+6011000028,,female,1993,20s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,2020-02-19,2020-02-28,,,isolated
+6011000029,,female,2000,20s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,2020-02-21,2020-02-28,,,isolated
+6011000030,,male,1991,20s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,2020-02-19,2020-02-28,,,isolated
+6011000031,,female,1950,70s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,2020-02-21,2020-03-01,,,isolated
 6011000032,,male,1961,50s,Korea,Gyeongsangbuk-do,Andong-si,,Shincheonji Church,,,,,2020-02-28,,,isolated
-6011000033,,male,1995,20s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,2020-02-20,2020-02-28,,,isolated
+6011000033,,male,1995,20s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,2020-02-20,2020-02-28,,,isolated
 6011000034,,female,1995,20s,Korea,Gyeongsangbuk-do,Andong-si,,Shincheonji Church,,,,,2020-02-29,,,isolated
-6011000035,,female,1985,30s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,,2020-02-29,,,isolated
-6011000036,,female,1965,50s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,,2020-03-01,,,isolated
-6011000037,,male,1995,20s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,,2020-02-28,,,isolated
+6011000035,,female,1985,30s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,2020-02-29,,,isolated
+6011000036,,female,1965,50s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,2020-03-01,,,isolated
+6011000037,,male,1995,20s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,2020-02-28,,,isolated
 6011000038,,male,1994,20s,Korea,Gyeongsangbuk-do,Andong-si,,Shincheonji Church,,,,,2020-03-03,,,isolated
 6011000039,,female,1980,40s,Korea,Gyeongsangbuk-do,Andong-si,,Shincheonji Church,,,,,2020-03-05,,,isolated
 6011000040,,female,1956,60s,Korea,Gyeongsangbuk-do,Andong-si,,Shincheonji Church,,,,,2020-03-05,,,isolated
@@ -2866,9 +2919,12 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6011000045,,male,1959,60s,Korea,Gyeongsangbuk-do,Andong-si,,contact with patient,,6011000040,,,2020-03-07,,,isolated
 6011000046,,male,1967,50s,Korea,Gyeongsangbuk-do,Andong-si,,contact with patient,,,,,2020-03-07,,,isolated
 6011000047,,male,1975,50s,Korea,Gyeongsangbuk-do,Andong-si,,contact with patient,,,,,2020-03-08,,,isolated
-6011000048,,female,1967,40s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,,2020-03-21,,,isolated
-6011000049,,female,1967,50s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,,2020-03-24,,,isolated
-6011000050,,male,1950,70s,Korea,Gyeongsangbuk-do,Andong-si,,,,,,2020-04-01,2020-04-04,,,isolated
+6011000048,,female,1967,40s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,2020-03-21,,,isolated
+6011000049,,female,1967,50s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,2020-03-24,,,isolated
+6011000050,,male,1950,70s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,2020-04-01,2020-04-04,,,isolated
+6011000051,,female,1980,40s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,,,,isolated
+6011000052,,female,2011,0s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,,,,,isolated
+6011000053,,female,2001,10s,Korea,Gyeongsangbuk-do,Andong-si,,etc,,,,2020-04-15,,,,isolated
 6012000001,,female,,,Korea,Gyeongsangbuk-do,Yeongdeok-gun,,etc,,,0,,2020-02-29,,,released
 6012000002,,,,,Korea,Gyeongsangbuk-do,Yeongdeok-gun,,etc,,,0,,2020-02-29,,,released
 6013000001,,male,2000,20s,Korea,Gyeongsangbuk-do,Yeongyang-gun,,etc,,,,,2020-02-26,,,isolated
@@ -2891,7 +2947,7 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6015000011,717,female,,40s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,etc,,,,,2020-02-23,2020-03-19,,released
 6015000012,758,male,,50s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,Shincheonji Church,,,,,2020-02-24,2020-03-25,,released
 6015000013,888,male,,20s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,Shincheonji Church,,,,,2020-02-25,2020-03-22,,released
-6015000014,889,female,,60s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,etc,,,,,2020-02-25,,,isolated
+6015000014,889,female,,60s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,etc,,,,,2020-02-25,2020-04-19,,released
 6015000015,890,female,,30s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,contact with patient,,6016000002,,,2020-02-25,2020-03-13,,released
 6015000016,891,female,,50s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,etc,,,,,2020-02-25,2020-03-13,,released
 6015000017,1228,male,,60s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,contact with patient,,6016000007,,,2020-02-26,2020-03-25,,released
@@ -2928,16 +2984,31 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6016000012,,male,2000,20s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000009,,,2020-04-10,,,isolated
 6016000013,,male,2001,10s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000009,,,2020-04-10,,,isolated
 6016000014,,male,2001,10s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000009,,,2020-04-10,,,isolated
-6016000015,,female,1956,60s,Korea,Gyeongsangbuk-do,Yecheon-gun,,,,,,,2020-04-11,,,isolated
-6016000016,,female,1978,40s,Korea,Gyeongsangbuk-do,Yecheon-gun,,,,,,,2020-04-11,,,isolated
-6016000017,,female,2001,10s,Korea,Gyeongsangbuk-do,Yecheon-gun,,,,,,,2020-04-11,,,isolated
-6016000018,,male,1954,60s,Korea,Gyeongsangbuk-do,Yecheon-gun,,,,,,,2020-04-12,,,isolated
-6016000019,,male,2001,10s,Korea,Gyeongsangbuk-do,Yecheon-gun,,,,,,,2020-04-12,,,isolated
-6016000020,,female,1935,80s,Korea,Gyeongsangbuk-do,Yecheon-gun,,,,,,,2020-04-12,,,isolated
-6016000021,,female,1969,50s,Korea,Gyeongsangbuk-do,Yecheon-gun,,,,,,,2020-04-12,,,isolated
-6016000022,,male,1969,50s,Korea,Gyeongsangbuk-do,Yecheon-gun,,,,,,,2020-04-13,,,isolated
-6016000023,,male,2001,10s,Korea,Gyeongsangbuk-do,Yecheon-gun,,,,,,,2020-04-13,,,isolated
-6016000024,,male,1939,80s,Korea,Gyeongsangbuk-do,Yecheon-gun,,,,,,,2020-04-13,,,isolated
+6016000015,,female,1956,60s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000007,,,2020-04-11,,,isolated
+6016000016,,female,1978,40s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000009,,,2020-04-11,,,isolated
+6016000017,,female,2001,10s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000012,,,2020-04-11,,,isolated
+6016000018,,male,1954,60s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000015,,,2020-04-12,,,isolated
+6016000019,,male,2001,10s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000012,,,2020-04-12,,,isolated
+6016000020,,female,1935,80s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000015,,,2020-04-12,,,isolated
+6016000021,,female,1969,50s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000011,,,2020-04-12,,,isolated
+6016000022,,male,1969,50s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000011,,,2020-04-13,,,isolated
+6016000023,,male,2001,10s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000009,,,2020-04-13,,,isolated
+6016000024,,male,1939,80s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000015,,,2020-04-13,,,isolated
+6016000025,,male,1977,40s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000009,,,2020-04-14,,,isolated
+6016000026,,male,2001,10s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000009,,,2020-04-13,,,isolated
+6016000027,,male,2010,10s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000019,,,2020-04-14,,,isolated
+6016000028,,female,1974,40s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000019,,,2020-04-14,,,isolated
+6016000029,,female,2000,20s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000019,,,2020-04-14,,,isolated
+6016000030,,female,2001,10s,Korea,Gyeongsangbuk-do,Yecheon-gun,,,,,,,2020-04-14,,,isolated
+6016000031,,female,1969,50s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000011,,,2020-04-15,,,isolated
+6016000032,,female,2017,0s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000028,,,2020-04-15,,,isolated
+6016000033,,female,1980,40s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000028,,,2020-04-15,,,isolated
+6016000034,,male,2001,10s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000009,,,2020-04-15,,,isolated
+6016000035,,female,1981,30s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000032,,,2020-04-15,,,isolated
+6016000036,,male,2003,10s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000009,,,2020-04-16,,,isolated
+6016000037,,male,2001,10s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000034,,,2020-04-16,,,isolated
+6016000038,,female,2014,0s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000032,,,2020-04-17,,,isolated
+6016000039,,male,2005,10s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000036,,,2020-04-18,,,isolated
 6019000001,,female,1967,50s,Korea,Gyeongsangbuk-do,Uiseong-gun,,,,,,,2020-02-22,,,isolated
 6019000002,,female,1944,70s,Korea,Gyeongsangbuk-do,Uiseong-gun,,,,,,,2020-02-22,,,isolated
 6019000003,,female,1961,50s,Korea,Gyeongsangbuk-do,Uiseong-gun,,,,,,,2020-02-22,,,isolated
@@ -3132,10 +3203,10 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6100000004,,male,2006,10s,Korea,Gyeongsangnam-do,Jinju-si,,Shincheonji Church,,,,,2020-02-21,,,released
 6100000005,,male,1973,40s,Korea,Gyeongsangnam-do,Changwon-si,,contact with patient,,6100000007,,,2020-02-22,2020-03-26,,released
 6100000006,,female,1980,40s,Korea,Gyeongsangnam-do,Hapcheon-gun,,Shincheonji Church,,,,,2020-02-22,,,released
-6100000007,,male,1999,20s,Korea,Gyeongsangnam-do,Changwon-si,,etc,,,,,2020-02-22,2020-03-24,,released
-6100000008,,male,1950,70s,Korea,Gyeongsangnam-do,Yangsan-si,,contact with patient,,1200000031,,,2020-02-22,,,isolated
+6100000007,,male,1999,20s,Korea,Gyeongsangnam-do,Changwon-si,,etc,,,,,2020-02-22,2020-03-24,,isolated
+6100000008,,male,1950,70s,Korea,Gyeongsangnam-do,Yangsan-si,,contact with patient,,1200000031,,,2020-02-22,,,released
 6100000009,,female,1987,30s,Korea,Gyeongsangnam-do,Geoje-si,,overseas inflow,,,,,2020-02-23,2020-03-14,,released
-6100000010,,female,2000,20s,Korea,Gyeongsangnam-do,Changwon-si,,Shincheonji Church,,,,,2020-02-23,,,released
+6100000010,,female,2000,20s,Korea,Gyeongsangnam-do,Changwon-si,,Shincheonji Church,,,,,2020-02-23,2020-03-22,,released
 6100000011,,male,1994,20s,Korea,Gyeongsangnam-do,Hamyang-gun,,contact with patient,,,,,2020-02-23,,,released
 6100000012,,male,1971,40s,Korea,Gyeongsangnam-do,Changwon-si,,contact with patient,,6100000005,,,2020-02-23,2020-04-04,,released
 6100000013,,female,1943,70s,Korea,Gyeongsangnam-do,Goseong-gun,,Shincheonji Church,,,,,2020-02-23,,,released
@@ -3148,10 +3219,10 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6100000020,,female,1955,60s,Korea,Gyeongsangnam-do,Hapcheon-gun,,Shincheonji Church,,,,,2020-02-24,,,released
 6100000021,,male,1948,70s,Korea,Gyeongsangnam-do,Hapcheon-gun,,contact with patient,,6100000015,,,2020-02-24,,,released
 6100000022,,female,1969,50s,Korea,Gyeongsangnam-do,Gimhae-si,,contact with patient,,,,,2020-02-24,2020-03-18,,released
-6100000023,,male,1953,60s,Korea,Gyeongsangnam-do,Changwon-si,,Shincheonji Church,,,,2020-02-18,2020-02-24,,,isolated
+6100000023,,male,1953,60s,Korea,Gyeongsangnam-do,Changwon-si,,Shincheonji Church,,,,2020-02-18,2020-02-24,2020-04-18,,released
 6100000024,,male,1989,30s,Korea,Gyeongsangnam-do,Namhae-gun,,contact with patient,,,,,2020-02-25,,,released
 6100000025,,male,1972,40s,Korea,Gyeongsangnam-do,Changwon-si,,etc,,,,,2020-02-25,2020-03-03,,released
-6100000026,,male,1986,30s,Korea,Gyeongsangnam-do,Changwon-si,,etc,,,,2020-02-22,2020-02-25,,,released
+6100000026,,male,1986,30s,Korea,Gyeongsangnam-do,Changwon-si,,etc,,,,2020-02-22,2020-02-25,2020-03-18,,released
 6100000027,,female,1999,20s,Korea,Gyeongsangnam-do,Geoje-si,,contact with patient,,,,,2020-02-25,2020-03-22,,released
 6100000028,,female,1998,20s,Korea,Gyeongsangnam-do,Changwon-si,,Shincheonji Church,,,,,2020-02-25,2020-03-25,,released
 6100000029,,male,2004,10s,Korea,Gyeongsangnam-do,Changwon-si,,contact with patient,,,,,2020-02-26,2020-03-25,,released
@@ -3213,16 +3284,16 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6100000085,,male,1990,30s,Korea,Gyeongsangnam-do,Changwon-si,,overseas inflow,,,,2020-03-15,2020-03-16,2020-04-08,,released
 6100000086,,male,1966,50s,Korea,Gyeongsangnam-do,Changwon-si,,etc,,,,2020-03-15,2020-03-19,,,isolated
 6100000087,,female,1967,50s,Korea,Gyeongsangnam-do,Changwon-si,,etc,,,,2020-03-16,2020-03-21,,,isolated
-6100000088,,male,1994,20s,Korea,Gyeongsangnam-do,Changwon-si,,etc,,,,2020-03-06,2020-03-22,,,isolated
+6100000088,,male,1994,20s,Korea,Gyeongsangnam-do,Changwon-si,,etc,,,,2020-03-06,2020-03-22,2020-04-19,,released
 6100000089,,male,1960,60s,Korea,Gyeongsangnam-do,Haman-gun,,etc,,6002000035,,2020-03-22,2020-03-23,,,isolated
 6100000090,,male,1980,40s,Korea,Gyeongsangnam-do,Yangsan-si,,overseas inflow,,,,2020-03-25,2020-03-26,,,isolated
 6100000091,,female,1997,20s,Korea,Gyeongsangnam-do,Gimhae-si,,overseas inflow,,,,2020-03-27,2020-03-28,,,isolated
-6100000092,,male,1979,40s,Korea,Gyeongsangnam-do,Changwon-si,,overseas inflow,,,,2020-03-28,2020-03-28,,,isolated
+6100000092,,male,1979,40s,Korea,Gyeongsangnam-do,Changwon-si,,overseas inflow,,,,2020-03-28,2020-03-28,2020-04-15,,released
 6100000093,,female,1967,50s,Korea,Gyeongsangnam-do,Jinju-si,,etc,,,,2020-03-27,2020-03-28,,,isolated
 6100000094,,male,1991,20s,Korea,Gyeongsangnam-do,Gimhae-si,,overseas inflow,,,,2020-03-28,2020-03-29,,,isolated
 6100000095,,male,1962,50s,Korea,Gyeongsangnam-do,Changwon-si,,overseas inflow,,,,2020-03-28,2020-03-20,,,isolated
 6100000096,,male,1957,60s,Korea,Gyeongsangnam-do,Changwon-si,,overseas inflow,,,,2020-03-24,2020-03-31,,,isolated
-6100000097,,female,1960,60s,Korea,Gyeongsangnam-do,Jinju-si,,etc,,,,2020-03-26,2020-03-31,,,isolated
+6100000097,,female,1960,60s,Korea,Gyeongsangnam-do,Jinju-si,,etc,,,,2020-03-26,2020-03-31,,,released
 6100000098,,male,1959,60s,Korea,Gyeongsangnam-do,Jinju-si,,etc,,,,2020-03-28,2020-03-31,,,isolated
 6100000099,,male,1980,40s,Korea,Gyeongsangnam-do,Jinju-si,,etc,,,,2020-03-31,2020-03-31,,,isolated
 6100000100,,female,1959,60s,Korea,Gyeongsangnam-do,Jinju-si,,etc,,,,2020-03-28,2020-03-31,,,isolated
@@ -3233,22 +3304,24 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 6100000105,,male,1996,20s,Korea,Gyeongsangnam-do,Gimhae-si,,overseas inflow,,,,2020-03-31,2020-04-01,,,released
 6100000106,,male,1993,20s,Korea,Gyeongsangnam-do,Sacheon-si,,overseas inflow,,,,2020-04-02,2020-04-02,,,isolated
 6100000107,,female,1961,50s,Korea,Gyeongsangnam-do,Jinju-si,,etc,,,,2020-04-01,2020-04-03,,,isolated
-6100000108,,male,2004,10s,Korea,Gyeongsangnam-do,Sacheon-si,,overseas inflow,,,,2020-03-31,2020-04-04,,,isolated
+6100000108,,male,2004,10s,Korea,Gyeongsangnam-do,Sacheon-si,,overseas inflow,,,,2020-03-31,2020-04-04,,,released
 6100000109,,male,1981,30s,Korea,Gyeongsangnam-do,Changwon-si,,etc,,,,2020-04-01,2020-04-05,,,isolated
 6100000110,,male,2011,0s,Korea,Gyeongsangnam-do,Changwon-si,,etc,,,,2020-04-03,2020-04-05,,,isolated
 6100000111,,male,1999,20s,Korea,Gyeongsangnam-do,Sacheon-si,,contact with patient,,6100000100,,2020-04-04,2020-04-06,,,isolated
 6100000112,,male,1954,60s,Korea,Gyeongsangnam-do,Hapcheon-gun,,contact with patient,,6100000108,,2020-04-03,2020-04-07,,,isolated
 6100000113,,male,1990,30s,Korea,Gyeongsangnam-do,Geoje-si,,overseas inflow,,,,2020-03-29,2020-04-08,,,isolated
 6100000114,,female,2018,0s,Korea,Gyeongsangnam-do,Jinju-si,,overseas inflow,,,,2020-04-01,2020-04-08,,,isolated
+6100000115,,male,1998,20s,Korea,Gyeongsangnam-do,Changwon-si,,etc,,,,2020-04-14,2020-04-16,,,isolated
 7000000001,139,male,1998,20s,Korea,Jeju-do,Jeju-do,,etc,,,87,,2020-02-20,2020-03-23,,released
 7000000002,222,female,1998,20s,Korea,Jeju-do,Jeju-do,,etc,,,84,,2020-02-22,2020-03-07,,released
 7000000003,4345,female,1972,40s,Korea,Jeju-do,etc,,etc,,,21,,2020-03-02,2020-03-15,,released
 7000000004,5534,male,1974,40s,Korea,Jeju-do,Jeju-do,,etc,,,74,,2020-03-04,2020-03-21,,released
 7000000005,9120,female,,20s,Korea,Jeju-do,Jeju-do,,overseas inflow,,,20,,2020-03-24,,,isolated
-7000000006,9087,male,,30s,United States,Jeju-do,Jeju-do,,overseas inflow,,,23,,2020-03-24,,,isolated
-7000000007,9281,female,1996,20s,Korea,Jeju-do,Jeju-do,,overseas inflow,,,26,,2020-03-25,,,isolated
-7000000008,9457,female,,10s,Korea,Jeju-do,Jeju-do,,overseas inflow,,,25,,2020-03-27,,,isolated
+7000000006,9087,male,,30s,United States,Jeju-do,Jeju-do,,overseas inflow,,,23,,2020-03-24,2020-04-17,,released
+7000000007,9281,female,1996,20s,Korea,Jeju-do,Jeju-do,,overseas inflow,,,26,,2020-03-25,2020-04-03,,released
+7000000008,9457,female,,10s,Korea,Jeju-do,Jeju-do,,overseas inflow,,,25,,2020-03-27,2020-04-12,,released
 7000000009,9651,female,,20s,Korea,Jeju-do,Jeju-do,,overseas inflow,,,14,,2020-03-29,,,isolated
 7000000010,,female,,20s,Korea,Jeju-do,Jeju-do,,overseas inflow,,,18,,2020-04-03,,,isolated
-7000000011,,male,,30s,Korea,Jeju-do,Jeju-do,,contact with patient,,7000000009,,,2020-04-03,,,isolated
-7000000012,,female,,20s,Korea,Jeju-do,Jeju-do,,overseas inflow,,,,,2020-04-03,,,isolated
+7000000011,,male,,30s,Korea,Jeju-do,Jeju-do,,contact with patient,,7000000009,5,,2020-04-03,,,isolated
+7000000012,,female,,20s,Korea,Jeju-do,Jeju-do,,overseas inflow,,,9,,2020-04-03,,,isolated
+7000000013,,female,,10s,China,Jeju-do,Jeju-do,,overseas inflow,,,6,,2020-04-14,,,isolated
