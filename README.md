@@ -30,7 +30,7 @@ Thanks sincerely to all the members of KCDC and local governments.
 > 2. To find meaningful patterns by applying various data mining or visualization techniques
 > - **Project Manager (PM)**
 >   - [Jihoo Kim](https://www.kaggle.com/kimjihoo)
->   - [JoongKun Lee](https://github.com/ThisIsIsaac) (absent)
+>   - [JoongKun Lee](https://github.com/ThisIsIsaac)
 > - **Project Leader (PL)**
 >   - [MuHwan Kim](https://github.com/minty99)
 >   - [SeoJin Jang](https://www.kaggle.com/sarah5398)
@@ -47,7 +47,7 @@ Thanks sincerely to all the members of KCDC and local governments.
 >   - [WanSik Choi](https://www.kaggle.com/wansook0316)
 >   - [WonCheol Lee](https://www.kaggle.com/leewoncheol)
 >   - [YouNa Jung](https://www.kaggle.com/younajung)
->   - [DongHwan Jang](https://github.com/DongHwanJang) (absent)
+>   - [DongHwan Jang](https://github.com/DongHwanJang)
 > 
 > **Github Repository**
 > - [Data-Science-for-COVID-19](https://github.com/ThisIsIsaac/Data-Science-for-COVID-19)
