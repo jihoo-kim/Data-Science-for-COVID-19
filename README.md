@@ -19,7 +19,7 @@ Also, we analyze and visualize the data using various data mining or visualizati
 - [[DS4C] Korea, Wonderland? (Fight against COVID-19)](https://www.kaggle.com/kimjihoo/ds4c-korea-wonderland-fight-against-covid-19)  
 
 ## Update
-We update our dataset weekly to ensure accuracy and stability of it.
+We update our dataset monthly to ensure accuracy and stability of it.
 
 ## Acknowledgements
 Thanks sincerely to all the members of KCDC and local governments.  
