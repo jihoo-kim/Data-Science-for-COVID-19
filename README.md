@@ -49,9 +49,6 @@ Thanks sincerely to all the members of KCDC and local governments.
 >   - [YouNa Jung](https://www.kaggle.com/younajung)
 >   - [DongHwan Jang](https://github.com/DongHwanJang)
 > 
-> **Github Repository**
-> - [Data-Science-for-COVID-19](https://github.com/ThisIsIsaac/Data-Science-for-COVID-19)
-> 
 > - **Former Maintainer**
 >   - [JuHwan Park](https://www.kaggle.com/parkjuhwan) (PE)
 >   - [Won Hwang](https://github.com/mangocode96) (PE)
