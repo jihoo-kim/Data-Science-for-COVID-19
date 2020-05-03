@@ -25,35 +25,5 @@ We update our dataset monthly to ensure accuracy and stability of it.
 Thanks sincerely to all the members of KCDC and local governments.  
 **Source of data**: [KCDC](http://www.cdc.go.kr/) (Korea Centers for Disease Control & Prevention)
 
-> **DS4C (Data Science for COVID-19) Project**
-> 1. To reprocess information provided by KCDC and local governments for easy data analysis
-> 2. To find meaningful patterns by applying various data mining or visualization techniques
-> - **Project Manager (PM)**
->   - [Jihoo Kim](https://www.kaggle.com/kimjihoo)
->   - [JoongKun Lee](https://github.com/ThisIsIsaac)
-> - **Project Leader (PL)**
->   - [MuHwan Kim](https://github.com/minty99)
->   - [SeoJin Jang](https://www.kaggle.com/sarah5398)
->   - [SeongHan Ryoo](https://www.kaggle.com/incastle)
->   - [YeonJun In](https://www.kaggle.com/mbnb8317)
->   - [ByeongUk Yu](https://www.kaggle.com/byeongukyu) (absent)
-> - **Project Engineer (PE)**
->   - [BoYoung Song](https://www.kaggle.com/bysong)
->   - [Jimi Kim](https://github.com/kjm0623v)
->   - [KyeongWook Jang](https://www.kaggle.com/jeeudev)
->   - [MinSeok Jung](https://www.kaggle.com/msjung)
->   - [SangWook Park](https://www.kaggle.com/kvmoke)
->   - [TaeHyeong Park](https://www.kaggle.com/asdjfalksjdh)
->   - [WanSik Choi](https://www.kaggle.com/wansook0316)
->   - [WonCheol Lee](https://www.kaggle.com/leewoncheol)
->   - [YouNa Jung](https://www.kaggle.com/younajung)
->   - [DongHwan Jang](https://github.com/DongHwanJang)
-> 
-> - **Former Maintainer**
->   - [JuHwan Park](https://www.kaggle.com/parkjuhwan) (PE)
->   - [Won Hwang](https://github.com/mangocode96) (PE)
-> - **Logo Designer**
->   - [RinChong Kim](http://indesignlab.creatorlink.net)
-
 ## Dataset License
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
