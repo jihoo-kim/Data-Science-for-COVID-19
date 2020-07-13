@@ -4,7 +4,7 @@
 - [Kaggle Data](https://www.kaggle.com/kimjihoo/coronavirusdataset)  
 - [Github Repository](https://github.com/ThisIsIsaac/Data-Science-for-COVID-19)
 
-## Competition using our Dataset
+## Competitions using our Dataset
 - [COVID-19 Visualization & AI Competition](https://dacon.io/competitions/official/235590/overview/)
 - [Post-Corona Data Visualization Competition](https://dacon.io/competitions/official/235618/overview/)
 - [Transport Big Data Online Hackathon](https://dacon.io/competitions/official/235622/overview/)
